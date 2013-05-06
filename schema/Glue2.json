@@ -1,0 +1,246 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Glue2.json",
+  "description": "A GLUE 2 document",
+  "type": "object",
+  "properties": {
+    "Entity": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Entity.json"}]
+      }
+    },
+    "Location": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Location.json"}]
+      }
+    },
+    "Contact": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Contact.json"}]
+      }
+    },
+    "Domain": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Domain.json"}]
+      }
+    },
+    "AdminDomain": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/AdminDomain.json"}]
+      }
+    },
+    "UserDomain": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/UserDomain.json"}]
+      }
+    },
+    "Service": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Service.json"}]
+      }
+    },
+    "Endpoint": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Endpoint.json"}]
+      }
+    },
+    "Share": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Share.json"}]
+      }
+    },
+    "Manager": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Manager.json"}]
+      }
+    },
+    "Resource": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Resource.json"}]
+      }
+    },
+    "Activity": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Activity.json"}]
+      }
+    },
+    "Policy": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Policy.json"}]
+      }
+    },
+    "AccessPolicy": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/AccessPolicy.json"}]
+      }
+    },
+    "MappingPolicy": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/MappingPolicy.json"}]
+      }
+    },
+    "ComputingService": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ComputingService.json"}]
+      }
+    },
+    "ComputingEndpoint": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ComputingEndpoint.json"}]
+      }
+    },
+    "ComputingShare": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ComputingShare.json"}]
+      }
+    },
+    "ComputingManager": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ComputingManager.json"}]
+      }
+    },
+    "Benchmark": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Benchmark.json"}]
+      }
+    },
+    "ExecutionEnvironment": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ExecutionEnvironment.json"}]
+      }
+    },
+    "ApplicationEnvironment": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ApplicationEnvironment.json"}]
+      }
+    },
+    "ApplicationHandle": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ApplicationHandle.json"}]
+      }
+    },
+    "ComputingActivity": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ComputingActivity.json"}]
+      }
+    },
+    "ToStorageService": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ToStorageService.json"}]
+      }
+    },
+    "StorageService": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageService.json"}]
+      }
+    },
+    "StorageServiceCapacity": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageServiceCapacity.json"}]
+      }
+    },
+    "StorageAccessProtocol": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageAccessProtocol.json"}]
+      }
+    },
+    "StorageEndpoint": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageEndpoint.json"}]
+      }
+    },
+    "StorageShare": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageShare.json"}]
+      }
+    },
+    "StorageShareCapacity": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageShareCapacity.json"}]
+      }
+    },
+    "StorageManager": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/StorageManager.json"}]
+      }
+    },
+    "DataStore": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/DataStore.json"}]
+      }
+    },
+    "ToComputingService": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ToComputingService.json"}]
+      }
+    }
+  }
+}

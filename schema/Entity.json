@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Entity.json",
+  "type": "object",
+  "properties": {
+    "CreationTime": {
+      "type": "string",
+      "description": "The creation time of this entity in the format: CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm]"
+    },
+    "Validity": {
+      "type": "integer",
+      "description": "The number of seconds after CreationTime that this entity should be considered relevant"
+    },
+    "ID": {
+      "type": "string",
+      "description": "A globally unique identifier for this entity"
+    },
+    "Name": {
+      "type": "string",
+      "description": "A human-readable name"
+    }
+  },
+  "required": ["ID"]
+}

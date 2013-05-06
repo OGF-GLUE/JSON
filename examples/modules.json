@@ -1,0 +1,2855 @@
+{
+  "ApplicationEnvironment": [
+    {
+      "AppName": "raxml-light", 
+      "AppVersion": "1.0.9", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Light Weight Maximum Likelihood Tree Inference Tool", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.0.9.raxml-light.stampede.tacc.xsede.org", 
+      "Name": "raxml-light-1.0.9", 
+      "Repository": " http://wwwkramer.in.tum.de/exelixis/software.html"
+    }, 
+    {
+      "AppName": "meep", 
+      "AppVersion": "1.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Meep is a free finite-difference time-domain simulation software package", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.2.meep.stampede.tacc.xsede.org", 
+      "Name": "meep-1.2", 
+      "Repository": "http://ab-initio.mit.edu/wiki/index.php/Meep"
+    }, 
+    {
+      "AppName": "raxml", 
+      "AppVersion": "7.2.8", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Maximum Likelihood Tree Inference Tool", 
+      "ID": "urn:glue2:ApplicationEnvironment:7.2.8.raxml.stampede.tacc.xsede.org", 
+      "Name": "raxml-7.2.8", 
+      "Repository": " http://wwwkramer.in.tum.de/exelixis/software.html"
+    }, 
+    {
+      "AppName": "fftw3", 
+      "AppVersion": "3.3.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library, contains discrete Fourier transformation", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3.2.fftw3.stampede.tacc.xsede.org", 
+      "Name": "fftw3-3.3.2", 
+      "Repository": "http://www.fftw.org"
+    }, 
+    {
+      "AppName": "pdtoolkit", 
+      "AppVersion": "3.18.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Instruments code for TAU profiling and tracing", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.18.1.pdtoolkit.stampede.tacc.xsede.org", 
+      "Name": "pdtoolkit-3.18.1", 
+      "Repository": "http://www.cs.uoregon.edu/research/tau/home.php"
+    }, 
+    {
+      "AppName": "sprng", 
+      "AppVersion": "4.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library, parallel random number generation", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.0.sprng.stampede.tacc.xsede.org", 
+      "Name": "sprng-4.0", 
+      "Repository": "http://sprng.cs.fsu.edu/"
+    }, 
+    {
+      "AppName": "siesta", 
+      "AppVersion": "3.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Spanish Initiative for Electronic Simulations with Thousands of Atoms", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.2.siesta.stampede.tacc.xsede.org", 
+      "Name": "siesta-3.2", 
+      "Repository": "http://www.icmab.es/siesta/"
+    }, 
+    {
+      "AppName": "gamess", 
+      "AppVersion": "05_2012", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "General ab initio quantum chemistry package", 
+      "ID": "urn:glue2:ApplicationEnvironment:05_2012.gamess.stampede.tacc.xsede.org", 
+      "Name": "gamess-05_2012", 
+      "Repository": "http://www.msg.ameslab.gov/GAMESS/"
+    }, 
+    {
+      "AppName": "hypre", 
+      "AppVersion": "2.9.1a-SmallScale", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of scalable solvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.9.1a-SmallScale.hypre.stampede.tacc.xsede.org", 
+      "Name": "hypre-2.9.1a-SmallScale", 
+      "Repository": "https://computation.llnl.gov/casc/linear_solvers/sls_hypre.html"
+    }, 
+    {
+      "AppName": "hypre", 
+      "AppVersion": "2.9.1a-LargeScale", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of scalable solvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.9.1a-LargeScale.hypre.stampede.tacc.xsede.org", 
+      "Name": "hypre-2.9.1a-LargeScale", 
+      "Repository": "https://computation.llnl.gov/casc/linear_solvers/sls_hypre.html"
+    }, 
+    {
+      "AppName": "gromacs", 
+      "AppVersion": "4.6.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "molecular dynamics simulation package", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.6.1.gromacs.stampede.tacc.xsede.org", 
+      "Name": "gromacs-4.6.1", 
+      "Repository": "http://www.gromacs.org"
+    }, 
+    {
+      "AppName": "gromacs", 
+      "AppVersion": "4.5.5", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "molecular dynamics simulation package", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.5.5.gromacs.stampede.tacc.xsede.org", 
+      "Name": "gromacs-4.5.5", 
+      "Repository": "http://www.gromacs.org"
+    }, 
+    {
+      "AppName": "pmetis", 
+      "AppVersion": "4.0.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Parallel graph partitioning and fill-reduction matrix ordering routines", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.0.2.pmetis.stampede.tacc.xsede.org", 
+      "Name": "pmetis-4.0.2", 
+      "Repository": "http://glaros.dtc.umn.edu/gkhome/views/metis"
+    }, 
+    {
+      "AppName": "pmetis", 
+      "AppVersion": "3.2.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Parallel graph partitioning and fill-reduction matrix ordering routines", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.2.0.pmetis.stampede.tacc.xsede.org", 
+      "Name": "pmetis-3.2.0", 
+      "Repository": "http://glaros.dtc.umn.edu/gkhome/views/metis"
+    }, 
+    {
+      "AppName": "mpi4py", 
+      "AppVersion": "1.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "MPI for Python", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.3.mpi4py.stampede.tacc.xsede.org", 
+      "Name": "mpi4py-1.3", 
+      "Repository": "http://www.mpi4pi.googlecode.com"
+    }, 
+    {
+      "AppName": "visit", 
+      "AppVersion": "2.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "a parallel visualization suite based in part on VTK", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.6.visit.stampede.tacc.xsede.org", 
+      "Name": "visit-2.6", 
+      "Repository": "https://wci.llnl.gov/codes/visit/"
+    }, 
+    {
+      "AppName": "tau", 
+      "AppVersion": "2.22.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Framework for Application profiling and optimization", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.22.1.tau.stampede.tacc.xsede.org", 
+      "Name": "tau-2.22.1", 
+      "Repository": "http://www.cs.uoregon.edu/research/tau/home.php"
+    }, 
+    {
+      "AppName": "slepc", 
+      "AppVersion": "3.3-cxx", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of eigensolvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-cxx.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-cxx", 
+      "Repository": "http://www.grycap.upv.es/slepc/"
+    }, 
+    {
+      "AppName": "slepc", 
+      "AppVersion": "3.3-debug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of eigensolvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-debug.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-debug", 
+      "Repository": "http://www.grycap.upv.es/slepc/"
+    }, 
+    {
+      "AppName": "slepc", 
+      "AppVersion": "3.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of eigensolvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3", 
+      "Repository": "http://www.grycap.upv.es/slepc/"
+    }, 
+    {
+      "AppName": "slepc", 
+      "AppVersion": "3.3-cxxdebug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of eigensolvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-cxxdebug.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-cxxdebug", 
+      "Repository": "http://www.grycap.upv.es/slepc/"
+    }, 
+    {
+      "AppName": "slepc", 
+      "AppVersion": "3.3-complex", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of eigensolvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-complex.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-complex", 
+      "Repository": "http://www.grycap.upv.es/slepc/"
+    }, 
+    {
+      "AppName": "slepc", 
+      "AppVersion": "3.3-complexdebug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library of eigensolvers", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-complexdebug.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-complexdebug", 
+      "Repository": "http://www.grycap.upv.es/slepc/"
+    }, 
+    {
+      "AppName": "trilinos", 
+      "AppVersion": "10.12.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "A suite of numerical algorithms from Sandia Natl. Labs", 
+      "ID": "urn:glue2:ApplicationEnvironment:10.12.2.trilinos.stampede.tacc.xsede.org", 
+      "Name": "trilinos-10.12.2", 
+      "Repository": "http://trilinos.sandia.gov/"
+    }, 
+    {
+      "AppName": "mpiP", 
+      "AppVersion": "3.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Lightweight, Scalable MPI Profiling", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3.mpiP.stampede.tacc.xsede.org", 
+      "Name": "mpiP-3.3", 
+      "Repository": "http://mpip.sourceforge.net"
+    }, 
+    {
+      "AppName": "paraview", 
+      "AppVersion": "3.98.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "a parallel interactive visualization system", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.98.0.paraview.stampede.tacc.xsede.org", 
+      "Name": "paraview-3.98.0", 
+      "Repository": "http://www.kitware.com/"
+    }, 
+    {
+      "AppName": "mpiblast", 
+      "AppVersion": "1.6.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "mpiBLAST is a freely available, open-source, parallel implementation of NCBI BLAST.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.6.0.mpiblast.stampede.tacc.xsede.org", 
+      "Name": "mpiblast-1.6.0", 
+      "Repository": "http://www.mpiblast.org/"
+    }, 
+    {
+      "AppName": "namd", 
+      "AppVersion": "2.9", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Scalable Molecular Dynamics software", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.9.namd.stampede.tacc.xsede.org", 
+      "Name": "namd-2.9", 
+      "Repository": "http://www.ks.uiuc.edu/Research/namd/"
+    }, 
+    {
+      "AppName": "fftw2", 
+      "AppVersion": "2.1.5", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library, contains discrete Fourier transformation", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.1.5.fftw2.stampede.tacc.xsede.org", 
+      "Name": "fftw2-2.1.5", 
+      "Repository": "http://www.fftw.org"
+    }, 
+    {
+      "AppName": "espresso", 
+      "AppVersion": "5.0.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "integrated suite of computer codes for electronic structure calculations and material modeling at the nanoscale.", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.0.3.espresso.stampede.tacc.xsede.org", 
+      "Name": "espresso-5.0.3", 
+      "Repository": "http://www.quantum-espresso.org"
+    }, 
+    {
+      "AppName": "lammps", 
+      "AppVersion": "10Dec12", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Molecular Dynamics Chemistry Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:10Dec12.lammps.stampede.tacc.xsede.org", 
+      "Name": "lammps-10Dec12", 
+      "Repository": " http://lammps.sandia.gov/index.html"
+    }, 
+    {
+      "AppName": "gulp", 
+      "AppVersion": "4.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Gulp - A lattice dynamics program", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.0.gulp.stampede.tacc.xsede.org", 
+      "Name": "gulp-4.0", 
+      "Repository": "https://www.ivec.org/gulp"
+    }, 
+    {
+      "AppName": "phdf5", 
+      "AppVersion": "1.8.9", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "General purpose library and file format for storing scientific data (Parallel Version).", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.8.9.phdf5.stampede.tacc.xsede.org", 
+      "Name": "phdf5-1.8.9", 
+      "Repository": "http://www.hdfgroup.org/HDF5/"
+    }, 
+    {
+      "AppName": "hmmer", 
+      "AppVersion": "3.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "HMMER biosequence analysis using profile hidden Markov models", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.0.hmmer.stampede.tacc.xsede.org", 
+      "Name": "hmmer-3.0", 
+      "Repository": "http://hmmer.janelia.org/"
+    }, 
+    {
+      "AppName": "vasp", 
+      "AppVersion": "5.3.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Vienna Ab-Initio Simulation Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.3.2.vasp.stampede.tacc.xsede.org", 
+      "Name": "vasp-5.3.2"
+    }, 
+    {
+      "AppName": "vasp", 
+      "AppVersion": "4.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Vienna Ab-Initio Simulation Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.6.vasp.stampede.tacc.xsede.org", 
+      "Name": "vasp-4.6"
+    }, 
+    {
+      "AppName": "vasp", 
+      "AppVersion": "5.3.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Vienna Ab-Initio Simulation Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.3.3.vasp.stampede.tacc.xsede.org", 
+      "Name": "vasp-5.3.3"
+    }, 
+    {
+      "AppName": "mrbayes_mpi", 
+      "AppVersion": "3.2.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Tool for Bayesian inference of phylogeny", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.2.1.mrbayes_mpi.stampede.tacc.xsede.org", 
+      "Name": "mrbayes_mpi-3.2.1", 
+      "Repository": " http://mrbayes.sourceforge.net/"
+    }, 
+    {
+      "AppName": "amber", 
+      "AppVersion": "12.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Molecular Modeling Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:12.0.amber.stampede.tacc.xsede.org", 
+      "Name": "amber-12.0", 
+      "Repository": "http://amber.scripps.edu/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-cxxdebug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-cxxdebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxxdebug", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-complex", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-complex.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-complex", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-unidebug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-unidebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-unidebug", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-debug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-debug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-debug", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-cxxcomplex", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-cxxcomplex.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxxcomplex", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-cxx", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-cxx.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxx", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-uni", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-uni.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-uni", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-cxxcomplexdebug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-cxxcomplexdebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxxcomplexdebug", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "petsc", 
+      "AppVersion": "3.3-complexdebug", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Numerical library for sparse linear algebra", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.3-complexdebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-complexdebug", 
+      "Repository": "http://www-unix.mcs.anl.gov/petsc/petsc-as/"
+    }, 
+    {
+      "AppName": "udunits", 
+      "AppVersion": "2.1.24", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.1.24.udunits.stampede.tacc.xsede.org", 
+      "Name": "udunits-2.1.24", 
+      "Repository": "http://www.unidata.ucar.edu/software/udunits/"
+    }, 
+    {
+      "AppName": "parsimonator", 
+      "AppVersion": "1.0.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Parsimony Tree Creation Tool", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.0.2.parsimonator.stampede.tacc.xsede.org", 
+      "Name": "parsimonator-1.0.2", 
+      "Repository": " http://wwwkramer.in.tum.de/exelixis/software.html"
+    }, 
+    {
+      "AppName": "mvapich2", 
+      "AppVersion": "1.9rc1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "MPI-2 implementation for Infiniband", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.9rc1.mvapich2.stampede.tacc.xsede.org", 
+      "Name": "mvapich2-1.9rc1", 
+      "Repository": "http://mvapich.cse.ohio-state.edu/overview/mvapich2/"
+    }, 
+    {
+      "AppName": "mvapich2", 
+      "AppVersion": "1.9a2-dbg", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "MPI-2 implementation for Infiniband", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.9a2-dbg.mvapich2.stampede.tacc.xsede.org", 
+      "Name": "mvapich2-1.9a2-dbg", 
+      "Repository": "http://mvapich.cse.ohio-state.edu/overview/mvapich2/"
+    }, 
+    {
+      "AppName": "mvapich2", 
+      "AppVersion": "1.9a2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "MPI-2 implementation for Infiniband", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.9a2.mvapich2.stampede.tacc.xsede.org", 
+      "Name": "mvapich2-1.9a2", 
+      "Repository": "http://mvapich.cse.ohio-state.edu/overview/mvapich2/"
+    }, 
+    {
+      "AppName": "hdf5", 
+      "AppVersion": "1.8.9", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "General purpose library and file format for storing scientific data (Serial Version).", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.8.9.hdf5.stampede.tacc.xsede.org", 
+      "Name": "hdf5-1.8.9", 
+      "Repository": "http://www.hdfgroup.org/HDF5/"
+    }, 
+    {
+      "AppName": "mrbayes", 
+      "AppVersion": "3.2.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Tool for Bayesian inference of phylogeny", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.2.1.mrbayes.stampede.tacc.xsede.org", 
+      "Name": "mrbayes-3.2.1", 
+      "Repository": " http://mrbayes.sourceforge.net/"
+    }, 
+    {
+      "AppName": "gsl", 
+      "AppVersion": "1.15", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "provides wide range of mathematical routines such as random number generators, special functions and least-squares fitting.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.15.gsl.stampede.tacc.xsede.org", 
+      "Name": "gsl-1.15", 
+      "Repository": "http://www.gnu.org/software/gsl/"
+    }, 
+    {
+      "AppName": "boost", 
+      "AppVersion": "1.51.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Boost provides free peer-reviewed portable C++ source libraries.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.51.0.boost.stampede.tacc.xsede.org", 
+      "Name": "boost-1.51.0", 
+      "Repository": "http://www.boost.org"
+    }, 
+    {
+      "AppName": "phylip", 
+      "AppVersion": "3.69", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Tool for inferring phylogenies", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.69.phylip.stampede.tacc.xsede.org", 
+      "Name": "phylip-3.69", 
+      "Repository": " http://evolution.gs.washington.edu/phylip/"
+    }, 
+    {
+      "AppName": "metis", 
+      "AppVersion": "5.0.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Serial graph partitioning and fill-reduction matrix ordering routines", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.0.2.metis.stampede.tacc.xsede.org", 
+      "Name": "metis-5.0.2", 
+      "Repository": "http://glaros.dtc.umn.edu/gkhome/views/metis"
+    }, 
+    {
+      "AppName": "metis", 
+      "AppVersion": "4.0.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Serial graph partitioning and fill-reduction matrix ordering routines", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.0.3.metis.stampede.tacc.xsede.org", 
+      "Name": "metis-4.0.3", 
+      "Repository": "http://glaros.dtc.umn.edu/gkhome/views/metis"
+    }, 
+    {
+      "AppName": "upc", 
+      "AppVersion": "2.16.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Berkeley Unified Parallel C", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.16.0.upc.stampede.tacc.xsede.org", 
+      "Name": "upc-2.16.0", 
+      "Repository": "http://upc.lbl.gov/"
+    }, 
+    {
+      "AppName": "grvy", 
+      "AppVersion": "0.32.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "A library for C/C++/F90 housing various support functions used in high-performance, scientific applications (e.g. flexible input parsing, performance timing, priority-based logging, floating-point checks, I/O utils).", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.32.0.grvy.stampede.tacc.xsede.org", 
+      "Name": "grvy-0.32.0", 
+      "Repository": "https://red.ices.utexas.edu/projects/software/wiki/GRVY"
+    }, 
+    {
+      "AppName": "netcdf", 
+      "AppVersion": "4.2.1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.2.1.1.netcdf.stampede.tacc.xsede.org", 
+      "Name": "netcdf-4.2.1.1", 
+      "Repository": "http://www.unidata.ucar.edu/software/netcdf/"
+    }, 
+    {
+      "AppName": "netcdf", 
+      "AppVersion": "3.6.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.6.3.netcdf.stampede.tacc.xsede.org", 
+      "Name": "netcdf-3.6.3", 
+      "Repository": "http://www.unidata.ucar.edu/software/netcdf/"
+    }, 
+    {
+      "AppName": "netcdf", 
+      "AppVersion": "4.1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.1.1.netcdf.stampede.tacc.xsede.org", 
+      "Name": "netcdf-4.1.1", 
+      "Repository": "http://www.unidata.ucar.edu/software/netcdf/"
+    }, 
+    {
+      "AppName": "freeglut", 
+      "AppVersion": "2.8.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "freeglut graphics library", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.8.0.freeglut.stampede.tacc.xsede.org", 
+      "Name": "freeglut-2.8.0"
+    }, 
+    {
+      "AppName": "clustalw2", 
+      "AppVersion": "2.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Tool for multiple sequence alignment", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.1.clustalw2.stampede.tacc.xsede.org", 
+      "Name": "clustalw2-2.1", 
+      "Repository": " http://www.clustal.org/"
+    }, 
+    {
+      "AppName": "quicktree", 
+      "AppVersion": "1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Neighbor joining code to build trees ", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.1.quicktree.stampede.tacc.xsede.org", 
+      "Name": "quicktree-1.1", 
+      "Repository": " http://www.sanger.ac.uk/resources/software/quicktree/"
+    }, 
+    {
+      "AppName": "ncview", 
+      "AppVersion": "2.1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Visualization program for NetCDF files", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.1.1.ncview.stampede.tacc.xsede.org", 
+      "Name": "ncview-2.1.1", 
+      "Repository": "http://meteora.ucsd.edu/~pierce/ncview_home_page.html"
+    }, 
+    {
+      "AppName": "nco", 
+      "AppVersion": "4.3.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Programs for manipulating and analyzing NetCDF files", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.3.0.nco.stampede.tacc.xsede.org", 
+      "Name": "nco-4.3.0", 
+      "Repository": "http://nco.sourceforge.net"
+    }, 
+    {
+      "AppName": "impi", 
+      "AppVersion": "4.1.0.030", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Intel MPI Library (C/C++/Fortran for x86_64)", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.1.0.030.impi.stampede.tacc.xsede.org", 
+      "Name": "impi-4.1.0.030", 
+      "Repository": "http://software.intel.com/en-us/articles/intel-mpi-library/"
+    }, 
+    {
+      "AppName": "impi", 
+      "AppVersion": "4.1.0.024", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Intel MPI Library (C/C++/Fortran for x86_64)", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.1.0.024.impi.stampede.tacc.xsede.org", 
+      "Name": "impi-4.1.0.024", 
+      "Repository": "http://software.intel.com/en-us/articles/intel-mpi-library/"
+    }, 
+    {
+      "AppName": "tginfo", 
+      "AppVersion": "1.1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid Usage utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.1.1.tginfo.stampede.tacc.xsede.org", 
+      "Name": "tginfo-1.1.1", 
+      "Repository": "http://software.teragrid.org/install.htm"
+    }, 
+    {
+      "AppName": "uberftp", 
+      "AppVersion": "2.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid Uberftp utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.6.uberftp.stampede.tacc.xsede.org", 
+      "Name": "uberftp-2.6", 
+      "Repository": "http://dims.ncsa.uiuc.edu/set/uberftp/install.html"
+    }, 
+    {
+      "AppName": "tgresid", 
+      "AppVersion": "2.3.4", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid Resid utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.3.4.tgresid.stampede.tacc.xsede.org", 
+      "Name": "tgresid-2.3.4", 
+      "Repository": "http://software.xsede.org/install.htm"
+    }, 
+    {
+      "AppName": "apache-ant", 
+      "AppVersion": "1.6.5", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid Apache-Ant utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.6.5.apache-ant.stampede.tacc.xsede.org", 
+      "Name": "apache-ant-1.6.5", 
+      "Repository": "http://software.xsede.org/install.htm"
+    }, 
+    {
+      "AppName": "globus", 
+      "AppVersion": "5.0.4", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Globus Software Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.0.4.globus.stampede.tacc.xsede.org", 
+      "Name": "globus-5.0.4", 
+      "Repository": "http://www.globus.org/toolkit"
+    }, 
+    {
+      "AppName": "globus", 
+      "AppVersion": "5.2.4", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Globus Software Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.2.4.globus.stampede.tacc.xsede.org", 
+      "Name": "globus-5.2.4", 
+      "Repository": "http://www.globus.org/toolkit"
+    }, 
+    {
+      "AppName": "globus", 
+      "AppVersion": "5.2.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Globus Software Package", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.2.3.globus.stampede.tacc.xsede.org", 
+      "Name": "globus-5.2.3", 
+      "Repository": "http://www.globus.org/toolkit"
+    }, 
+    {
+      "AppName": "gx-map", 
+      "AppVersion": "0.5.3.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid GX-Map utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.5.3.3.gx-map.stampede.tacc.xsede.org", 
+      "Name": "gx-map-0.5.3.3", 
+      "Repository": "http://software.teragrid.org/install.htm"
+    }, 
+    {
+      "AppName": "tgproxy", 
+      "AppVersion": "0.9.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid Proxy utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.9.1.tgproxy.stampede.tacc.xsede.org", 
+      "Name": "tgproxy-0.9.1", 
+      "Repository": "http://software.teragrid.org/install.htm"
+    }, 
+    {
+      "AppName": "xdusage", 
+      "AppVersion": "1.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "XSede Usage utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.0.xdusage.stampede.tacc.xsede.org", 
+      "Name": "xdusage-1.0", 
+      "Repository": "http://software.teragrid.org/install.htm"
+    }, 
+    {
+      "AppName": "pacman", 
+      "AppVersion": "3.29", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TeraGrid Pacman utility", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.29.pacman.stampede.tacc.xsede.org", 
+      "Name": "pacman-3.29", 
+      "Repository": "http://software.teragrid.org/install.htm"
+    }, 
+    {
+      "AppName": "jdk32", 
+      "AppVersion": "1.7.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Java", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.7.0.jdk32.stampede.tacc.xsede.org", 
+      "Name": "jdk32-1.7.0", 
+      "Repository": "http://java.sun.com"
+    }, 
+    {
+      "AppName": "soap", 
+      "AppVersion": "1.05", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "ssake - a genomics application for assembling millions of very short DNA sequences", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.05.soap.stampede.tacc.xsede.org", 
+      "Name": "soap-1.05", 
+      "Repository": "http://soap.genomics.org.cn/soapdenovo.html"
+    }, 
+    {
+      "AppName": "cuda", 
+      "AppVersion": "5.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "NVIDIA CUDA Toolkit for Linux", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.0.cuda.stampede.tacc.xsede.org", 
+      "Name": "cuda-5.0", 
+      "Repository": "http://www.nvidia.com/object/cuda_get.html"
+    }, 
+    {
+      "AppName": "sratoolkit", 
+      "AppVersion": "2.1.16", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for using data in the INSDC Sequence Read Archives.", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.1.16.sratoolkit.stampede.tacc.xsede.org", 
+      "Name": "sratoolkit-2.1.16", 
+      "Repository": "http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software"
+    }, 
+    {
+      "AppName": "tabix", 
+      "AppVersion": "0.2.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Indexes a tab-delimited genome position file in.tab.bgz and creates an index file.", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.2.6.tabix.stampede.tacc.xsede.org", 
+      "Name": "tabix-0.2.6", 
+      "Repository": "http://samtools.sourceforge.net/"
+    }, 
+    {
+      "AppName": "h5utils", 
+      "AppVersion": "1.12.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "contains several programs to post-process HDF54 data.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.12.1.h5utils.stampede.tacc.xsede.org", 
+      "Name": "h5utils-1.12.1"
+    }, 
+    {
+      "AppName": "scythe", 
+      "AppVersion": "0.95", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "A very simple 3' adapter trimmer", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.95.scythe.stampede.tacc.xsede.org", 
+      "Name": "scythe-0.95", 
+      "Repository": "https://github.com/ucdavis-bioinformatics/scythe"
+    }, 
+    {
+      "AppName": "valgrind", 
+      "AppVersion": "3.8.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Dynamic memory testing and debugging tools", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.8.1.valgrind.stampede.tacc.xsede.org", 
+      "Name": "valgrind-3.8.1", 
+      "Repository": "http://valgrind.org"
+    }, 
+    {
+      "AppName": "sabre", 
+      "AppVersion": "1.00", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "barcode demultiplexing and trimming tool for FastQ files", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.00.sabre.stampede.tacc.xsede.org", 
+      "Name": "sabre-1.00", 
+      "Repository": "https://github.com/ucdavis-bioinformatics/sabre"
+    }, 
+    {
+      "AppName": "python", 
+      "AppVersion": "2.7.3-epd-7.3.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "interpreted programming language", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.7.3-epd-7.3.2.python.stampede.tacc.xsede.org", 
+      "Name": "python-2.7.3-epd-7.3.2", 
+      "Repository": "http://www.python.org"
+    }, 
+    {
+      "AppName": "spider", 
+      "AppVersion": "21.01", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "spider - an image processing system for electron microscopy", 
+      "ID": "urn:glue2:ApplicationEnvironment:21.01.spider.stampede.tacc.xsede.org", 
+      "Name": "spider-21.01", 
+      "Repository": "http://www.wadsworth.org/spider_doc/spider/docs/spider.html"
+    }, 
+    {
+      "AppName": "mummer", 
+      "AppVersion": "3.23", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "MUMmer - A modular system for the rapid whole genome alignment of finished or draft sequence", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.23.mummer.stampede.tacc.xsede.org", 
+      "Name": "mummer-3.23", 
+      "Repository": "http://mummer.sourceforge.net/"
+    }, 
+    {
+      "AppName": "minimac", 
+      "AppVersion": "20121116", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Low-memory Markov Chain-based haplotyper", 
+      "ID": "urn:glue2:ApplicationEnvironment:20121116.minimac.stampede.tacc.xsede.org", 
+      "Name": "minimac-20121116", 
+      "Repository": "http://genome.sph.umich.edu/wiki/Minimac"
+    }, 
+    {
+      "AppName": "sickle", 
+      "AppVersion": "1.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "A windowed adaptive trimming tool for FASTQ files using quality", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.2.sickle.stampede.tacc.xsede.org", 
+      "Name": "sickle-1.2", 
+      "Repository": "https://github.com/ucdavis-bioinformatics/sickle"
+    }, 
+    {
+      "AppName": "bedtools", 
+      "AppVersion": "2.17.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "bedtools: a flexible suite of utilities for comparing genomic features", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.17.0.bedtools.stampede.tacc.xsede.org", 
+      "Name": "bedtools-2.17.0", 
+      "Repository": "http://code.google.com/p/bedtools/"
+    }, 
+    {
+      "AppName": "allpathslg", 
+      "AppVersion": "45166", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "ALLPATHS-LG - Broad Institute assembler for complex eukaryote genomes", 
+      "ID": "urn:glue2:ApplicationEnvironment:45166.allpathslg.stampede.tacc.xsede.org", 
+      "Name": "allpathslg-45166", 
+      "Repository": "http://www.broadinstitute.org/software/allpaths-lg/"
+    }, 
+    {
+      "AppName": "perl", 
+      "AppVersion": "5.16.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Perl", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.16.2.perl.stampede.tacc.xsede.org", 
+      "Name": "perl-5.16.2", 
+      "Repository": "http://perl.org"
+    }, 
+    {
+      "AppName": "matlab", 
+      "AppVersion": "2013a", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Matlab 2013a from MathWorks", 
+      "ID": "urn:glue2:ApplicationEnvironment:2013a.matlab.stampede.tacc.xsede.org", 
+      "Name": "matlab-2013a", 
+      "Repository": "http://www.mathworks.com/"
+    }, 
+    {
+      "AppName": "bwa", 
+      "AppVersion": "0.6.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "bwa - Burrows-Wheeler Alignment Tool", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.6.2.bwa.stampede.tacc.xsede.org", 
+      "Name": "bwa-0.6.2", 
+      "Repository": "http://bio-bwa.sourceforge.net/"
+    }, 
+    {
+      "AppName": "perfexpert", 
+      "AppVersion": "3.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Performance Bottleneck Remediation Tool", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.1.perfexpert.stampede.tacc.xsede.org", 
+      "Name": "perfexpert-3.1", 
+      "Repository": "http://www.tacc.utexas.edu/perfexpert/"
+    }, 
+    {
+      "AppName": "blat", 
+      "AppVersion": "35", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "BLAST like alignment tool", 
+      "ID": "urn:glue2:ApplicationEnvironment:35.blat.stampede.tacc.xsede.org", 
+      "Name": "blat-35", 
+      "Repository": "http://users.soe.ucsc.edu/~kent/src/"
+    }, 
+    {
+      "AppName": "intel", 
+      "AppVersion": "13.0.2.146", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Intel Compiler Family (C/C++/Fortran for x86_64)", 
+      "ID": "urn:glue2:ApplicationEnvironment:13.0.2.146.intel.stampede.tacc.xsede.org", 
+      "Name": "intel-13.0.2.146", 
+      "Repository": "http://software.intel.com/en-us/articles/intel-compilers/"
+    }, 
+    {
+      "AppName": "intel", 
+      "AppVersion": "13.0.079", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Intel Compiler Family (C/C++/Fortran for x86_64)", 
+      "ID": "urn:glue2:ApplicationEnvironment:13.0.079.intel.stampede.tacc.xsede.org", 
+      "Name": "intel-13.0.079", 
+      "Repository": "http://software.intel.com/en-us/articles/intel-compilers/"
+    }, 
+    {
+      "AppName": "intel", 
+      "AppVersion": "13.0.1.117", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Intel Compiler Family (C/C++/Fortran for x86_64)", 
+      "ID": "urn:glue2:ApplicationEnvironment:13.0.1.117.intel.stampede.tacc.xsede.org", 
+      "Name": "intel-13.0.1.117", 
+      "Repository": "http://software.intel.com/en-us/articles/intel-compilers/"
+    }, 
+    {
+      "AppName": "ncl_ncarg", 
+      "AppVersion": "6.1.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "A library of graphics utilites from the Natl. Center for Atmospheric Research.", 
+      "ID": "urn:glue2:ApplicationEnvironment:6.1.2.ncl_ncarg.stampede.tacc.xsede.org", 
+      "Name": "ncl_ncarg-6.1.2", 
+      "Repository": "http://ngwww.ucar.edu/"
+    }, 
+    {
+      "AppName": "mach", 
+      "AppVersion": "1.0.18", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Markov Chain based haplotyper", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.0.18.mach.stampede.tacc.xsede.org", 
+      "Name": "mach-1.0.18", 
+      "Repository": "http://www.sph.umich.edu/csg/abecasis/MACH"
+    }, 
+    {
+      "AppName": "autodock_vina", 
+      "AppVersion": "1.1.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Open-source program for drug discovery, molecular docking and virtual screening, offering multi-core capability, high performance and enhanced accuracy and ease of use.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.1.2.autodock_vina.stampede.tacc.xsede.org", 
+      "Name": "autodock_vina-1.1.2", 
+      "Repository": "http://vina.scripps.edu/"
+    }, 
+    {
+      "AppName": "cufflinks", 
+      "AppVersion": "2.0.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "cufflinks - Transcript assembly, differential expression, and differential regulation for RNA-Seq", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.0.2.cufflinks.stampede.tacc.xsede.org", 
+      "Name": "cufflinks-2.0.2", 
+      "Repository": "http://cufflinks.cbcb.umd.edu/"
+    }, 
+    {
+      "AppName": "express", 
+      "AppVersion": "1.3.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "express - Streaming quantification for high-throughput sequencing", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.3.0.express.stampede.tacc.xsede.org", 
+      "Name": "express-1.3.0", 
+      "Repository": "http://bio.math.berkeley.edu/eXpress/"
+    }, 
+    {
+      "AppName": "fastqc", 
+      "AppVersion": "0.10.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "fastqc - A Quality Control application for FastQ files", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.10.1.fastqc.stampede.tacc.xsede.org", 
+      "Name": "fastqc-0.10.1", 
+      "Repository": "http://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
+    }, 
+    {
+      "AppName": "newbler", 
+      "AppVersion": "2.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Newbler is a software package for de novo DNA sequence assembly. It is designed specifically for assembling sequence data generated by the 454 GS-series of pyrosequencing platforms sold by 454 Life Sciences, a Roche Diagnostics company.", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.6.newbler.stampede.tacc.xsede.org", 
+      "Name": "newbler-2.6", 
+      "Repository": "http://www.my454.com/"
+    }, 
+    {
+      "AppName": "luatools", 
+      "AppVersion": "1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Library tools", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.1.luatools.stampede.tacc.xsede.org", 
+      "Name": "luatools-1.1", 
+      "Repository": "http://lua.org"
+    }, 
+    {
+      "AppName": "gaussian", 
+      "AppVersion": "09", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Gaussian 09 quantum chemistry package", 
+      "ID": "urn:glue2:ApplicationEnvironment:09.gaussian.stampede.tacc.xsede.org", 
+      "Name": "gaussian-09", 
+      "Repository": "http://www.gaussian.com/"
+    }, 
+    {
+      "AppName": "idl", 
+      "AppVersion": "7.0.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationEnvironment:7.0.6.idl.stampede.tacc.xsede.org", 
+      "Name": "idl-7.0.6", 
+      "Repository": "http://www.ittvis.com/ProductServices/IDL.aspx"
+    }, 
+    {
+      "AppName": "idl", 
+      "AppVersion": "7.0.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "IDL interactive graphing and visualization toolkit", 
+      "ID": "urn:glue2:ApplicationEnvironment:7.0.6.idl.stampede.tacc.xsede.org", 
+      "Name": "idl-7.0.6", 
+      "Repository": "http://www.ittvis.com/ProductServices/IDL.aspx"
+    }, 
+    {
+      "AppName": "cmake", 
+      "AppVersion": "2.8.9", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "tool for generation of files from source", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.8.9.cmake.stampede.tacc.xsede.org", 
+      "Name": "cmake-2.8.9", 
+      "Repository": "http://www.cmake.org"
+    }, 
+    {
+      "AppName": "autotools", 
+      "AppVersion": "1.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Developer utilities", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.0.autotools.stampede.tacc.xsede.org", 
+      "Name": "autotools-1.0"
+    }, 
+    {
+      "AppName": "tophat", 
+      "AppVersion": "2.0.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "TopHat2 is a fast splice junction mapper for RNA-Seq reads. It aligns RNA-Seq reads to mammalian-sized genomes using the ultra high-throughput short read aligner Bowtie, and then analyzes the mapping results to identify splice junctions between exons.", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.0.6.tophat.stampede.tacc.xsede.org", 
+      "Name": "tophat-2.0.6", 
+      "Repository": "http://tophat.cbcb.umd.edu/"
+    }, 
+    {
+      "AppName": "launcher", 
+      "AppVersion": "1.4", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Utility for starting parametric job sweeps", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.4.launcher.stampede.tacc.xsede.org", 
+      "Name": "launcher-1.4"
+    }, 
+    {
+      "AppName": "geant4", 
+      "AppVersion": "9.5.p02", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "geant4 - Toolkit for the simulation of the passage of particles through matter. ", 
+      "ID": "urn:glue2:ApplicationEnvironment:9.5.p02.geant4.stampede.tacc.xsede.org", 
+      "Name": "geant4-9.5.p02", 
+      "Repository": "http://geant4.cern.ch"
+    }, 
+    {
+      "AppName": "irods", 
+      "AppVersion": "2.5", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "iRODS client programs", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.5.irods.stampede.tacc.xsede.org", 
+      "Name": "irods-2.5", 
+      "Repository": "http://www.irods.org"
+    }, 
+    {
+      "AppName": "plink", 
+      "AppVersion": "1.07", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "plink - Whole genome association analysis toolset", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.07.plink.stampede.tacc.xsede.org", 
+      "Name": "plink-1.07", 
+      "Repository": "http://pngu.mgh.harvard.edu/~purcell/plink/"
+    }, 
+    {
+      "AppName": "openbabel", 
+      "AppVersion": "2.3.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "openbabal - chemical toolbox designed to speak the many languages of chemical data ", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.3.2.openbabel.stampede.tacc.xsede.org", 
+      "Name": "openbabel-2.3.2", 
+      "Repository": "http://openbabel.org/wiki/Main_Page"
+    }, 
+    {
+      "AppName": "picard", 
+      "AppVersion": "1.83", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Picard comprises Java-based command-line utilities that manipulate SAM files, and a Java API (SAM-JDK) for creating new programs that read and write SAM files. Both SAM text format and SAM binary (BAM) format are supported.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.83.picard.stampede.tacc.xsede.org", 
+      "Name": "picard-1.83", 
+      "Repository": "http://picard.sourceforge.net/"
+    }, 
+    {
+      "AppName": "pedcheck", 
+      "AppVersion": "1.00", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "pedcheck - Program for detecting marker typing incompatibilities in pedigree data", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.00.pedcheck.stampede.tacc.xsede.org", 
+      "Name": "pedcheck-1.00", 
+      "Repository": "http://watson.hgen.pitt.edu/register/docs/pedcheck.html"
+    }, 
+    {
+      "AppName": "autodock", 
+      "AppVersion": "4.2.5.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "autodock - a suite of automated docking tools. It is designed to predict how small molecules, such as substrates or drug candidates, bind to a receptor of known 3D structure.", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.2.5.1.autodock.stampede.tacc.xsede.org", 
+      "Name": "autodock-4.2.5.1", 
+      "Repository": "http://autodock.scripps.edu/"
+    }, 
+    {
+      "AppName": "velvet", 
+      "AppVersion": "1.2.08", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Velvet - Sequence assembler for very short reads", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.2.08.velvet.stampede.tacc.xsede.org", 
+      "Name": "velvet-1.2.08", 
+      "Repository": "http://www.ebi.ac.uk/~zerbino/velvet/"
+    }, 
+    {
+      "AppName": "trinityrnaseq", 
+      "AppVersion": "r20121005", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Package for RNA-Seq de novo Assembly", 
+      "ID": "urn:glue2:ApplicationEnvironment:r20121005.trinityrnaseq.stampede.tacc.xsede.org", 
+      "Name": "trinityrnaseq-r20121005", 
+      "Repository": "http://trinityrnaseq.sourceforge.net/"
+    }, 
+    {
+      "AppName": "bioperl", 
+      "AppVersion": "1.6.901", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "BioPerl", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.6.901.bioperl.stampede.tacc.xsede.org", 
+      "Name": "bioperl-1.6.901", 
+      "Repository": "http://bioperl.org"
+    }, 
+    {
+      "AppName": "hpctoolkit", 
+      "AppVersion": "5.3.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Profiler", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.3.2.hpctoolkit.stampede.tacc.xsede.org", 
+      "Name": "hpctoolkit-5.3.2", 
+      "Repository": "http://www.hpctoolkit.org"
+    }, 
+    {
+      "AppName": "samtools", 
+      "AppVersion": "0.1.18", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.1.18.samtools.stampede.tacc.xsede.org", 
+      "Name": "samtools-0.1.18", 
+      "Repository": "http://samtools.sourceforge.net/"
+    }, 
+    {
+      "AppName": "lmod", 
+      "AppVersion": "5.0rc2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "An environment module system", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.0rc2.lmod.stampede.tacc.xsede.org", 
+      "Name": "lmod-5.0rc2", 
+      "Repository": "http://www.tacc.utexas.edu/tacc-projects/mclay/lmod"
+    }, 
+    {
+      "AppName": "dizzy", 
+      "AppVersion": "1.11.4", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "dizzy -chemical kinetics stochastic simulation software package written in Java.", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.11.4.dizzy.stampede.tacc.xsede.org", 
+      "Name": "dizzy-1.11.4", 
+      "Repository": "http://magnet.systemsbiology.net/software/Dizzy/"
+    }, 
+    {
+      "AppName": "bowtie", 
+      "AppVersion": "2.0.5", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Ultrafast, memory-efficient short read aligner", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.0.5.bowtie.stampede.tacc.xsede.org", 
+      "Name": "bowtie-2.0.5", 
+      "Repository": "http://bowtie-bio.sourceforge.net/bowtie2/"
+    }, 
+    {
+      "AppName": "bismark", 
+      "AppVersion": "0.7.7", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "bismark - A tool to map bisulfite converted sequence reads and determine cytosine", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.7.7.bismark.stampede.tacc.xsede.org", 
+      "Name": "bismark-0.7.7", 
+      "Repository": "http://www.bioinformatics.bbsrc.ac.uk/projects/bismark/"
+    }, 
+    {
+      "AppName": "soaptrans", 
+      "AppVersion": "1.01", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "de novo transcriptome assembler basing on the SOAPdenovo", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.01.soaptrans.stampede.tacc.xsede.org", 
+      "Name": "soaptrans-1.01", 
+      "Repository": "http://soap.genomics.org.cn/SOAPdenovo-Trans.html"
+    }, 
+    {
+      "AppName": "scripture", 
+      "AppVersion": "07092012", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationEnvironment:07092012.scripture.stampede.tacc.xsede.org", 
+      "Name": "scripture-07092012", 
+      "Repository": "http://www.broadinstitute.org/software/scripture/"
+    }, 
+    {
+      "AppName": "octave", 
+      "AppVersion": "3.6.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "is a high-level language, primarily intended for numerical computations.", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.6.1.octave.stampede.tacc.xsede.org", 
+      "Name": "octave-3.6.1", 
+      "Repository": "http://www.gnu.org/software/octave"
+    }, 
+    {
+      "AppName": "oases", 
+      "AppVersion": "0.2.08", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "De novo transcriptome assembler for very short reads", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.2.08.oases.stampede.tacc.xsede.org", 
+      "Name": "oases-0.2.08", 
+      "Repository": "http://www.ebi.ac.uk/~zerbino/oases/"
+    }, 
+    {
+      "AppName": "papi", 
+      "AppVersion": "4.4.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Interface to monitor performance counter hardware for quantifying application behavior", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.4.0.papi.stampede.tacc.xsede.org", 
+      "Name": "papi-4.4.0", 
+      "Repository": "http://icl.cs.utk.edu/papi/"
+    }, 
+    {
+      "AppName": "R", 
+      "AppVersion": "2.15.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "statistics package", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.15.1.R.stampede.tacc.xsede.org", 
+      "Name": "R-2.15.1", 
+      "Repository": "http://www.r-project.org/"
+    }, 
+    {
+      "AppName": "gatk", 
+      "AppVersion": "2.3.9", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.3.9.gatk.stampede.tacc.xsede.org", 
+      "Name": "gatk-2.3.9", 
+      "Repository": "http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit"
+    }, 
+    {
+      "AppName": "lastz", 
+      "AppVersion": "1.03.02", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "An efficient pairwise aligner", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.03.02.lastz.stampede.tacc.xsede.org", 
+      "Name": "lastz-1.03.02", 
+      "Repository": "http://www.bx.psu.edu/~rsharris/lastz/"
+    }, 
+    {
+      "AppName": "ddt", 
+      "AppVersion": "3.2.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Parallel, graphical, symbolic debugger", 
+      "ID": "urn:glue2:ApplicationEnvironment:3.2.1.ddt.stampede.tacc.xsede.org", 
+      "Name": "ddt-3.2.1", 
+      "Repository": "http://www.allinea.com/Portals/90122/docs/user-guides-and-technical-docs/allinea-ddt-3.2-user-guide-july-2012.pdf"
+    }, 
+    {
+      "AppName": "git", 
+      "AppVersion": "1.8.1.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Fast Version Control System", 
+      "ID": "urn:glue2:ApplicationEnvironment:1.8.1.1.git.stampede.tacc.xsede.org", 
+      "Name": "git-1.8.1.1", 
+      "Repository": "http://git-scm.com"
+    }, 
+    {
+      "AppName": "mafft", 
+      "AppVersion": "7.017", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Multiple alignment program for amino acid or nucleotide sequences", 
+      "ID": "urn:glue2:ApplicationEnvironment:7.017.mafft.stampede.tacc.xsede.org", 
+      "Name": "mafft-7.017", 
+      "Repository": " http://mafft.cbrc.jp/alignment/software/"
+    }, 
+    {
+      "AppName": "gcc", 
+      "AppVersion": "4.7.1", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.7.1.gcc.stampede.tacc.xsede.org", 
+      "Name": "gcc-4.7.1", 
+      "Repository": "http://gcc.gnu.org"
+    }, 
+    {
+      "AppName": "gcc", 
+      "AppVersion": "4.6.3", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.6.3.gcc.stampede.tacc.xsede.org", 
+      "Name": "gcc-4.6.3", 
+      "Repository": "http://gcc.gnu.org"
+    }, 
+    {
+      "AppName": "gcc", 
+      "AppVersion": "4.4.6", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.4.6.gcc.stampede.tacc.xsede.org", 
+      "Name": "gcc-4.4.6", 
+      "Repository": "http://gcc.gnu.org"
+    }, 
+    {
+      "AppName": "fastx_toolkit", 
+      "AppVersion": "0.0.13.2", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "FASTX Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.", 
+      "ID": "urn:glue2:ApplicationEnvironment:0.0.13.2.fastx_toolkit.stampede.tacc.xsede.org", 
+      "Name": "fastx_toolkit-0.0.13.2", 
+      "Repository": "http://hannonlab.cshl.edu/fastx_toolkit/index.html"
+    }, 
+    {
+      "AppName": "pylauncher", 
+      "AppVersion": "2.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "flexible parametric job launcher", 
+      "ID": "urn:glue2:ApplicationEnvironment:2.0.pylauncher.stampede.tacc.xsede.org", 
+      "Name": "pylauncher-2.0", 
+      "Repository": "http://www.tacc.utexas.edu/~eijkhout/pylauncher"
+    }, 
+    {
+      "AppName": "freesurfer", 
+      "AppVersion": "5.1.0", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "freesurfer - a set of tools for analysis and visualization of structural and functional brain imaging data.", 
+      "ID": "urn:glue2:ApplicationEnvironment:5.1.0.freesurfer.stampede.tacc.xsede.org", 
+      "Name": "freesurfer-5.1.0", 
+      "Repository": "http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki"
+    }, 
+    {
+      "AppName": "qt", 
+      "AppVersion": "4.8.4", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "a visual widget library for UI construction", 
+      "ID": "urn:glue2:ApplicationEnvironment:4.8.4.qt.stampede.tacc.xsede.org", 
+      "Name": "qt-4.8.4", 
+      "Repository": "http://qt.nokia.com/"
+    }, 
+    {
+      "AppName": "gsnap", 
+      "AppVersion": "20120720", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "gsnap - Genomic Short-read Nucleotide Alignment Program", 
+      "ID": "urn:glue2:ApplicationEnvironment:20120720.gsnap.stampede.tacc.xsede.org", 
+      "Name": "gsnap-20120720", 
+      "Repository": "http://research-pub.gene.com/gmap/"
+    }, 
+    {
+      "AppName": "vtune", 
+      "AppVersion": "13.update5", 
+      "ComputingManager": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "Description": "Intel VTune Amplifier (C/C++/Fortran for x86_64)", 
+      "ID": "urn:glue2:ApplicationEnvironment:13.update5.vtune.stampede.tacc.xsede.org", 
+      "Name": "vtune-13.update5", 
+      "Repository": "http://software.intel.com/en-us/intel-vtune-amplifier-xe"
+    }
+  ], 
+  "ApplicationHandle": [
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.0.9.raxml-light.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.0.9.raxml-light.stampede.tacc.xsede.org", 
+      "Name": "raxml-light-1.0.9", 
+      "Type": "module", 
+      "Value": "raxml-light/1.0.9"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.2.meep.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.2.meep.stampede.tacc.xsede.org", 
+      "Name": "meep-1.2", 
+      "Type": "module", 
+      "Value": "meep/1.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:7.2.8.raxml.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:7.2.8.raxml.stampede.tacc.xsede.org", 
+      "Name": "raxml-7.2.8", 
+      "Type": "module", 
+      "Value": "raxml/7.2.8"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3.2.fftw3.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3.2.fftw3.stampede.tacc.xsede.org", 
+      "Name": "fftw3-3.3.2", 
+      "Type": "module", 
+      "Value": "fftw3/3.3.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.18.1.pdtoolkit.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.18.1.pdtoolkit.stampede.tacc.xsede.org", 
+      "Name": "pdtoolkit-3.18.1", 
+      "Type": "module", 
+      "Value": "pdtoolkit/3.18.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.0.sprng.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.0.sprng.stampede.tacc.xsede.org", 
+      "Name": "sprng-4.0", 
+      "Type": "module", 
+      "Value": "sprng/4.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.2.siesta.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.2.siesta.stampede.tacc.xsede.org", 
+      "Name": "siesta-3.2", 
+      "Type": "module", 
+      "Value": "siesta/3.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:05_2012.gamess.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:05_2012.gamess.stampede.tacc.xsede.org", 
+      "Name": "gamess-05_2012", 
+      "Type": "module", 
+      "Value": "gamess/05_2012"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.9.1a-SmallScale.hypre.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.9.1a-SmallScale.hypre.stampede.tacc.xsede.org", 
+      "Name": "hypre-2.9.1a-SmallScale", 
+      "Type": "module", 
+      "Value": "hypre/2.9.1a-SmallScale"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.9.1a-LargeScale.hypre.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.9.1a-LargeScale.hypre.stampede.tacc.xsede.org", 
+      "Name": "hypre-2.9.1a-LargeScale", 
+      "Type": "module", 
+      "Value": "hypre/2.9.1a-LargeScale"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.6.1.gromacs.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.6.1.gromacs.stampede.tacc.xsede.org", 
+      "Name": "gromacs-4.6.1", 
+      "Type": "module", 
+      "Value": "gromacs/4.6.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.5.5.gromacs.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.5.5.gromacs.stampede.tacc.xsede.org", 
+      "Name": "gromacs-4.5.5", 
+      "Type": "module", 
+      "Value": "gromacs/4.5.5"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.0.2.pmetis.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.0.2.pmetis.stampede.tacc.xsede.org", 
+      "Name": "pmetis-4.0.2", 
+      "Type": "module", 
+      "Value": "pmetis/4.0.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.2.0.pmetis.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.2.0.pmetis.stampede.tacc.xsede.org", 
+      "Name": "pmetis-3.2.0", 
+      "Type": "module", 
+      "Value": "pmetis/3.2.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.3.mpi4py.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.3.mpi4py.stampede.tacc.xsede.org", 
+      "Name": "mpi4py-1.3", 
+      "Type": "module", 
+      "Value": "mpi4py/1.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.6.visit.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.6.visit.stampede.tacc.xsede.org", 
+      "Name": "visit-2.6", 
+      "Type": "module", 
+      "Value": "visit/2.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.22.1.tau.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.22.1.tau.stampede.tacc.xsede.org", 
+      "Name": "tau-2.22.1", 
+      "Type": "module", 
+      "Value": "tau/2.22.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-cxx.slepc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-cxx.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-cxx", 
+      "Type": "module", 
+      "Value": "slepc/3.3-cxx"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-debug.slepc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-debug.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-debug", 
+      "Type": "module", 
+      "Value": "slepc/3.3-debug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3.slepc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3", 
+      "Type": "module", 
+      "Value": "slepc/3.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-cxxdebug.slepc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-cxxdebug.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-cxxdebug", 
+      "Type": "module", 
+      "Value": "slepc/3.3-cxxdebug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-complex.slepc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-complex.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-complex", 
+      "Type": "module", 
+      "Value": "slepc/3.3-complex"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-complexdebug.slepc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-complexdebug.slepc.stampede.tacc.xsede.org", 
+      "Name": "slepc-3.3-complexdebug", 
+      "Type": "module", 
+      "Value": "slepc/3.3-complexdebug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:10.12.2.trilinos.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:10.12.2.trilinos.stampede.tacc.xsede.org", 
+      "Name": "trilinos-10.12.2", 
+      "Type": "module", 
+      "Value": "trilinos/10.12.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3.mpiP.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3.mpiP.stampede.tacc.xsede.org", 
+      "Name": "mpiP-3.3", 
+      "Type": "module", 
+      "Value": "mpiP/3.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.98.0.paraview.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.98.0.paraview.stampede.tacc.xsede.org", 
+      "Name": "paraview-3.98.0", 
+      "Type": "module", 
+      "Value": "paraview/3.98.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.6.0.mpiblast.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.6.0.mpiblast.stampede.tacc.xsede.org", 
+      "Name": "mpiblast-1.6.0", 
+      "Type": "module", 
+      "Value": "mpiblast/1.6.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.9.namd.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.9.namd.stampede.tacc.xsede.org", 
+      "Name": "namd-2.9", 
+      "Type": "module", 
+      "Value": "namd/2.9"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.1.5.fftw2.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.1.5.fftw2.stampede.tacc.xsede.org", 
+      "Name": "fftw2-2.1.5", 
+      "Type": "module", 
+      "Value": "fftw2/2.1.5"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.0.3.espresso.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.0.3.espresso.stampede.tacc.xsede.org", 
+      "Name": "espresso-5.0.3", 
+      "Type": "module", 
+      "Value": "espresso/5.0.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:10Dec12.lammps.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:10Dec12.lammps.stampede.tacc.xsede.org", 
+      "Name": "lammps-10Dec12", 
+      "Type": "module", 
+      "Value": "lammps/10Dec12"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.0.gulp.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.0.gulp.stampede.tacc.xsede.org", 
+      "Name": "gulp-4.0", 
+      "Type": "module", 
+      "Value": "gulp/4.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.8.9.phdf5.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.8.9.phdf5.stampede.tacc.xsede.org", 
+      "Name": "phdf5-1.8.9", 
+      "Type": "module", 
+      "Value": "phdf5/1.8.9"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.0.hmmer.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.0.hmmer.stampede.tacc.xsede.org", 
+      "Name": "hmmer-3.0", 
+      "Type": "module", 
+      "Value": "hmmer/3.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.3.2.vasp.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.3.2.vasp.stampede.tacc.xsede.org", 
+      "Name": "vasp-5.3.2", 
+      "Type": "module", 
+      "Value": "vasp/5.3.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.6.vasp.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.6.vasp.stampede.tacc.xsede.org", 
+      "Name": "vasp-4.6", 
+      "Type": "module", 
+      "Value": "vasp/4.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.3.3.vasp.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.3.3.vasp.stampede.tacc.xsede.org", 
+      "Name": "vasp-5.3.3", 
+      "Type": "module", 
+      "Value": "vasp/5.3.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.2.1.mrbayes_mpi.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.2.1.mrbayes_mpi.stampede.tacc.xsede.org", 
+      "Name": "mrbayes_mpi-3.2.1", 
+      "Type": "module", 
+      "Value": "mrbayes_mpi/3.2.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:12.0.amber.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:12.0.amber.stampede.tacc.xsede.org", 
+      "Name": "amber-12.0", 
+      "Type": "module", 
+      "Value": "amber/12.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-cxxdebug.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-cxxdebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxxdebug", 
+      "Type": "module", 
+      "Value": "petsc/3.3-cxxdebug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-complex.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-complex.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-complex", 
+      "Type": "module", 
+      "Value": "petsc/3.3-complex"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-unidebug.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-unidebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-unidebug", 
+      "Type": "module", 
+      "Value": "petsc/3.3-unidebug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3", 
+      "Type": "module", 
+      "Value": "petsc/3.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-debug.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-debug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-debug", 
+      "Type": "module", 
+      "Value": "petsc/3.3-debug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-cxxcomplex.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-cxxcomplex.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxxcomplex", 
+      "Type": "module", 
+      "Value": "petsc/3.3-cxxcomplex"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-cxx.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-cxx.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxx", 
+      "Type": "module", 
+      "Value": "petsc/3.3-cxx"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-uni.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-uni.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-uni", 
+      "Type": "module", 
+      "Value": "petsc/3.3-uni"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-cxxcomplexdebug.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-cxxcomplexdebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-cxxcomplexdebug", 
+      "Type": "module", 
+      "Value": "petsc/3.3-cxxcomplexdebug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.3-complexdebug.petsc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.3-complexdebug.petsc.stampede.tacc.xsede.org", 
+      "Name": "petsc-3.3-complexdebug", 
+      "Type": "module", 
+      "Value": "petsc/3.3-complexdebug"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.1.24.udunits.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.1.24.udunits.stampede.tacc.xsede.org", 
+      "Name": "udunits-2.1.24", 
+      "Type": "module", 
+      "Value": "udunits/2.1.24"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.0.2.parsimonator.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.0.2.parsimonator.stampede.tacc.xsede.org", 
+      "Name": "parsimonator-1.0.2", 
+      "Type": "module", 
+      "Value": "parsimonator/1.0.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.9rc1.mvapich2.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.9rc1.mvapich2.stampede.tacc.xsede.org", 
+      "Name": "mvapich2-1.9rc1", 
+      "Type": "module", 
+      "Value": "mvapich2/1.9rc1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.9a2-dbg.mvapich2.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.9a2-dbg.mvapich2.stampede.tacc.xsede.org", 
+      "Name": "mvapich2-1.9a2-dbg", 
+      "Type": "module", 
+      "Value": "mvapich2/1.9a2-dbg"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.9a2.mvapich2.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.9a2.mvapich2.stampede.tacc.xsede.org", 
+      "Name": "mvapich2-1.9a2", 
+      "Type": "module", 
+      "Value": "mvapich2/1.9a2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.8.9.hdf5.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.8.9.hdf5.stampede.tacc.xsede.org", 
+      "Name": "hdf5-1.8.9", 
+      "Type": "module", 
+      "Value": "hdf5/1.8.9"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.2.1.mrbayes.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.2.1.mrbayes.stampede.tacc.xsede.org", 
+      "Name": "mrbayes-3.2.1", 
+      "Type": "module", 
+      "Value": "mrbayes/3.2.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.15.gsl.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.15.gsl.stampede.tacc.xsede.org", 
+      "Name": "gsl-1.15", 
+      "Type": "module", 
+      "Value": "gsl/1.15"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.51.0.boost.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.51.0.boost.stampede.tacc.xsede.org", 
+      "Name": "boost-1.51.0", 
+      "Type": "module", 
+      "Value": "boost/1.51.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.69.phylip.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.69.phylip.stampede.tacc.xsede.org", 
+      "Name": "phylip-3.69", 
+      "Type": "module", 
+      "Value": "phylip/3.69"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.0.2.metis.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.0.2.metis.stampede.tacc.xsede.org", 
+      "Name": "metis-5.0.2", 
+      "Type": "module", 
+      "Value": "metis/5.0.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.0.3.metis.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.0.3.metis.stampede.tacc.xsede.org", 
+      "Name": "metis-4.0.3", 
+      "Type": "module", 
+      "Value": "metis/4.0.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.16.0.upc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.16.0.upc.stampede.tacc.xsede.org", 
+      "Name": "upc-2.16.0", 
+      "Type": "module", 
+      "Value": "upc/2.16.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.32.0.grvy.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.32.0.grvy.stampede.tacc.xsede.org", 
+      "Name": "grvy-0.32.0", 
+      "Type": "module", 
+      "Value": "grvy/0.32.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.2.1.1.netcdf.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.2.1.1.netcdf.stampede.tacc.xsede.org", 
+      "Name": "netcdf-4.2.1.1", 
+      "Type": "module", 
+      "Value": "netcdf/4.2.1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.6.3.netcdf.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.6.3.netcdf.stampede.tacc.xsede.org", 
+      "Name": "netcdf-3.6.3", 
+      "Type": "module", 
+      "Value": "netcdf/3.6.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.1.1.netcdf.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.1.1.netcdf.stampede.tacc.xsede.org", 
+      "Name": "netcdf-4.1.1", 
+      "Type": "module", 
+      "Value": "netcdf/4.1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.8.0.freeglut.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.8.0.freeglut.stampede.tacc.xsede.org", 
+      "Name": "freeglut-2.8.0", 
+      "Type": "module", 
+      "Value": "freeglut/2.8.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.1.clustalw2.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.1.clustalw2.stampede.tacc.xsede.org", 
+      "Name": "clustalw2-2.1", 
+      "Type": "module", 
+      "Value": "clustalw2/2.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.1.quicktree.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.1.quicktree.stampede.tacc.xsede.org", 
+      "Name": "quicktree-1.1", 
+      "Type": "module", 
+      "Value": "quicktree/1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.1.1.ncview.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.1.1.ncview.stampede.tacc.xsede.org", 
+      "Name": "ncview-2.1.1", 
+      "Type": "module", 
+      "Value": "ncview/2.1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.3.0.nco.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.3.0.nco.stampede.tacc.xsede.org", 
+      "Name": "nco-4.3.0", 
+      "Type": "module", 
+      "Value": "nco/4.3.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.1.0.030.impi.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.1.0.030.impi.stampede.tacc.xsede.org", 
+      "Name": "impi-4.1.0.030", 
+      "Type": "module", 
+      "Value": "impi/4.1.0.030"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.1.0.024.impi.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.1.0.024.impi.stampede.tacc.xsede.org", 
+      "Name": "impi-4.1.0.024", 
+      "Type": "module", 
+      "Value": "impi/4.1.0.024"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.1.1.tginfo.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.1.1.tginfo.stampede.tacc.xsede.org", 
+      "Name": "tginfo-1.1.1", 
+      "Type": "module", 
+      "Value": "tginfo/1.1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.6.uberftp.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.6.uberftp.stampede.tacc.xsede.org", 
+      "Name": "uberftp-2.6", 
+      "Type": "module", 
+      "Value": "uberftp/2.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.3.4.tgresid.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.3.4.tgresid.stampede.tacc.xsede.org", 
+      "Name": "tgresid-2.3.4", 
+      "Type": "module", 
+      "Value": "tgresid/2.3.4"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.6.5.apache-ant.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.6.5.apache-ant.stampede.tacc.xsede.org", 
+      "Name": "apache-ant-1.6.5", 
+      "Type": "module", 
+      "Value": "apache-ant/1.6.5"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.0.4.globus.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.0.4.globus.stampede.tacc.xsede.org", 
+      "Name": "globus-5.0.4", 
+      "Type": "module", 
+      "Value": "globus/5.0.4"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.2.4.globus.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.2.4.globus.stampede.tacc.xsede.org", 
+      "Name": "globus-5.2.4", 
+      "Type": "module", 
+      "Value": "globus/5.2.4"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.2.3.globus.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.2.3.globus.stampede.tacc.xsede.org", 
+      "Name": "globus-5.2.3", 
+      "Type": "module", 
+      "Value": "globus/5.2.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.5.3.3.gx-map.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.5.3.3.gx-map.stampede.tacc.xsede.org", 
+      "Name": "gx-map-0.5.3.3", 
+      "Type": "module", 
+      "Value": "gx-map/0.5.3.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.9.1.tgproxy.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.9.1.tgproxy.stampede.tacc.xsede.org", 
+      "Name": "tgproxy-0.9.1", 
+      "Type": "module", 
+      "Value": "tgproxy/0.9.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.0.xdusage.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.0.xdusage.stampede.tacc.xsede.org", 
+      "Name": "xdusage-1.0", 
+      "Type": "module", 
+      "Value": "xdusage/1.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.29.pacman.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.29.pacman.stampede.tacc.xsede.org", 
+      "Name": "pacman-3.29", 
+      "Type": "module", 
+      "Value": "pacman/3.29"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.7.0.jdk32.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.7.0.jdk32.stampede.tacc.xsede.org", 
+      "Name": "jdk32-1.7.0", 
+      "Type": "module", 
+      "Value": "jdk32/1.7.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.05.soap.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.05.soap.stampede.tacc.xsede.org", 
+      "Name": "soap-1.05", 
+      "Type": "module", 
+      "Value": "soap/1.05"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.0.cuda.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.0.cuda.stampede.tacc.xsede.org", 
+      "Name": "cuda-5.0", 
+      "Type": "module", 
+      "Value": "cuda/5.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.1.16.sratoolkit.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.1.16.sratoolkit.stampede.tacc.xsede.org", 
+      "Name": "sratoolkit-2.1.16", 
+      "Type": "module", 
+      "Value": "sratoolkit/2.1.16"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.2.6.tabix.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.2.6.tabix.stampede.tacc.xsede.org", 
+      "Name": "tabix-0.2.6", 
+      "Type": "module", 
+      "Value": "tabix/0.2.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.12.1.h5utils.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.12.1.h5utils.stampede.tacc.xsede.org", 
+      "Name": "h5utils-1.12.1", 
+      "Type": "module", 
+      "Value": "h5utils/1.12.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.95.scythe.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.95.scythe.stampede.tacc.xsede.org", 
+      "Name": "scythe-0.95", 
+      "Type": "module", 
+      "Value": "scythe/0.95"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.8.1.valgrind.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.8.1.valgrind.stampede.tacc.xsede.org", 
+      "Name": "valgrind-3.8.1", 
+      "Type": "module", 
+      "Value": "valgrind/3.8.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.00.sabre.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.00.sabre.stampede.tacc.xsede.org", 
+      "Name": "sabre-1.00", 
+      "Type": "module", 
+      "Value": "sabre/1.00"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.7.3-epd-7.3.2.python.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.7.3-epd-7.3.2.python.stampede.tacc.xsede.org", 
+      "Name": "python-2.7.3-epd-7.3.2", 
+      "Type": "module", 
+      "Value": "python/2.7.3-epd-7.3.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:21.01.spider.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:21.01.spider.stampede.tacc.xsede.org", 
+      "Name": "spider-21.01", 
+      "Type": "module", 
+      "Value": "spider/21.01"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.23.mummer.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.23.mummer.stampede.tacc.xsede.org", 
+      "Name": "mummer-3.23", 
+      "Type": "module", 
+      "Value": "mummer/3.23"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:20121116.minimac.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:20121116.minimac.stampede.tacc.xsede.org", 
+      "Name": "minimac-20121116", 
+      "Type": "module", 
+      "Value": "minimac/20121116"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.2.sickle.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.2.sickle.stampede.tacc.xsede.org", 
+      "Name": "sickle-1.2", 
+      "Type": "module", 
+      "Value": "sickle/1.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.17.0.bedtools.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.17.0.bedtools.stampede.tacc.xsede.org", 
+      "Name": "bedtools-2.17.0", 
+      "Type": "module", 
+      "Value": "bedtools/2.17.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:45166.allpathslg.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:45166.allpathslg.stampede.tacc.xsede.org", 
+      "Name": "allpathslg-45166", 
+      "Type": "module", 
+      "Value": "allpathslg/45166"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.16.2.perl.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.16.2.perl.stampede.tacc.xsede.org", 
+      "Name": "perl-5.16.2", 
+      "Type": "module", 
+      "Value": "perl/5.16.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2013a.matlab.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2013a.matlab.stampede.tacc.xsede.org", 
+      "Name": "matlab-2013a", 
+      "Type": "module", 
+      "Value": "matlab/2013a"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.6.2.bwa.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.6.2.bwa.stampede.tacc.xsede.org", 
+      "Name": "bwa-0.6.2", 
+      "Type": "module", 
+      "Value": "bwa/0.6.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.1.perfexpert.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.1.perfexpert.stampede.tacc.xsede.org", 
+      "Name": "perfexpert-3.1", 
+      "Type": "module", 
+      "Value": "perfexpert/3.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:35.blat.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:35.blat.stampede.tacc.xsede.org", 
+      "Name": "blat-35", 
+      "Type": "module", 
+      "Value": "blat/35"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:13.0.2.146.intel.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:13.0.2.146.intel.stampede.tacc.xsede.org", 
+      "Name": "intel-13.0.2.146", 
+      "Type": "module", 
+      "Value": "intel/13.0.2.146"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:13.0.079.intel.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:13.0.079.intel.stampede.tacc.xsede.org", 
+      "Name": "intel-13.0.079", 
+      "Type": "module", 
+      "Value": "intel/13.0.079"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:13.0.1.117.intel.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:13.0.1.117.intel.stampede.tacc.xsede.org", 
+      "Name": "intel-13.0.1.117", 
+      "Type": "module", 
+      "Value": "intel/13.0.1.117"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:6.1.2.ncl_ncarg.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:6.1.2.ncl_ncarg.stampede.tacc.xsede.org", 
+      "Name": "ncl_ncarg-6.1.2", 
+      "Type": "module", 
+      "Value": "ncl_ncarg/6.1.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.0.18.mach.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.0.18.mach.stampede.tacc.xsede.org", 
+      "Name": "mach-1.0.18", 
+      "Type": "module", 
+      "Value": "mach/1.0.18"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.1.2.autodock_vina.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.1.2.autodock_vina.stampede.tacc.xsede.org", 
+      "Name": "autodock_vina-1.1.2", 
+      "Type": "module", 
+      "Value": "autodock_vina/1.1.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.0.2.cufflinks.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.0.2.cufflinks.stampede.tacc.xsede.org", 
+      "Name": "cufflinks-2.0.2", 
+      "Type": "module", 
+      "Value": "cufflinks/2.0.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.3.0.express.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.3.0.express.stampede.tacc.xsede.org", 
+      "Name": "express-1.3.0", 
+      "Type": "module", 
+      "Value": "express/1.3.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.10.1.fastqc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.10.1.fastqc.stampede.tacc.xsede.org", 
+      "Name": "fastqc-0.10.1", 
+      "Type": "module", 
+      "Value": "fastqc/0.10.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.6.newbler.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.6.newbler.stampede.tacc.xsede.org", 
+      "Name": "newbler-2.6", 
+      "Type": "module", 
+      "Value": "newbler/2.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.1.luatools.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.1.luatools.stampede.tacc.xsede.org", 
+      "Name": "luatools-1.1", 
+      "Type": "module", 
+      "Value": "luatools/1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:09.gaussian.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:09.gaussian.stampede.tacc.xsede.org", 
+      "Name": "gaussian-09", 
+      "Type": "module", 
+      "Value": "gaussian/09"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:7.0.6.idl.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:7.0.6.idl.stampede.tacc.xsede.org", 
+      "Name": "idl-7.0.6", 
+      "Type": "module", 
+      "Value": "idl/7.0.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:7.0.6.idl.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:7.0.6.idl.stampede.tacc.xsede.org", 
+      "Name": "idl-7.0.6", 
+      "Type": "module", 
+      "Value": "idl/7.0.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.8.9.cmake.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.8.9.cmake.stampede.tacc.xsede.org", 
+      "Name": "cmake-2.8.9", 
+      "Type": "module", 
+      "Value": "cmake/2.8.9"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.0.autotools.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.0.autotools.stampede.tacc.xsede.org", 
+      "Name": "autotools-1.0", 
+      "Type": "module", 
+      "Value": "autotools/1.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.0.6.tophat.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.0.6.tophat.stampede.tacc.xsede.org", 
+      "Name": "tophat-2.0.6", 
+      "Type": "module", 
+      "Value": "tophat/2.0.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.4.launcher.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.4.launcher.stampede.tacc.xsede.org", 
+      "Name": "launcher-1.4", 
+      "Type": "module", 
+      "Value": "launcher/1.4"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:9.5.p02.geant4.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:9.5.p02.geant4.stampede.tacc.xsede.org", 
+      "Name": "geant4-9.5.p02", 
+      "Type": "module", 
+      "Value": "geant4/9.5.p02"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.5.irods.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.5.irods.stampede.tacc.xsede.org", 
+      "Name": "irods-2.5", 
+      "Type": "module", 
+      "Value": "irods/2.5"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.07.plink.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.07.plink.stampede.tacc.xsede.org", 
+      "Name": "plink-1.07", 
+      "Type": "module", 
+      "Value": "plink/1.07"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.3.2.openbabel.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.3.2.openbabel.stampede.tacc.xsede.org", 
+      "Name": "openbabel-2.3.2", 
+      "Type": "module", 
+      "Value": "openbabel/2.3.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.83.picard.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.83.picard.stampede.tacc.xsede.org", 
+      "Name": "picard-1.83", 
+      "Type": "module", 
+      "Value": "picard/1.83"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.00.pedcheck.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.00.pedcheck.stampede.tacc.xsede.org", 
+      "Name": "pedcheck-1.00", 
+      "Type": "module", 
+      "Value": "pedcheck/1.00"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.2.5.1.autodock.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.2.5.1.autodock.stampede.tacc.xsede.org", 
+      "Name": "autodock-4.2.5.1", 
+      "Type": "module", 
+      "Value": "autodock/4.2.5.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.2.08.velvet.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.2.08.velvet.stampede.tacc.xsede.org", 
+      "Name": "velvet-1.2.08", 
+      "Type": "module", 
+      "Value": "velvet/1.2.08"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:r20121005.trinityrnaseq.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:r20121005.trinityrnaseq.stampede.tacc.xsede.org", 
+      "Name": "trinityrnaseq-r20121005", 
+      "Type": "module", 
+      "Value": "trinityrnaseq/r20121005"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.6.901.bioperl.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.6.901.bioperl.stampede.tacc.xsede.org", 
+      "Name": "bioperl-1.6.901", 
+      "Type": "module", 
+      "Value": "bioperl/1.6.901"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.3.2.hpctoolkit.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.3.2.hpctoolkit.stampede.tacc.xsede.org", 
+      "Name": "hpctoolkit-5.3.2", 
+      "Type": "module", 
+      "Value": "hpctoolkit/5.3.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.1.18.samtools.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.1.18.samtools.stampede.tacc.xsede.org", 
+      "Name": "samtools-0.1.18", 
+      "Type": "module", 
+      "Value": "samtools/0.1.18"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.0rc2.lmod.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.0rc2.lmod.stampede.tacc.xsede.org", 
+      "Name": "lmod-5.0rc2", 
+      "Type": "module", 
+      "Value": "lmod/5.0rc2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.11.4.dizzy.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.11.4.dizzy.stampede.tacc.xsede.org", 
+      "Name": "dizzy-1.11.4", 
+      "Type": "module", 
+      "Value": "dizzy/1.11.4"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.0.5.bowtie.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.0.5.bowtie.stampede.tacc.xsede.org", 
+      "Name": "bowtie-2.0.5", 
+      "Type": "module", 
+      "Value": "bowtie/2.0.5"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.7.7.bismark.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.7.7.bismark.stampede.tacc.xsede.org", 
+      "Name": "bismark-0.7.7", 
+      "Type": "module", 
+      "Value": "bismark/0.7.7"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.01.soaptrans.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.01.soaptrans.stampede.tacc.xsede.org", 
+      "Name": "soaptrans-1.01", 
+      "Type": "module", 
+      "Value": "soaptrans/1.01"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:07092012.scripture.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:07092012.scripture.stampede.tacc.xsede.org", 
+      "Name": "scripture-07092012", 
+      "Type": "module", 
+      "Value": "scripture/07092012"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.6.1.octave.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.6.1.octave.stampede.tacc.xsede.org", 
+      "Name": "octave-3.6.1", 
+      "Type": "module", 
+      "Value": "octave/3.6.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.2.08.oases.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.2.08.oases.stampede.tacc.xsede.org", 
+      "Name": "oases-0.2.08", 
+      "Type": "module", 
+      "Value": "oases/0.2.08"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.4.0.papi.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.4.0.papi.stampede.tacc.xsede.org", 
+      "Name": "papi-4.4.0", 
+      "Type": "module", 
+      "Value": "papi/4.4.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.15.1.R.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.15.1.R.stampede.tacc.xsede.org", 
+      "Name": "R-2.15.1", 
+      "Type": "module", 
+      "Value": "R/2.15.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.3.9.gatk.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.3.9.gatk.stampede.tacc.xsede.org", 
+      "Name": "gatk-2.3.9", 
+      "Type": "module", 
+      "Value": "gatk/2.3.9"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.03.02.lastz.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.03.02.lastz.stampede.tacc.xsede.org", 
+      "Name": "lastz-1.03.02", 
+      "Type": "module", 
+      "Value": "lastz/1.03.02"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:3.2.1.ddt.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:3.2.1.ddt.stampede.tacc.xsede.org", 
+      "Name": "ddt-3.2.1", 
+      "Type": "module", 
+      "Value": "ddt/3.2.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:1.8.1.1.git.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:1.8.1.1.git.stampede.tacc.xsede.org", 
+      "Name": "git-1.8.1.1", 
+      "Type": "module", 
+      "Value": "git/1.8.1.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:7.017.mafft.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:7.017.mafft.stampede.tacc.xsede.org", 
+      "Name": "mafft-7.017", 
+      "Type": "module", 
+      "Value": "mafft/7.017"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.7.1.gcc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.7.1.gcc.stampede.tacc.xsede.org", 
+      "Name": "gcc-4.7.1", 
+      "Type": "module", 
+      "Value": "gcc/4.7.1"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.6.3.gcc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.6.3.gcc.stampede.tacc.xsede.org", 
+      "Name": "gcc-4.6.3", 
+      "Type": "module", 
+      "Value": "gcc/4.6.3"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.4.6.gcc.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.4.6.gcc.stampede.tacc.xsede.org", 
+      "Name": "gcc-4.4.6", 
+      "Type": "module", 
+      "Value": "gcc/4.4.6"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:0.0.13.2.fastx_toolkit.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:0.0.13.2.fastx_toolkit.stampede.tacc.xsede.org", 
+      "Name": "fastx_toolkit-0.0.13.2", 
+      "Type": "module", 
+      "Value": "fastx_toolkit/0.0.13.2"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:2.0.pylauncher.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:2.0.pylauncher.stampede.tacc.xsede.org", 
+      "Name": "pylauncher-2.0", 
+      "Type": "module", 
+      "Value": "pylauncher/2.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:5.1.0.freesurfer.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:5.1.0.freesurfer.stampede.tacc.xsede.org", 
+      "Name": "freesurfer-5.1.0", 
+      "Type": "module", 
+      "Value": "freesurfer/5.1.0"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:4.8.4.qt.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:4.8.4.qt.stampede.tacc.xsede.org", 
+      "Name": "qt-4.8.4", 
+      "Type": "module", 
+      "Value": "qt/4.8.4"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:20120720.gsnap.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:20120720.gsnap.stampede.tacc.xsede.org", 
+      "Name": "gsnap-20120720", 
+      "Type": "module", 
+      "Value": "gsnap/20120720"
+    }, 
+    {
+      "ApplicationEnvironment": "urn:glue2:ApplicationEnvironment:13.update5.vtune.stampede.tacc.xsede.org", 
+      "CreationTime": "2013-05-05T22:03:02Z", 
+      "ID": "urn:glue2:ApplicationHandle:module:13.update5.vtune.stampede.tacc.xsede.org", 
+      "Name": "vtune-13.update5", 
+      "Type": "module", 
+      "Value": "vtune/13.update5"
+    }
+  ]
+}

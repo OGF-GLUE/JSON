@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ToStorageService.json",
+  "type": "object",
+  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Entity.json"}],
+  "properties": {
+    "LocalPath": {
+      "type": "string",
+      "description": "The path within the ComputingService that is used to access the StorageService"
+    },
+    "RemotePath": {
+      "type": "string",
+      "description": "The path in the StorageService which is associated with the LocalPath"
+    },
+    "ComputingService": {
+      "type": "string",
+      "description": "The ID of the ComputingService"
+    },
+    "StorageService": {
+      "type": "string",
+      "description": "The ID of the StorageService"
+    }
+  },
+  "required": ["LocalPath","RemotePath","ComputingService","StorageService"]
+}
