@@ -32,17 +32,14 @@ class MyRefResolver(jsonschema.RefResolver):
             jsonschema.RefResolver.resolve_remote(self,uri)
 
 parser = optparse.OptionParser("usage: %prog [options] <schema file> <json file>")
-parser.add_option("-d", "--schema_dir", action="store", type="string", dest="schema_dir",
+parser.add_option("-d", "--schema_dir", action="store", type="string", dest="schema_dir", default=".",
                   help="the local directory containing the GLUE 2 json-schema files (default is .)")
 (options, args) = parser.parse_args()
 
 if len(args) != 2:
     parser.error("wrong number of arguments")
 
-if not options.schema_dir:
-    parser.error("a schema directory must be provided with -d")
-
-f = open(args[0])
+f = open(os.path.join(options.schema_dir,args[0]))
 schema_str = f.read()
 f.close()
 f = open(args[1])
