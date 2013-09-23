@@ -117,25 +117,25 @@
       "type": "string",
       "description": "Human-readable of the next scheduled downtime"
     },
-    "Service": {
+    "ServiceID": {
       "type": "string",
-      "description": "The Service associated with this Endpoint"
+      "description": "The ID of the Service associated with this Endpoint"
     },
-    "Share": {
+    "ShareID": {
       "type": "array",
       "description": "The IDs of the Shares accessible from this Endpoint",
       "items": {
         "type": "string"
       }
     },
-    "AccessPolicy": {
+    "AccessPolicyID": {
       "type": "array",
       "description": "IDs of AccessPolicies associated with this Endpoint",
       "items": {
         "type": "string"
       }
     },
-    "Activity": {
+    "ActivityID": {
       "type": "array",
       "description": "IDs of Activities being managed through this Endpoint",
       "items": {
@@ -143,5 +143,5 @@
       }
     }
   },
-  "required": ["InterfaceName","QualityLevel","HealthState","ServingState","Service"]
+  "required": ["InterfaceName","QualityLevel","HealthState","ServingState","ServiceID"]
 }

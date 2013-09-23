@@ -63,18 +63,18 @@
       "type": "integer",
       "description": "The maximum number of additional users that can run the application"
     },
-    "ExecutionEnvironment": {
+    "ExecutionEnvironmentID": {
       "type": "array",
       "description": "ID(s) of ExecutionEnvironments where this ApplicationEnvironment can be used",
       "items": {
         "type": "string"
       }
     },
-    "ComputingManager": {
+    "ComputingManagerID": {
       "type": "string",
       "description": "ID of the ComputingManager this ApplicationEnvironment is associated with"
     },
-    "ApplicationHandle": {
+    "ApplicationHandleID": {
       "type": "array",
       "description": "ID(s) of the ApplicationHandles that can be used to refer to this environment",
       "items": {
@@ -82,5 +82,5 @@
       }
     }
   },
-  "required": ["AppName","ComputingManager"]
+  "required": ["AppName","ComputingManagerID"]
 }

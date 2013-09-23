@@ -53,7 +53,7 @@
       "type": "string",
       "description": "An identifier defined by a UserDomain"
     },
-    "StorageShareCapacity": {
+    "StorageShareCapacityID": {
       "type": "array",
       "description": "ID of the StorageShareCapacities associated with this share",
       "items": {

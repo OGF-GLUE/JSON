@@ -12,11 +12,11 @@
       "type": "string",
       "description": "The version of the software product which implements the Manager"
     },
-    "Service": {
+    "ServiceID": {
       "type": "string",
       "description": "The ID of the Service this Share participates in"
     },
-    "Resource": {
+    "ResourceID": {
       "type": "array",
       "description": "ID(s) of Resources associated with this Share",
       "items": {
@@ -24,5 +24,5 @@
       }
     }
   },
-  "required": ["ProductName","Service","Resource"]
+  "required": ["ProductName","ServiceID","ResourceID"]
 }

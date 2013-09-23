@@ -15,32 +15,32 @@
         "type": "string"
       }
     },
-    "Service": {
+    "ServiceID": {
       "type": "array",
       "description": "IDs of Services in this AdminDomain",
       "items": {
         "type": "string"
       }
     },
-    "ChildDomain": {
+    "ChildDomainID": {
       "type": "array",
       "description": "IDs of AdminDomains aggregated by this AdminDomain",
       "items": {
         "type": "string"
       }
     },
-    "ParentDomain": {
+    "ParentDomainID": {
       "type": "string",
       "description": "The ID of the AdminDomain that this AdminDomain participates in"
     },
-    "ComputingService": {
+    "ComputingServiceID": {
       "type": "array",
       "description": "IDs of ComputingServices in this AdminDomain",
       "items": {
         "type": "string"
       }
     },
-    "StorageService": {
+    "StorageServiceID": {
       "type": "array",
       "description": "IDs of StorageServices in this AdminDomain",
       "items": {

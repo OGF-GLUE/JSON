@@ -12,21 +12,21 @@
       "type": "integer",
       "description": "The normal bandwidth available between the Storage and Computing services (Mb/s)"
     },
-    "StorageAccessProtocol": {
+    "StorageAccessProtocolID": {
       "type": "array",
       "description": "IDs of the protocols that can be used to access the StorageService",
       "items": {
         "type": "string"
       }
     },
-    "ComputingService": {
+    "ComputingServiceID": {
       "type": "string",
       "description": "The ID of the ComputingService"
     },
-    "StorageService": {
+    "StorageServiceID": {
       "type": "string",
       "description": "The ID of the StorageService"
     }
   },
-  "required": ["ComputingService","StorageService"]
+  "required": ["ComputingServiceID","StorageServiceID"]
 }

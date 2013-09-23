@@ -15,14 +15,14 @@
         "type": "string"
       }
     },
-    "Contact": {
+    "ContactID": {
       "type": "array",
       "description": "IDs of Contacts for this Domain",
       "items": {
         "type": "string"
       }
     },
-    "Location": {
+    "LocationID": {
       "type": "string",
       "description": "The ID of the primary Location for this Domain"
     }

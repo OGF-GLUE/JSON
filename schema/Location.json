@@ -29,14 +29,14 @@
       "type": "number",
       "description": "Position east (positive) or west (negative) of the primary meridian in degrees"
     },
-    "Service": {
+    "ServiceID": {
       "type": "array",
       "description": "The IDs of Services at this location",
       "items": {
         "type": "string"
       }
     },
-    "Domain": {
+    "DomainID": {
       "type": "array",
       "description": "The IDs of Domains at this location",
       "items": {

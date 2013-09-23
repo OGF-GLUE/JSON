@@ -4,18 +4,18 @@
   "type": "object",
   "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Entity.json"}],
   "properties": {
-    "Manager": {
+    "ManagerID": {
       "type": "string",
       "description": "The ID of the Manager for this Resource"
     },
-    "Share": {
+    "ShareID": {
       "type": "array",
       "description": "The ID(s) of the Shares this Resource is part of",
       "items": {
         "type": "string"
       }
     },
-    "Activity": {
+    "ActivityID": {
       "type": "array",
       "description": "The ID(s) of Activities consuming from this Share",
       "items": {
@@ -23,5 +23,5 @@
       }
     }
   },
-  "required": ["Manager"]
+  "required": ["ManagerID"]
 }

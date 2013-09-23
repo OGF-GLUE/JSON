@@ -12,10 +12,10 @@
       "type": "string",
       "description": "How to set up the ApplicationEnvironment in the context of the Type"
     },
-    "ApplicationEnvironment": {
+    "ApplicationEnvironmentID": {
       "type": "string",
       "description": "The ID of the ApplicationEnvironment this ApplicationHandle refers to"
     }
   },
-  "required": ["Type","Value","ApplicationEnvironment"]
+  "required": ["Type","Value","ApplicationEnvironmentID"]
 }

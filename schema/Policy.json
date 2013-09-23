@@ -15,7 +15,7 @@
         "type": "string"
       }
     },
-    "UserDomain": {
+    "UserDomainID": {
       "type": "array",
       "description": "The ID(s) of the UserDomains this Policy applies to",
       "items": {
@@ -23,5 +23,5 @@
       }
     }
   },
-  "required": ["Scheme","Rule","UserDomain"]
+  "required": ["Scheme","Rule","UserDomainID"]
 }

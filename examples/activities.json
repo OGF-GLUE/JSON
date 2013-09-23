@@ -16,7 +16,7 @@
       "Queue": "systest", 
       "RequestedSlots": 34240, 
       "RequestedTotalWallTime": 338976000, 
-      "Share": "urn:glue2:ComputingShare:systest.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:systest.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:31:47Z", 
       "State": [
         "ipf:running"
@@ -41,7 +41,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:23:40Z", 
       "State": [
         "ipf:running"
@@ -66,7 +66,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:01Z", 
       "State": [
         "ipf:running"
@@ -91,7 +91,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:08Z", 
       "State": [
         "ipf:running"
@@ -116,7 +116,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:09Z", 
       "State": [
         "ipf:running"
@@ -141,7 +141,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:10Z", 
       "State": [
         "ipf:running"
@@ -166,7 +166,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:11Z", 
       "State": [
         "ipf:running"
@@ -191,7 +191,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:12Z", 
       "State": [
         "ipf:running"
@@ -216,7 +216,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:13Z", 
       "State": [
         "ipf:running"
@@ -241,7 +241,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:14Z", 
       "State": [
         "ipf:running"
@@ -266,7 +266,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:15Z", 
       "State": [
         "ipf:running"
@@ -291,7 +291,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:21Z", 
       "State": [
         "ipf:running"
@@ -316,7 +316,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:22Z", 
       "State": [
         "ipf:running"
@@ -341,7 +341,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:24Z", 
       "State": [
         "ipf:running"
@@ -366,7 +366,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:26Z", 
       "State": [
         "ipf:running"
@@ -391,7 +391,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:29Z", 
       "State": [
         "ipf:running"
@@ -416,7 +416,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:30Z", 
       "State": [
         "ipf:running"
@@ -441,7 +441,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:31Z", 
       "State": [
         "ipf:running"
@@ -466,7 +466,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:34Z", 
       "State": [
         "ipf:running"
@@ -491,7 +491,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:35Z", 
       "State": [
         "ipf:running"
@@ -516,7 +516,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:36Z", 
       "State": [
         "ipf:running"
@@ -541,7 +541,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:37Z", 
       "State": [
         "ipf:running"
@@ -566,7 +566,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:38Z", 
       "State": [
         "ipf:running"
@@ -591,7 +591,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:39Z", 
       "State": [
         "ipf:running"
@@ -616,7 +616,7 @@
       "Queue": "normal-mic", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal-mic.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal-mic.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T03:11:14Z", 
       "State": [
         "ipf:running"
@@ -641,7 +641,7 @@
       "Queue": "normal-mic", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal-mic.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal-mic.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:22:53Z", 
       "State": [
         "ipf:running"
@@ -666,7 +666,7 @@
       "Queue": "development", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 921600, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:00:12Z", 
       "State": [
         "ipf:running"
@@ -691,7 +691,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 115200, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:40:43Z", 
       "State": [
         "ipf:running"
@@ -716,7 +716,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:54:10Z", 
       "State": [
         "ipf:running"
@@ -741,7 +741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:33:19Z", 
       "State": [
         "ipf:running"
@@ -766,7 +766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:33:35Z", 
       "State": [
         "ipf:running"
@@ -791,7 +791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:06:35Z", 
       "State": [
         "ipf:running"
@@ -816,7 +816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:34:20Z", 
       "State": [
         "ipf:running"
@@ -841,7 +841,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:40:03Z", 
       "State": [
         "ipf:running"
@@ -866,7 +866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:40:10Z", 
       "State": [
         "ipf:running"
@@ -891,7 +891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:42:53Z", 
       "State": [
         "ipf:running"
@@ -916,7 +916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:05:23Z", 
       "State": [
         "ipf:running"
@@ -941,7 +941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:26:40Z", 
       "State": [
         "ipf:running"
@@ -966,7 +966,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 57600, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:53:09Z", 
       "State": [
         "ipf:running"
@@ -991,7 +991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 4096, 
       "RequestedTotalWallTime": 353894400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:23:36Z", 
       "State": [
         "ipf:running"
@@ -1016,7 +1016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 4096, 
       "RequestedTotalWallTime": 353894400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:30:05Z", 
       "State": [
         "ipf:running"
@@ -1041,7 +1041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:50:46Z", 
       "State": [
         "ipf:running"
@@ -1066,7 +1066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:49:00Z", 
       "State": [
         "ipf:running"
@@ -1091,7 +1091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:02:18Z", 
       "State": [
         "ipf:running"
@@ -1116,7 +1116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:38:35Z", 
       "State": [
         "ipf:running"
@@ -1141,7 +1141,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 691200, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:36:24Z", 
       "State": [
         "ipf:running"
@@ -1166,7 +1166,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 691200, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:37:09Z", 
       "State": [
         "ipf:running"
@@ -1191,7 +1191,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 691200, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:38:13Z", 
       "State": [
         "ipf:running"
@@ -1216,7 +1216,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:05:07Z", 
       "State": [
         "ipf:running"
@@ -1241,7 +1241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:12:30Z", 
       "State": [
         "ipf:running"
@@ -1266,7 +1266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:05:12Z", 
       "State": [
         "ipf:running"
@@ -1291,7 +1291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:19:38Z", 
       "State": [
         "ipf:running"
@@ -1316,7 +1316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 720, 
       "RequestedTotalWallTime": 36288000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:19:14Z", 
       "State": [
         "ipf:running"
@@ -1341,7 +1341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 3456000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:02:21Z", 
       "State": [
         "ipf:running"
@@ -1366,7 +1366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2048, 
       "RequestedTotalWallTime": 176947200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:28:28Z", 
       "State": [
         "ipf:running"
@@ -1391,7 +1391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:09:00Z", 
       "State": [
         "ipf:running"
@@ -1416,7 +1416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1600, 
       "RequestedTotalWallTime": 138240000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T04:18:20Z", 
       "State": [
         "ipf:running"
@@ -1441,7 +1441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 4147200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:51:05Z", 
       "State": [
         "ipf:running"
@@ -1466,7 +1466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:23:11Z", 
       "State": [
         "ipf:running"
@@ -1491,7 +1491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:23:15Z", 
       "State": [
         "ipf:running"
@@ -1516,7 +1516,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 28800, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:13:21Z", 
       "State": [
         "ipf:running"
@@ -1541,7 +1541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:38:39Z", 
       "State": [
         "ipf:running"
@@ -1566,7 +1566,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:01:31Z", 
       "State": [
         "ipf:running"
@@ -1591,7 +1591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:58:07Z", 
       "State": [
         "ipf:running"
@@ -1616,7 +1616,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:03:09Z", 
       "State": [
         "ipf:running"
@@ -1641,7 +1641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1344, 
       "RequestedTotalWallTime": 116121600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:50:25Z", 
       "State": [
         "ipf:running"
@@ -1666,7 +1666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:53:22Z", 
       "State": [
         "ipf:running"
@@ -1691,7 +1691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:56:27Z", 
       "State": [
         "ipf:running"
@@ -1716,7 +1716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T04:21:05Z", 
       "State": [
         "ipf:running"
@@ -1741,7 +1741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:33:23Z", 
       "State": [
         "ipf:running"
@@ -1766,7 +1766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:48:35Z", 
       "State": [
         "ipf:running"
@@ -1791,7 +1791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:53:41Z", 
       "State": [
         "ipf:running"
@@ -1816,7 +1816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:53:43Z", 
       "State": [
         "ipf:running"
@@ -1841,7 +1841,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:03:45Z", 
       "State": [
         "ipf:running"
@@ -1866,7 +1866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:03:46Z", 
       "State": [
         "ipf:running"
@@ -1891,7 +1891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:03:49Z", 
       "State": [
         "ipf:running"
@@ -1916,7 +1916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:08:51Z", 
       "State": [
         "ipf:running"
@@ -1941,7 +1941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:08:52Z", 
       "State": [
         "ipf:running"
@@ -1966,7 +1966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:18:54Z", 
       "State": [
         "ipf:running"
@@ -1991,7 +1991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:18:56Z", 
       "State": [
         "ipf:running"
@@ -2016,7 +2016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:18:57Z", 
       "State": [
         "ipf:running"
@@ -2041,7 +2041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:18:58Z", 
       "State": [
         "ipf:running"
@@ -2066,7 +2066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:24:00Z", 
       "State": [
         "ipf:running"
@@ -2091,7 +2091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:24:01Z", 
       "State": [
         "ipf:running"
@@ -2116,7 +2116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:04:25Z", 
       "State": [
         "ipf:running"
@@ -2141,7 +2141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:54:15Z", 
       "State": [
         "ipf:running"
@@ -2166,7 +2166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 288, 
       "RequestedTotalWallTime": 24865920, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:36:08Z", 
       "State": [
         "ipf:running"
@@ -2191,7 +2191,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 12441600, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T11:10:41Z", 
       "State": [
         "ipf:running"
@@ -2216,7 +2216,7 @@
       "Queue": "osu", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:osu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:osu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:25:16Z", 
       "State": [
         "ipf:running"
@@ -2241,7 +2241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:52:49Z", 
       "State": [
         "ipf:running"
@@ -2266,7 +2266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 80, 
       "RequestedTotalWallTime": 6912000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:36:08Z", 
       "State": [
         "ipf:running"
@@ -2291,7 +2291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 80, 
       "RequestedTotalWallTime": 6912000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:36:08Z", 
       "State": [
         "ipf:running"
@@ -2316,7 +2316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 9216000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:01:53Z", 
       "State": [
         "ipf:running"
@@ -2341,7 +2341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:09:00Z", 
       "State": [
         "ipf:running"
@@ -2366,7 +2366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:09:00Z", 
       "State": [
         "ipf:running"
@@ -2391,7 +2391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:09:00Z", 
       "State": [
         "ipf:running"
@@ -2416,7 +2416,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 160, 
       "RequestedTotalWallTime": 13824000, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:46:31Z", 
       "State": [
         "ipf:running"
@@ -2441,7 +2441,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-04T23:17:52Z", 
       "State": [
         "ipf:running"
@@ -2466,7 +2466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:11:11Z", 
       "State": [
         "ipf:running"
@@ -2491,7 +2491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:37:26Z", 
       "State": [
         "ipf:running"
@@ -2516,7 +2516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:25:03Z", 
       "State": [
         "ipf:running"
@@ -2541,7 +2541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-04T23:43:11Z", 
       "State": [
         "ipf:running"
@@ -2566,7 +2566,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1696, 
       "RequestedTotalWallTime": 146534400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:22:35Z", 
       "State": [
         "ipf:running"
@@ -2591,7 +2591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-04T23:38:44Z", 
       "State": [
         "ipf:running"
@@ -2616,7 +2616,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:59:33Z", 
       "State": [
         "ipf:running"
@@ -2641,7 +2641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:59:43Z", 
       "State": [
         "ipf:running"
@@ -2666,7 +2666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:59:55Z", 
       "State": [
         "ipf:running"
@@ -2691,7 +2691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:09:05Z", 
       "State": [
         "ipf:running"
@@ -2716,7 +2716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:09:18Z", 
       "State": [
         "ipf:running"
@@ -2741,7 +2741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:09:29Z", 
       "State": [
         "ipf:running"
@@ -2766,7 +2766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:09:51Z", 
       "State": [
         "ipf:running"
@@ -2791,7 +2791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:10:05Z", 
       "State": [
         "ipf:running"
@@ -2816,7 +2816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:10:17Z", 
       "State": [
         "ipf:running"
@@ -2841,7 +2841,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 12441600, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:49:25Z", 
       "State": [
         "ipf:running"
@@ -2866,7 +2866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:28:23Z", 
       "State": [
         "ipf:running"
@@ -2891,7 +2891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:28:35Z", 
       "State": [
         "ipf:running"
@@ -2916,7 +2916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:28:47Z", 
       "State": [
         "ipf:running"
@@ -2941,7 +2941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:34:06Z", 
       "State": [
         "ipf:running"
@@ -2966,7 +2966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:34:16Z", 
       "State": [
         "ipf:running"
@@ -2991,7 +2991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:34:27Z", 
       "State": [
         "ipf:running"
@@ -3016,7 +3016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:55:26Z", 
       "State": [
         "ipf:running"
@@ -3041,7 +3041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:55:37Z", 
       "State": [
         "ipf:running"
@@ -3066,7 +3066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:55:47Z", 
       "State": [
         "ipf:running"
@@ -3091,7 +3091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:55:57Z", 
       "State": [
         "ipf:running"
@@ -3116,7 +3116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:56:09Z", 
       "State": [
         "ipf:running"
@@ -3141,7 +3141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:56:20Z", 
       "State": [
         "ipf:running"
@@ -3166,7 +3166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:56:31Z", 
       "State": [
         "ipf:running"
@@ -3191,7 +3191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:56:40Z", 
       "State": [
         "ipf:running"
@@ -3216,7 +3216,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:56:51Z", 
       "State": [
         "ipf:running"
@@ -3241,7 +3241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:57:02Z", 
       "State": [
         "ipf:running"
@@ -3266,7 +3266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:13:44Z", 
       "State": [
         "ipf:running"
@@ -3291,7 +3291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1536, 
       "RequestedTotalWallTime": 132710400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:53:31Z", 
       "State": [
         "ipf:running"
@@ -3316,7 +3316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-04T23:27:13Z", 
       "State": [
         "ipf:running"
@@ -3341,7 +3341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 112, 
       "RequestedTotalWallTime": 4636800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:10:15Z", 
       "State": [
         "ipf:running"
@@ -3366,7 +3366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 2457600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:19:19Z", 
       "State": [
         "ipf:running"
@@ -3391,7 +3391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 979200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:39:10Z", 
       "State": [
         "ipf:running"
@@ -3416,7 +3416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 18432000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:39:35Z", 
       "State": [
         "ipf:running"
@@ -3441,7 +3441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 18432000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:41:56Z", 
       "State": [
         "ipf:running"
@@ -3466,7 +3466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:12:16Z", 
       "State": [
         "ipf:running"
@@ -3491,7 +3491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:15:21Z", 
       "State": [
         "ipf:running"
@@ -3516,7 +3516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 96, 
       "RequestedTotalWallTime": 8294400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:41:19Z", 
       "State": [
         "ipf:running"
@@ -3541,7 +3541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:41:19Z", 
       "State": [
         "ipf:running"
@@ -3566,7 +3566,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:37:14Z", 
       "State": [
         "ipf:running"
@@ -3591,7 +3591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:46:57Z", 
       "State": [
         "ipf:running"
@@ -3616,7 +3616,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:46:57Z", 
       "State": [
         "ipf:running"
@@ -3641,7 +3641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:59:22Z", 
       "State": [
         "ipf:running"
@@ -3666,7 +3666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:13:58Z", 
       "State": [
         "ipf:running"
@@ -3691,7 +3691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:41:19Z", 
       "State": [
         "ipf:running"
@@ -3716,7 +3716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:12:13Z", 
       "State": [
         "ipf:running"
@@ -3741,7 +3741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:14:49Z", 
       "State": [
         "ipf:running"
@@ -3766,7 +3766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:22:34Z", 
       "State": [
         "ipf:running"
@@ -3791,7 +3791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:20:50Z", 
       "State": [
         "ipf:running"
@@ -3816,7 +3816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:20:56Z", 
       "State": [
         "ipf:running"
@@ -3841,7 +3841,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 96, 
       "RequestedTotalWallTime": 8294400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:40:17Z", 
       "State": [
         "ipf:running"
@@ -3866,7 +3866,7 @@
       "Queue": "large", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 10368000, 
-      "Share": "urn:glue2:ComputingShare:large.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:large.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:06:53Z", 
       "State": [
         "ipf:running"
@@ -3891,7 +3891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:41:19Z", 
       "State": [
         "ipf:running"
@@ -3916,7 +3916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 960000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:27:14Z", 
       "State": [
         "ipf:running"
@@ -3941,7 +3941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 960000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:28:11Z", 
       "State": [
         "ipf:running"
@@ -3966,7 +3966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 960000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:28:17Z", 
       "State": [
         "ipf:running"
@@ -3991,7 +3991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:41:19Z", 
       "State": [
         "ipf:running"
@@ -4016,7 +4016,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:54:58Z", 
       "State": [
         "ipf:running"
@@ -4041,7 +4041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:12:00Z", 
       "State": [
         "ipf:running"
@@ -4066,7 +4066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 691200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:14:14Z", 
       "State": [
         "ipf:running"
@@ -4091,7 +4091,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:41:40Z", 
       "State": [
         "ipf:running"
@@ -4116,7 +4116,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 691200, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:11:42Z", 
       "State": [
         "ipf:running"
@@ -4141,7 +4141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:09:10Z", 
       "State": [
         "ipf:running"
@@ -4166,7 +4166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:09:10Z", 
       "State": [
         "ipf:running"
@@ -4191,7 +4191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:09:10Z", 
       "State": [
         "ipf:running"
@@ -4216,7 +4216,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:53:41Z", 
       "State": [
         "ipf:running"
@@ -4241,7 +4241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:54:09Z", 
       "State": [
         "ipf:running"
@@ -4266,7 +4266,7 @@
       "Queue": "development", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:58:44Z", 
       "State": [
         "ipf:running"
@@ -4291,7 +4291,7 @@
       "Queue": "development", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:05:53Z", 
       "State": [
         "ipf:running"
@@ -4316,7 +4316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:15:38Z", 
       "State": [
         "ipf:running"
@@ -4341,7 +4341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 320, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:49:51Z", 
       "State": [
         "ipf:running"
@@ -4366,7 +4366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:57:54Z", 
       "State": [
         "ipf:running"
@@ -4391,7 +4391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 55296000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:54:38Z", 
       "State": [
         "ipf:running"
@@ -4416,7 +4416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 55296000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:54:46Z", 
       "State": [
         "ipf:running"
@@ -4441,7 +4441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 55296000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:54:52Z", 
       "State": [
         "ipf:running"
@@ -4466,7 +4466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 55296000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:54:59Z", 
       "State": [
         "ipf:running"
@@ -4491,7 +4491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 624, 
       "RequestedTotalWallTime": 53913600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:00:25Z", 
       "State": [
         "ipf:running"
@@ -4516,7 +4516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 320, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:20:41Z", 
       "State": [
         "ipf:running"
@@ -4541,7 +4541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 320, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:20:55Z", 
       "State": [
         "ipf:running"
@@ -4566,7 +4566,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:08:39Z", 
       "State": [
         "ipf:running"
@@ -4591,7 +4591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:00:03Z", 
       "State": [
         "ipf:running"
@@ -4616,7 +4616,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:11:43Z", 
       "State": [
         "ipf:running"
@@ -4641,7 +4641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 1843200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:20:21Z", 
       "State": [
         "ipf:running"
@@ -4666,7 +4666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 1843200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:33:39Z", 
       "State": [
         "ipf:running"
@@ -4691,7 +4691,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:00:00Z", 
       "State": [
         "ipf:running"
@@ -4716,7 +4716,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:22:11Z", 
       "State": [
         "ipf:running"
@@ -4741,7 +4741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 4147200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:15:00Z", 
       "State": [
         "ipf:running"
@@ -4766,7 +4766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 4147200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:15:00Z", 
       "State": [
         "ipf:running"
@@ -4791,7 +4791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 4147200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:15:00Z", 
       "State": [
         "ipf:running"
@@ -4816,7 +4816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 4147200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:15:00Z", 
       "State": [
         "ipf:running"
@@ -4841,7 +4841,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:10:40Z", 
       "State": [
         "ipf:running"
@@ -4866,7 +4866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:11:38Z", 
       "State": [
         "ipf:running"
@@ -4891,7 +4891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:02:09Z", 
       "State": [
         "ipf:running"
@@ -4916,7 +4916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:38:47Z", 
       "State": [
         "ipf:running"
@@ -4941,7 +4941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:39:25Z", 
       "State": [
         "ipf:running"
@@ -4966,7 +4966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:39:29Z", 
       "State": [
         "ipf:running"
@@ -4991,7 +4991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:39:55Z", 
       "State": [
         "ipf:running"
@@ -5016,7 +5016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:16:10Z", 
       "State": [
         "ipf:running"
@@ -5041,7 +5041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:49:48Z", 
       "State": [
         "ipf:running"
@@ -5066,7 +5066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:35:56Z", 
       "State": [
         "ipf:running"
@@ -5091,7 +5091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:31:00Z", 
       "State": [
         "ipf:running"
@@ -5116,7 +5116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:07:19Z", 
       "State": [
         "ipf:running"
@@ -5141,7 +5141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T12:48:06Z", 
       "State": [
         "ipf:running"
@@ -5166,7 +5166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 224, 
       "RequestedTotalWallTime": 19340160, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:33:57Z", 
       "State": [
         "ipf:running"
@@ -5191,7 +5191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 384, 
       "RequestedTotalWallTime": 33177600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:53:36Z", 
       "State": [
         "ipf:running"
@@ -5216,7 +5216,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 12441600, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:35:03Z", 
       "State": [
         "ipf:running"
@@ -5241,7 +5241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T12:58:39Z", 
       "State": [
         "ipf:running"
@@ -5266,7 +5266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:09:56Z", 
       "State": [
         "ipf:running"
@@ -5291,7 +5291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:07:15Z", 
       "State": [
         "ipf:running"
@@ -5316,7 +5316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:07:16Z", 
       "State": [
         "ipf:running"
@@ -5341,7 +5341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T11:24:28Z", 
       "State": [
         "ipf:running"
@@ -5366,7 +5366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 10252800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:10:03Z", 
       "State": [
         "ipf:running"
@@ -5391,7 +5391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:39:32Z", 
       "State": [
         "ipf:running"
@@ -5416,7 +5416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 320, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:48:41Z", 
       "State": [
         "ipf:running"
@@ -5441,7 +5441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:18:31Z", 
       "State": [
         "ipf:running"
@@ -5466,7 +5466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:46Z", 
       "State": [
         "ipf:running"
@@ -5491,7 +5491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:46Z", 
       "State": [
         "ipf:running"
@@ -5516,7 +5516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:46Z", 
       "State": [
         "ipf:running"
@@ -5541,7 +5541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:00:31Z", 
       "State": [
         "ipf:running"
@@ -5566,7 +5566,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:18:57Z", 
       "State": [
         "ipf:running"
@@ -5591,7 +5591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:45:08Z", 
       "State": [
         "ipf:running"
@@ -5616,7 +5616,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 160, 
       "RequestedTotalWallTime": 13824000, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:22:48Z", 
       "State": [
         "ipf:running"
@@ -5641,7 +5641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 12441600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:59:23Z", 
       "State": [
         "ipf:running"
@@ -5666,7 +5666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 12441600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:01:21Z", 
       "State": [
         "ipf:running"
@@ -5691,7 +5691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 12441600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:06:42Z", 
       "State": [
         "ipf:running"
@@ -5716,7 +5716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:49:02Z", 
       "State": [
         "ipf:running"
@@ -5741,7 +5741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:29:51Z", 
       "State": [
         "ipf:running"
@@ -5766,7 +5766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:58:03Z", 
       "State": [
         "ipf:running"
@@ -5791,7 +5791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:59:01Z", 
       "State": [
         "ipf:running"
@@ -5816,7 +5816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T09:54:00Z", 
       "State": [
         "ipf:running"
@@ -5841,7 +5841,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T09:54:23Z", 
       "State": [
         "ipf:running"
@@ -5866,7 +5866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T09:55:24Z", 
       "State": [
         "ipf:running"
@@ -5891,7 +5891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T09:55:58Z", 
       "State": [
         "ipf:running"
@@ -5916,7 +5916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T09:58:47Z", 
       "State": [
         "ipf:running"
@@ -5941,7 +5941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T09:59:51Z", 
       "State": [
         "ipf:running"
@@ -5966,7 +5966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:00:54Z", 
       "State": [
         "ipf:running"
@@ -5991,7 +5991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:03:27Z", 
       "State": [
         "ipf:running"
@@ -6016,7 +6016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:03:33Z", 
       "State": [
         "ipf:running"
@@ -6041,7 +6041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T10:05:12Z", 
       "State": [
         "ipf:running"
@@ -6066,7 +6066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:18:44Z", 
       "State": [
         "ipf:running"
@@ -6091,7 +6091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:50:36Z", 
       "State": [
         "ipf:running"
@@ -6116,7 +6116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:04:25Z", 
       "State": [
         "ipf:running"
@@ -6141,7 +6141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:07:42Z", 
       "State": [
         "ipf:running"
@@ -6166,7 +6166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:44:09Z", 
       "State": [
         "ipf:running"
@@ -6191,7 +6191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T00:44:09Z", 
       "State": [
         "ipf:running"
@@ -6216,7 +6216,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:46:00Z", 
       "State": [
         "ipf:running"
@@ -6241,7 +6241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 224, 
       "RequestedTotalWallTime": 19353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:21:36Z", 
       "State": [
         "ipf:running"
@@ -6266,7 +6266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:43:24Z", 
       "State": [
         "ipf:running"
@@ -6291,7 +6291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:09:37Z", 
       "State": [
         "ipf:running"
@@ -6316,7 +6316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 224, 
       "RequestedTotalWallTime": 19353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:41:13Z", 
       "State": [
         "ipf:running"
@@ -6341,7 +6341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:46:31Z", 
       "State": [
         "ipf:running"
@@ -6366,7 +6366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 208, 
       "RequestedTotalWallTime": 8985600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:15:10Z", 
       "State": [
         "ipf:running"
@@ -6391,7 +6391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:18:06Z", 
       "State": [
         "ipf:running"
@@ -6416,7 +6416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:19:08Z", 
       "State": [
         "ipf:running"
@@ -6441,7 +6441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:21:48Z", 
       "State": [
         "ipf:running"
@@ -6466,7 +6466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:21:58Z", 
       "State": [
         "ipf:running"
@@ -6491,7 +6491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:28:04Z", 
       "State": [
         "ipf:running"
@@ -6516,7 +6516,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:52:08Z", 
       "State": [
         "ipf:running"
@@ -6541,7 +6541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:08:06Z", 
       "State": [
         "ipf:running"
@@ -6566,7 +6566,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:18:03Z", 
       "State": [
         "ipf:running"
@@ -6591,7 +6591,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:18:05Z", 
       "State": [
         "ipf:running"
@@ -6616,7 +6616,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:18:05Z", 
       "State": [
         "ipf:running"
@@ -6641,7 +6641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T15:53:35Z", 
       "State": [
         "ipf:running"
@@ -6666,7 +6666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:40:18Z", 
       "State": [
         "ipf:running"
@@ -6691,7 +6691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:41:09Z", 
       "State": [
         "ipf:running"
@@ -6716,7 +6716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:43:52Z", 
       "State": [
         "ipf:running"
@@ -6741,7 +6741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T12:50:54Z", 
       "State": [
         "ipf:running"
@@ -6766,7 +6766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T12:53:49Z", 
       "State": [
         "ipf:running"
@@ -6791,7 +6791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 10137600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:03:45Z", 
       "State": [
         "ipf:running"
@@ -6816,7 +6816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:48:53Z", 
       "State": [
         "ipf:running"
@@ -6841,7 +6841,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:51:56Z", 
       "State": [
         "ipf:running"
@@ -6866,7 +6866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 80, 
       "RequestedTotalWallTime": 6912000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T02:37:05Z", 
       "State": [
         "ipf:running"
@@ -6891,7 +6891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 80, 
       "RequestedTotalWallTime": 6912000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T03:10:32Z", 
       "State": [
         "ipf:running"
@@ -6916,7 +6916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:32:48Z", 
       "State": [
         "ipf:running"
@@ -6941,7 +6941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:37:32Z", 
       "State": [
         "ipf:running"
@@ -6966,7 +6966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:37:50Z", 
       "State": [
         "ipf:running"
@@ -6991,7 +6991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:02:43Z", 
       "State": [
         "ipf:running"
@@ -7016,7 +7016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 3456000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:50:06Z", 
       "State": [
         "ipf:running"
@@ -7041,7 +7041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 3456000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:00:04Z", 
       "State": [
         "ipf:running"
@@ -7066,7 +7066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T02:27:52Z", 
       "State": [
         "ipf:running"
@@ -7091,7 +7091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:48Z", 
       "State": [
         "ipf:running"
@@ -7116,7 +7116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 96, 
       "RequestedTotalWallTime": 8294400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T12:32:49Z", 
       "State": [
         "ipf:running"
@@ -7141,7 +7141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 96, 
       "RequestedTotalWallTime": 8294400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T12:37:36Z", 
       "State": [
         "ipf:running"
@@ -7166,7 +7166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:38:35Z", 
       "State": [
         "ipf:running"
@@ -7191,7 +7191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:39:20Z", 
       "State": [
         "ipf:running"
@@ -7216,7 +7216,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 2304000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:50:35Z", 
       "State": [
         "ipf:running"
@@ -7241,7 +7241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:35:43Z", 
       "State": [
         "ipf:running"
@@ -7266,7 +7266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:48Z", 
       "State": [
         "ipf:running"
@@ -7291,7 +7291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:48Z", 
       "State": [
         "ipf:running"
@@ -7316,7 +7316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:48Z", 
       "State": [
         "ipf:running"
@@ -7341,7 +7341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:48Z", 
       "State": [
         "ipf:running"
@@ -7366,7 +7366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T05:17:48Z", 
       "State": [
         "ipf:running"
@@ -7391,7 +7391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 1267200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:50:08Z", 
       "State": [
         "ipf:running"
@@ -7416,7 +7416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 979200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:51:19Z", 
       "State": [
         "ipf:running"
@@ -7441,7 +7441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2304000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:48:39Z", 
       "State": [
         "ipf:running"
@@ -7466,7 +7466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2304000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:49:49Z", 
       "State": [
         "ipf:running"
@@ -7491,7 +7491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:20:12Z", 
       "State": [
         "ipf:running"
@@ -7516,7 +7516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:21:12Z", 
       "State": [
         "ipf:running"
@@ -7541,7 +7541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 2592000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:49:27Z", 
       "State": [
         "ipf:running"
@@ -7566,7 +7566,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:45:05Z", 
       "State": [
         "ipf:running"
@@ -7591,7 +7591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:45:05Z", 
       "State": [
         "ipf:running"
@@ -7616,7 +7616,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:45:05Z", 
       "State": [
         "ipf:running"
@@ -7641,7 +7641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:53:11Z", 
       "State": [
         "ipf:running"
@@ -7666,7 +7666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 4144320, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T02:06:53Z", 
       "State": [
         "ipf:running"
@@ -7691,7 +7691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T08:41:56Z", 
       "State": [
         "ipf:running"
@@ -7716,7 +7716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T11:50:21Z", 
       "State": [
         "ipf:running"
@@ -7741,7 +7741,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T11:52:08Z", 
       "State": [
         "ipf:running"
@@ -7766,7 +7766,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T11:52:57Z", 
       "State": [
         "ipf:running"
@@ -7791,7 +7791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:57:51Z", 
       "State": [
         "ipf:running"
@@ -7816,7 +7816,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:58:28Z", 
       "State": [
         "ipf:running"
@@ -7841,7 +7841,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:59:47Z", 
       "State": [
         "ipf:running"
@@ -7866,7 +7866,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:01:28Z", 
       "State": [
         "ipf:running"
@@ -7891,7 +7891,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:02:03Z", 
       "State": [
         "ipf:running"
@@ -7916,7 +7916,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:02:16Z", 
       "State": [
         "ipf:running"
@@ -7941,7 +7941,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:03:28Z", 
       "State": [
         "ipf:running"
@@ -7966,7 +7966,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:04:27Z", 
       "State": [
         "ipf:running"
@@ -7991,7 +7991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:05:13Z", 
       "State": [
         "ipf:running"
@@ -8016,7 +8016,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:05:52Z", 
       "State": [
         "ipf:running"
@@ -8041,7 +8041,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:26:49Z", 
       "State": [
         "ipf:running"
@@ -8066,7 +8066,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:33:21Z", 
       "State": [
         "ipf:running"
@@ -8091,7 +8091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:00:28Z", 
       "State": [
         "ipf:running"
@@ -8116,7 +8116,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:01:01Z", 
       "State": [
         "ipf:running"
@@ -8141,7 +8141,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:01:52Z", 
       "State": [
         "ipf:running"
@@ -8166,7 +8166,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:02:44Z", 
       "State": [
         "ipf:running"
@@ -8191,7 +8191,7 @@
       "Queue": "development", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 687360, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:47:16Z", 
       "State": [
         "ipf:running"
@@ -8216,7 +8216,7 @@
       "Queue": "development", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 687360, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:48:17Z", 
       "State": [
         "ipf:running"
@@ -8241,7 +8241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 576000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:17:41Z", 
       "State": [
         "ipf:running"
@@ -8266,7 +8266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:36:52Z", 
       "State": [
         "ipf:running"
@@ -8291,7 +8291,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:44:26Z", 
       "State": [
         "ipf:running"
@@ -8316,7 +8316,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2762880, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:42:18Z", 
       "State": [
         "ipf:running"
@@ -8341,7 +8341,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T14:57:26Z", 
       "State": [
         "ipf:running"
@@ -8366,7 +8366,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T17:48:36Z", 
       "State": [
         "ipf:running"
@@ -8391,7 +8391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:09:56Z", 
       "State": [
         "ipf:running"
@@ -8416,7 +8416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:14:59Z", 
       "State": [
         "ipf:running"
@@ -8441,7 +8441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:18:51Z", 
       "State": [
         "ipf:running"
@@ -8466,7 +8466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:20:49Z", 
       "State": [
         "ipf:running"
@@ -8491,7 +8491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:04:25Z", 
       "State": [
         "ipf:running"
@@ -8516,7 +8516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:54:15Z", 
       "State": [
         "ipf:running"
@@ -8541,7 +8541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T01:57:56Z", 
       "State": [
         "ipf:running"
@@ -8566,7 +8566,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:21:53Z", 
       "State": [
         "ipf:running"
@@ -8591,7 +8591,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:21:55Z", 
       "State": [
         "ipf:running"
@@ -8616,7 +8616,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:21:57Z", 
       "State": [
         "ipf:running"
@@ -8641,7 +8641,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:21:59Z", 
       "State": [
         "ipf:running"
@@ -8666,7 +8666,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:00Z", 
       "State": [
         "ipf:running"
@@ -8691,7 +8691,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:02Z", 
       "State": [
         "ipf:running"
@@ -8716,7 +8716,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:03Z", 
       "State": [
         "ipf:running"
@@ -8741,7 +8741,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:05Z", 
       "State": [
         "ipf:running"
@@ -8766,7 +8766,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:07Z", 
       "State": [
         "ipf:running"
@@ -8791,7 +8791,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:09Z", 
       "State": [
         "ipf:running"
@@ -8816,7 +8816,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:11Z", 
       "State": [
         "ipf:running"
@@ -8841,7 +8841,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:12Z", 
       "State": [
         "ipf:running"
@@ -8866,7 +8866,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:14Z", 
       "State": [
         "ipf:running"
@@ -8891,7 +8891,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:16Z", 
       "State": [
         "ipf:running"
@@ -8916,7 +8916,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:18Z", 
       "State": [
         "ipf:running"
@@ -8941,7 +8941,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:19Z", 
       "State": [
         "ipf:running"
@@ -8966,7 +8966,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:21Z", 
       "State": [
         "ipf:running"
@@ -8991,7 +8991,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:23Z", 
       "State": [
         "ipf:running"
@@ -9016,7 +9016,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:25Z", 
       "State": [
         "ipf:running"
@@ -9041,7 +9041,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:26Z", 
       "State": [
         "ipf:running"
@@ -9066,7 +9066,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:28Z", 
       "State": [
         "ipf:running"
@@ -9091,7 +9091,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:29Z", 
       "State": [
         "ipf:running"
@@ -9116,7 +9116,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:31Z", 
       "State": [
         "ipf:running"
@@ -9141,7 +9141,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:32Z", 
       "State": [
         "ipf:running"
@@ -9166,7 +9166,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:22:34Z", 
       "State": [
         "ipf:running"
@@ -9191,7 +9191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:35:31Z", 
       "State": [
         "ipf:running"
@@ -9216,7 +9216,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:41:33Z", 
       "State": [
         "ipf:running"
@@ -9241,7 +9241,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:43:27Z", 
       "State": [
         "ipf:running"
@@ -9266,7 +9266,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:45:21Z", 
       "State": [
         "ipf:running"
@@ -9291,7 +9291,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:18:06Z", 
       "State": [
         "ipf:running"
@@ -9316,7 +9316,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:18:06Z", 
       "State": [
         "ipf:running"
@@ -9341,7 +9341,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:18:06Z", 
       "State": [
         "ipf:running"
@@ -9366,7 +9366,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:51:38Z", 
       "State": [
         "ipf:running"
@@ -9391,7 +9391,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:55:49Z", 
       "State": [
         "ipf:running"
@@ -9416,7 +9416,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:55:49Z", 
       "State": [
         "ipf:running"
@@ -9441,7 +9441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T06:58:53Z", 
       "State": [
         "ipf:running"
@@ -9466,7 +9466,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:01:50Z", 
       "State": [
         "ipf:running"
@@ -9491,7 +9491,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:02:49Z", 
       "State": [
         "ipf:running"
@@ -9516,7 +9516,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:04:34Z", 
       "State": [
         "ipf:running"
@@ -9541,7 +9541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:11:16Z", 
       "State": [
         "ipf:running"
@@ -9566,7 +9566,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T07:13:02Z", 
       "State": [
         "ipf:running"
@@ -9591,7 +9591,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:44:54Z", 
       "State": [
         "ipf:running"
@@ -9616,7 +9616,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:46:37Z", 
       "State": [
         "ipf:running"
@@ -9641,7 +9641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:47:07Z", 
       "State": [
         "ipf:running"
@@ -9666,7 +9666,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:47:38Z", 
       "State": [
         "ipf:running"
@@ -9691,7 +9691,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:49:01Z", 
       "State": [
         "ipf:running"
@@ -9716,7 +9716,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T13:51:35Z", 
       "State": [
         "ipf:running"
@@ -9741,7 +9741,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:43:36Z", 
       "State": [
         "ipf:running"
@@ -9766,7 +9766,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:43:36Z", 
       "State": [
         "ipf:running"
@@ -9791,7 +9791,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T16:50:47Z", 
       "State": [
         "ipf:running"
@@ -9816,7 +9816,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:38:36Z", 
       "State": [
         "ipf:running"
@@ -9841,7 +9841,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:48:45Z", 
       "State": [
         "ipf:running"
@@ -9866,7 +9866,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:52:17Z", 
       "State": [
         "ipf:running"
@@ -9891,7 +9891,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:52:33Z", 
       "State": [
         "ipf:running"
@@ -9916,7 +9916,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:04:15Z", 
       "State": [
         "ipf:running"
@@ -9941,7 +9941,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T19:43:08Z", 
       "State": [
         "ipf:running"
@@ -9966,7 +9966,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:28:19Z", 
       "State": [
         "ipf:running"
@@ -9991,7 +9991,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:34:04Z", 
       "State": [
         "ipf:running"
@@ -10016,7 +10016,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 460800, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T20:54:13Z", 
       "State": [
         "ipf:running"
@@ -10041,7 +10041,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 576000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:26:33Z", 
       "State": [
         "ipf:running"
@@ -10066,7 +10066,7 @@
       "Queue": "normal-mic", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 57600, 
-      "Share": "urn:glue2:ComputingShare:normal-mic.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal-mic.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:42:10Z", 
       "State": [
         "ipf:running"
@@ -10089,7 +10089,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10111,7 +10111,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 160, 
       "RequestedTotalWallTime": 13824000, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10133,7 +10133,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10155,7 +10155,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10177,7 +10177,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10199,7 +10199,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10221,7 +10221,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10243,7 +10243,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10265,7 +10265,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10287,7 +10287,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10309,7 +10309,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10331,7 +10331,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10353,7 +10353,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10375,7 +10375,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10397,7 +10397,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10419,7 +10419,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10441,7 +10441,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10463,7 +10463,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10485,7 +10485,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10507,7 +10507,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10529,7 +10529,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 230400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10551,7 +10551,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10573,7 +10573,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10595,7 +10595,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10617,7 +10617,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10639,7 +10639,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10661,7 +10661,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10683,7 +10683,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10705,7 +10705,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10727,7 +10727,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10749,7 +10749,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10771,7 +10771,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10793,7 +10793,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10815,7 +10815,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 1228800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:pending"
       ], 
@@ -10837,7 +10837,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10859,7 +10859,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10881,7 +10881,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10903,7 +10903,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10925,7 +10925,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10947,7 +10947,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10969,7 +10969,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -10991,7 +10991,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11013,7 +11013,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11035,7 +11035,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11057,7 +11057,7 @@
       "Queue": "normal", 
       "RequestedSlots": 2400, 
       "RequestedTotalWallTime": 207360000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11079,7 +11079,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11101,7 +11101,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11123,7 +11123,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11145,7 +11145,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11167,7 +11167,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11189,7 +11189,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11211,7 +11211,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11233,7 +11233,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1024, 
       "RequestedTotalWallTime": 88473600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11255,7 +11255,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1696, 
       "RequestedTotalWallTime": 146534400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11277,7 +11277,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1696, 
       "RequestedTotalWallTime": 146534400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11299,7 +11299,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1696, 
       "RequestedTotalWallTime": 146534400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11321,7 +11321,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1696, 
       "RequestedTotalWallTime": 146534400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11343,7 +11343,7 @@
       "Queue": "normal", 
       "RequestedSlots": 1696, 
       "RequestedTotalWallTime": 146534400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11365,7 +11365,7 @@
       "Queue": "normal", 
       "RequestedSlots": 512, 
       "RequestedTotalWallTime": 44236800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11387,7 +11387,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11409,7 +11409,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11431,7 +11431,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11453,7 +11453,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11475,7 +11475,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11497,7 +11497,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11519,7 +11519,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11541,7 +11541,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11563,7 +11563,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11585,7 +11585,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11607,7 +11607,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11629,7 +11629,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11651,7 +11651,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11673,7 +11673,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11695,7 +11695,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11717,7 +11717,7 @@
       "Queue": "normal", 
       "RequestedSlots": 480, 
       "RequestedTotalWallTime": 20736000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11739,7 +11739,7 @@
       "Queue": "normal", 
       "RequestedSlots": 320, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11761,7 +11761,7 @@
       "Queue": "normal", 
       "RequestedSlots": 640, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11783,7 +11783,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11805,7 +11805,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11827,7 +11827,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11849,7 +11849,7 @@
       "Queue": "normal", 
       "RequestedSlots": 256, 
       "RequestedTotalWallTime": 22118400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11871,7 +11871,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11893,7 +11893,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11915,7 +11915,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11937,7 +11937,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11959,7 +11959,7 @@
       "Queue": "normal", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -11981,7 +11981,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12003,7 +12003,7 @@
       "Queue": "normal", 
       "RequestedSlots": 128, 
       "RequestedTotalWallTime": 11059200, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12025,7 +12025,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12047,7 +12047,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12069,7 +12069,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12091,7 +12091,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12113,7 +12113,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12135,7 +12135,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12157,7 +12157,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12179,7 +12179,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12201,7 +12201,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12223,7 +12223,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12245,7 +12245,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12267,7 +12267,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12289,7 +12289,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12311,7 +12311,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12333,7 +12333,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12355,7 +12355,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12377,7 +12377,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12399,7 +12399,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12421,7 +12421,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12443,7 +12443,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12465,7 +12465,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12487,7 +12487,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12509,7 +12509,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12531,7 +12531,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12553,7 +12553,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12575,7 +12575,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12597,7 +12597,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12619,7 +12619,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12641,7 +12641,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12663,7 +12663,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12685,7 +12685,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12707,7 +12707,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12729,7 +12729,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12751,7 +12751,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12773,7 +12773,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12795,7 +12795,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12817,7 +12817,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12839,7 +12839,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12861,7 +12861,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12883,7 +12883,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12905,7 +12905,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12927,7 +12927,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12949,7 +12949,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12971,7 +12971,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -12993,7 +12993,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 5529600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13015,7 +13015,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13037,7 +13037,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13059,7 +13059,7 @@
       "Queue": "normal", 
       "RequestedSlots": 32, 
       "RequestedTotalWallTime": 2764800, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13081,7 +13081,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13103,7 +13103,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13125,7 +13125,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13147,7 +13147,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13169,7 +13169,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13191,7 +13191,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13213,7 +13213,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13235,7 +13235,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13257,7 +13257,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13279,7 +13279,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13301,7 +13301,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13323,7 +13323,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13345,7 +13345,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1382400, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "State": [
         "ipf:held"
       ], 
@@ -13369,7 +13369,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 57600, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:15:36Z", 
       "State": [
         "ipf:finishing"
@@ -13394,7 +13394,7 @@
       "Queue": "development", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 57600, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:19:09Z", 
       "State": [
         "ipf:finishing"
@@ -13419,7 +13419,7 @@
       "Queue": "development", 
       "RequestedSlots": 144, 
       "RequestedTotalWallTime": 518400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:20:53Z", 
       "State": [
         "ipf:finishing"
@@ -13444,7 +13444,7 @@
       "Queue": "development", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 86400, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:20:53Z", 
       "State": [
         "ipf:finishing"
@@ -13469,7 +13469,7 @@
       "Queue": "development", 
       "RequestedSlots": 48, 
       "RequestedTotalWallTime": 43200, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:21:49Z", 
       "State": [
         "ipf:finishing"
@@ -13494,7 +13494,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:06Z", 
       "State": [
         "ipf:finished"
@@ -13519,7 +13519,7 @@
       "Queue": "serial", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 72000, 
-      "Share": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:serial.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:57:07Z", 
       "State": [
         "ipf:finished"
@@ -13544,7 +13544,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T18:22:28Z", 
       "State": [
         "ipf:finished"
@@ -13569,7 +13569,7 @@
       "Queue": "normal", 
       "RequestedSlots": 16, 
       "RequestedTotalWallTime": 1353600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:18:16Z", 
       "State": [
         "ipf:finished"
@@ -13594,7 +13594,7 @@
       "Queue": "development", 
       "RequestedSlots": 80, 
       "RequestedTotalWallTime": 144000, 
-      "Share": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:development.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:18:24Z", 
       "State": [
         "ipf:finished"
@@ -13619,7 +13619,7 @@
       "Queue": "normal", 
       "RequestedSlots": 320, 
       "RequestedTotalWallTime": 27648000, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-04T22:19:11Z", 
       "State": [
         "ipf:finished"
@@ -13644,7 +13644,7 @@
       "Queue": "normal", 
       "RequestedSlots": 64, 
       "RequestedTotalWallTime": 153600, 
-      "Share": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:normal.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T21:40:07Z", 
       "State": [
         "ipf:finished"
@@ -13669,7 +13669,7 @@
       "Queue": "gpu", 
       "RequestedSlots": 192, 
       "RequestedTotalWallTime": 16588800, 
-      "Share": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
+      "ShareID": "urn:glue2:ComputingShare:gpu.stampede.tacc.xsede.org", 
       "StartTime": "2013-05-05T22:14:33Z", 
       "State": [
         "ipf:finished"

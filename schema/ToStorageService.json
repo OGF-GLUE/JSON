@@ -12,14 +12,14 @@
       "type": "string",
       "description": "The path in the StorageService which is associated with the LocalPath"
     },
-    "ComputingService": {
+    "ComputingServiceID": {
       "type": "string",
       "description": "The ID of the ComputingService"
     },
-    "StorageService": {
+    "StorageServiceID": {
       "type": "string",
       "description": "The ID of the StorageService"
     }
   },
-  "required": ["LocalPath","RemotePath","ComputingService","StorageService"]
+  "required": ["LocalPath","RemotePath","ComputingServiceID","StorageServiceID"]
 }

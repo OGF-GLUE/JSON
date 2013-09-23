@@ -99,14 +99,14 @@
       "type": "string",
       "description": "The absolute path of a directory available for installation of persistent application software"
     },
-    "ApplicationEnvironment": {
+    "ApplicationEnvironmentID": {
       "type": "array",
       "description": "ID(s) of ApplicationEnvironments provided by this ComputingManager",
       "items": {
         "type": "string"
       }
     },
-    "Benchmark": {
+    "BenchmarkID": {
       "type": "array",
       "description": "ID(s) of Benchmarks associated with this ComputingManager",
       "items": {

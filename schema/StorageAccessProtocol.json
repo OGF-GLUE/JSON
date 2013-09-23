@@ -16,11 +16,11 @@
       "type": "integer",
       "description": "The maximum number of parallel network streams which can be usef for a single transfer"
     },
-    "StorageService": {
+    "StorageServiceID": {
       "type": "string",
       "description": "The ID of the StorageService this protocol is available for"
     },
-    "ToComputingService": {
+    "ToComputingServiceID": {
       "type": "array",
       "description": "The ID(s) ToComputingService objects that describe connectivity to ComputingServices",
       "items": {
@@ -28,5 +28,5 @@
       }
     }
   },
-  "required": ["Type","Version","StorageService"]
+  "required": ["Type","Version","StorageServiceID"]
 }

@@ -96,14 +96,14 @@
         "type": "string"
       }
     },
-    "ApplicationEnvironment": {
+    "ApplicationEnvironmentID": {
       "type": "array",
       "description": "ID(s) of ApplicationEnvironments available in this ExecutionEnvironment",
       "items": {
         "type": "string"
       }
     },
-    "Benchmark": {
+    "BenchmarkID": {
       "type": "array",
       "description": "ID(s) of Benchmarks associated with this ExecutionEnvironment",
       "items": {

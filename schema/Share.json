@@ -8,32 +8,32 @@
       "type": "string",
       "description": "A human-readable description of the Share"
     },
-    "Endpoint": {
+    "EndpointID": {
       "type": "array",
       "description": "The ID(s) of the Endpoints that can be used to access this Share",
       "items": {
         "type": "string"
       }
     },
-    "Resource": {
+    "ResourceID": {
       "type": "array",
       "description": "The ID(s) of the Resources associated with this Share",
       "items": {
         "type": "string"
       }
     },
-    "Service": {
+    "ServiceID": {
       "type": "string",
       "description": "The ID of the Service this Share participates in"
     },
-    "Activity": {
+    "ActivityID": {
       "type": "array",
       "description": "The ID(s) of Activities consuming from this Share",
       "items": {
         "type": "string"
       }
     },
-    "MappingPolicy": {
+    "MappingPolicyID": {
       "type": "array",
       "description": "ID(s) of MappingPolicies associated with this Share",
       "items": {
@@ -41,5 +41,5 @@
       }
     }
   },
-  "required": ["Service"]
+  "required": ["ServiceID"]
 }

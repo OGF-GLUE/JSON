@@ -31,39 +31,39 @@
       "type": "string",
       "description": "A human-readable description of the number of endpoint types, shares, and resources"
     },
-    "Endpoint": {
+    "EndpointID": {
       "type": "array",
       "description": "The IDs of Endpoints for this Service",
       "items": {
         "type": "string"
       }
     },
-    "Share": {
+    "ShareID": {
       "type": "array",
       "description": "The IDs of the Shares offered by this Service",
       "items": {
         "type": "string"
       }
     },
-    "Manager": {
+    "ManagerID": {
       "type": "array",
       "description": "The IDs of the Managers of this Service",
       "items": {
         "type": "string"
       }
     },
-    "Contact": {
+    "ContactID": {
       "type": "array",
       "description": "The IDs of Contacts for this Service",
       "items": {
         "type": "string"
       }
     },
-    "Location": {
+    "LocationID": {
       "type": "string",
       "description": "The ID of the primary Location of this Service"
     },
-    "Service": {
+    "ServiceID": {
       "type": "array",
       "description": "The IDs of Services related to this Service",
       "items": {

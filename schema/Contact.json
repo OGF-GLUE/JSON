@@ -14,14 +14,14 @@
       "description": "closed enumeration ContactType_t",
       "enum": ["general","security","sysadmin","usersupport"]
     },
-    "Service": {
+    "ServiceID": {
       "type": "array",
       "description": "The IDs of Services associated with this Contact",
       "items": {
         "type": "string"
       }
     },
-    "Domain": {
+    "DomainID": {
       "type": "array",
       "description": "The IDs of Domains associated with this Contact",
       "items": {

@@ -12,7 +12,7 @@
       "type": "number",
       "description": "The value of the benchmark"
     },
-    "ComputingManager": {
+    "ComputingManagerID": {
       "type": "string",
       "description": "The ID of the ComputingManager this benchmark is for"
     }

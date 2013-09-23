@@ -4,23 +4,23 @@
   "type": "object",
   "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Entity.json"}],
   "properties": {
-    "UserDomain": {
+    "UserDomainID": {
       "type": "string",
       "description": "An ID"
     },
-    "Endpoint": {
+    "EndpointID": {
       "type": "string",
       "description": "The ID of the Endpoint managing Activity"
     },
-    "Share": {
+    "ShareID": {
       "type": "string",
       "description": "The ID of the Share servicing this Activity"
     },
-    "Resource": {
+    "ResourceID": {
       "type": "string",
       "description": "The ID of the Resource executing this Activity"
     },
-    "Activity": {
+    "ActivityID": {
       "type": "array",
       "description": "The IDs of other Activities related to this one",
       "items": {

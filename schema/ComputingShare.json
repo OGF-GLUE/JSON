@@ -92,7 +92,7 @@
       "type": "integer",
       "description": "The maximum disk space that a job can use in the working area (GB)"
     },
-    "DefaultStorageService": {
+    "DefaultStorageServiceID": {
       "type": "string",
       "description": "The ID of the default StorageService used to store files"
     },
