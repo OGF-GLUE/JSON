@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0/ComputingShare.json",
+  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/ComputingShare.json",
   "type": "object",
-  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Share.json"}],
+  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Share.json"}],
   "properties": {
     "MappingQueue": {
       "type": "string",

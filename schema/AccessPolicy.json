@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0/AccessPolicy.json",
+  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/AccessPolicy.json",
   "type": "object",
-  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0/Policy.json"}],
+  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Policy.json"}],
   "properties": {
     "EndpointID": {
       "type": "string",
