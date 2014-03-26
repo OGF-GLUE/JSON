@@ -1,0 +1,73 @@
+{
+    "ApplicationEnvironment": [
+        {
+            "AppName": "centos-6.5-x86_64",
+            "CreationTime": "2014-03-26T17:36:30Z",
+            "Extension": {
+                "MinDisk": 0,
+                "MinRam": 0,
+                "Updated": "2014-01-18T20:56:55Z"
+            },
+            "ID": "urn:glue2:ApplicationEnvironment:unknown.centos-6.5-x86_64.openstack.alamo.futuregrid.org",
+            "Name": "centos-6.5-x86_64-unknown",
+            "State": "installednotverified"
+        },
+        {
+            "AppName": "scientificlinux-6.4-x86_64",
+            "CreationTime": "2014-03-26T17:36:30Z",
+            "Extension": {
+                "MinDisk": 0,
+                "MinRam": 0,
+                "Updated": "2014-01-18T20:57:14Z"
+            },
+            "ID": "urn:glue2:ApplicationEnvironment:unknown.scientificlinux-6.4-x86_64.openstack.alamo.futuregrid.org",\
+
+            "Name": "scientificlinux-6.4-x86_64-unknown",
+            "State": "installednotverified"
+        },
+        {
+            "AppName": "ubuntu-13.10-amd64",
+            "CreationTime": "2014-03-26T17:36:30Z",
+            "Extension": {
+                "MinDisk": 0,
+                "MinRam": 0,
+                "Updated": "2014-01-15T17:12:45Z"
+            },
+            "ID": "urn:glue2:ApplicationEnvironment:unknown.ubuntu-13.10-amd64.openstack.alamo.futuregrid.org",
+            "Name": "ubuntu-13.10-amd64-unknown",
+            "State": "installednotverified"
+        }
+    ], 
+    "ApplicationHandle": [
+        {
+            "ApplicationEnvironmentID": "urn:glue2:ApplicationEnvironment:unknown.centos-6.5-x86_64.openstack.alamo.futur\
+egrid.org",
+            "CreationTime": "2014-03-26T17:36:30Z",
+            "ID": "urn:glue2:ApplicationHandle:ImageIdentifier:unknown.centos-6.5-x86_64.openstack.alamo.futuregrid.org\
+",
+            "Name": "centos-6.5-x86_64-unknown",
+            "Type": "ImageIdentifier",
+            "Value": "a7069a34-6cc8-4f7b-ab8c-5251c4ec0a12"
+        },
+        {
+            "ApplicationEnvironmentID": "urn:glue2:ApplicationEnvironment:unknown.scientificlinux-6.4-x86_64.openstack.al\
+amo.futuregrid.org",
+            "CreationTime": "2014-03-26T17:36:30Z",
+            "ID": "urn:glue2:ApplicationHandle:ImageIdentifier:unknown.scientificlinux-6.4-x86_64.openstack.alamo.futur\
+egrid.org",
+            "Name": "scientificlinux-6.4-x86_64-unknown",
+            "Type": "ImageIdentifier",
+            "Value": "ced30969-a7b3-488e-8cf0-b907a7deee17"
+        },
+        {
+            "ApplicationEnvironmentID": "urn:glue2:ApplicationEnvironment:unknown.ubuntu-13.10-amd64.openstack.alamo.futu\
+regrid.org",
+            "CreationTime": "2014-03-26T17:36:30Z",
+            "ID": "urn:glue2:ApplicationHandle:ImageIdentifier:unknown.ubuntu-13.10-amd64.openstack.alamo.futuregrid.or\
+g",
+            "Name": "ubuntu-13.10-amd64-unknown",
+            "Type": "ImageIdentifier",
+            "Value": "1146c823-a32c-4e88-b4f6-65ba00429d0e"
+        }
+    ]
+}
