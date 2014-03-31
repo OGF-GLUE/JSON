@@ -17,6 +17,10 @@
       "type": "string",
       "description": "The local ID assigned by the ComputingManager"
     },
+    "JobDescription": {
+      "type": "string",
+      "description": "open enumeration JobDescription_t"
+    },
     "State": {
       "type": "array",
       "description": "open enumeration ComputingActivityState_t",
@@ -129,13 +133,13 @@
       "type": "string",
       "description": "The time when the ComputingManager started the job (DateTime_t)"
     },
-    "EndTime": {
-      "type": "string",
-      "description": "The time when the job ended in the Grid layer (DateTime_t)"
-    },
     "ComputingManagerEndTime": {
       "type": "string",
       "description": "The time when the job ended according to the ComputingManager (DateTime_t)"
+    },
+    "EndTime": {
+      "type": "string",
+      "description": "The time when the job ended in the Grid layer (DateTime_t)"
     },
     "WorkingAreaEraseTime": {
       "type": "string",
