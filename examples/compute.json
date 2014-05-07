@@ -1,48 +1,4 @@
 {
-  "ComputingEndpoint": [
-    {
-      "Capability": [
-        "executionmanagement.jobdescription", 
-        "executionmanagement.jobexecution", 
-        "executionmanagement.jobmanager"
-      ], 
-      "CreationTime": "2013-05-05T22:24:03Z", 
-      "HealthState": "unknown", 
-      "ID": "urn:glue2:ComputingEndpoint:gram5-slurm.stampede.tacc.xsede.org", 
-      "ImplementationName": "gram5", 
-      "ImplementationVersion": "5.2.3", 
-      "Implementor": "The Globus Alliance", 
-      "InterfaceName": "globus.gram5", 
-      "Name": "gram5-slurm", 
-      "QualityLevel": "production", 
-      "ServiceID": "urn:glue2:ComputingService:stampede.tacc.xsede.org", 
-      "ServingState": "production", 
-      "Technology": "legacy", 
-      "URL": "login5.stampede.tacc.utexas.edu:2119/jobmanager-slurm", 
-      "Validity": 3600
-    }, 
-    {
-      "Capability": [
-        "executionmanagement.jobdescription", 
-        "executionmanagement.jobexecution", 
-        "executionmanagement.jobmanager"
-      ], 
-      "CreationTime": "2013-05-05T22:24:03Z", 
-      "HealthState": "unknown", 
-      "ID": "urn:glue2:ComputingEndpoint:gram5-fork.stampede.tacc.xsede.org", 
-      "ImplementationName": "gram5", 
-      "ImplementationVersion": "5.2.3", 
-      "Implementor": "The Globus Alliance", 
-      "InterfaceName": "globus.gram5", 
-      "Name": "gram5-fork", 
-      "QualityLevel": "production", 
-      "ServiceID": "urn:glue2:ComputingService:stampede.tacc.xsede.org", 
-      "ServingState": "production", 
-      "Technology": "legacy", 
-      "URL": "login5.stampede.tacc.utexas.edu:2119/jobmanager-fork", 
-      "Validity": 3600
-    }
-  ], 
   "ComputingManager": [
     {
       "CreationTime": "2013-05-05T22:24:05Z", 
