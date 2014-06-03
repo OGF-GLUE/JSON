@@ -24,10 +24,16 @@
       "type": "integer",
       "description": "The amount storage of this type which is not in use, but has been reserved for use in use (GB)"
     },
-    "StorageServiceID": {
-      "type": "string",
-      "description": "The ID of the StorageService this capacity describes"
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"StorageServiceID": {
+	  "type": "string",
+	  "description": "The ID of the StorageService this capacity describes"
+	}
+      },
+      "required": ["StorageServiceID"]
     }
   },
-  "required": ["Type","StorageServiceID"]
+  "required": ["Type","Associations"]
 }

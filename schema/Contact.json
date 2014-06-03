@@ -14,18 +14,23 @@
       "description": "closed enumeration ContactType_t",
       "enum": ["general","security","sysadmin","usersupport"]
     },
-    "ServiceID": {
-      "type": "array",
-      "description": "The IDs of Services associated with this Contact",
-      "items": {
-        "type": "string"
-      }
-    },
-    "DomainID": {
-      "type": "array",
-      "description": "The IDs of Domains associated with this Contact",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+        "ServiceID": {
+          "type": "array",
+          "description": "The IDs of Services associated with this Contact",
+          "items": {
+            "type": "string"
+          }
+        },
+        "DomainID": {
+          "type": "array",
+          "description": "The IDs of Domains associated with this Contact",
+          "items": {
+            "type": "string"
+          }
+        }
       }
     }
   }

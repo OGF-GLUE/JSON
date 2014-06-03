@@ -12,16 +12,22 @@
       "type": "array",
       "description": "Policy rules",
       "items": {
-        "type": "string"
+	"type": "string"
       }
     },
-    "UserDomainID": {
-      "type": "array",
-      "description": "The ID(s) of the UserDomains this Policy applies to",
-      "items": {
-        "type": "string"
-      }
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"UserDomainID": {
+	  "type": "array",
+	  "description": "The ID(s) of the UserDomains this Policy applies to",
+	  "items": {
+	    "type": "string"
+	  }
+	}
+      },
+      "required": ["UserDomainID"]
     }
   },
-  "required": ["Scheme","Rule","UserDomainID"]
+  "required": ["Scheme","Rule","Associations"]
 }

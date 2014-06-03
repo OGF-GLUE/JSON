@@ -15,16 +15,21 @@
         "type": "string"
       }
     },
-    "ContactID": {
-      "type": "array",
-      "description": "IDs of Contacts for this Domain",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+        "ContactID": {
+          "type": "array",
+          "description": "IDs of Contacts for this Domain",
+          "items": {
+            "type": "string"
+          }
+        },
+        "LocationID": {
+          "type": "string",
+          "description": "The ID of the primary Location for this Domain"
+        }
       }
-    },
-    "LocationID": {
-      "type": "string",
-      "description": "The ID of the primary Location for this Domain"
     }
   }
 }

@@ -8,7 +8,7 @@
       "type": "integer",
       "description": "the number of hops to reach the root of the hierarchy of UserDomains"
     },
-    "UserManagerID": {
+    "UserManager": {
       "type": "array",
       "description": "ID for the Endpoint of a Service managing users in this UserDomain",
       "items": {
@@ -22,36 +22,41 @@
         "type": "string"
       }
     },
-    "PolicyID": {
-      "type": "array",
-      "description": "IDs for Policies associated with this UserDomain",
-      "items": {
-        "type": "string"
-      }
-    },
-    "ChildDomainID": {
-      "type": "array",
-      "description": "IDs of UserDomains aggregated by this UserDomain",
-      "items": {
-        "type": "string"
-      }
-    },
-    "ParentDomainID": {
-      "type": "string",
-      "description": "The ID of the UserDomain that this UserDomain participates in"
-    },
-    "AccessPolicyID": {
-      "type": "array",
-      "description": "IDs of AccessPolicies associated with this UserDomain",
-      "items": {
-        "type": "string"
-      }
-    },
-    "MappingPolicyID": {
-      "type": "array",
-      "description": "IDs of MappingPolicies associated with this UserDomain",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"PolicyID": {
+	  "type": "array",
+	  "description": "IDs for Policies associated with this UserDomain",
+	  "items": {
+            "type": "string"
+	  }
+	},
+	"ChildDomainID": {
+	  "type": "array",
+	  "description": "IDs of UserDomains aggregated by this UserDomain",
+	  "items": {
+            "type": "string"
+	  }
+	},
+	"ParentDomainID": {
+	  "type": "string",
+	  "description": "The ID of the UserDomain that this UserDomain participates in"
+	},
+	"AccessPolicyID": {
+	  "type": "array",
+	  "description": "IDs of AccessPolicies associated with this UserDomain",
+	  "items": {
+            "type": "string"
+	  }
+	},
+	"MappingPolicyID": {
+	  "type": "array",
+	  "description": "IDs of MappingPolicies associated with this UserDomain",
+	  "items": {
+            "type": "string"
+	  }
+	}
       }
     }
   }

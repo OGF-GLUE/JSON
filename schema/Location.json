@@ -29,18 +29,23 @@
       "type": "number",
       "description": "Position east (positive) or west (negative) of the primary meridian in degrees"
     },
-    "ServiceID": {
-      "type": "array",
-      "description": "The IDs of Services at this location",
-      "items": {
-        "type": "string"
-      }
-    },
-    "DomainID": {
-      "type": "array",
-      "description": "The IDs of Domains at this location",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"ServiceID": {
+	  "type": "array",
+	  "description": "The IDs of Services at this location",
+	  "items": {
+	    "type": "string"
+	  }
+	},
+	"DomainID": {
+	  "type": "array",
+	  "description": "The IDs of Domains at this location",
+	  "items": {
+	    "type": "string"
+	  }
+	}
       }
     }
   }

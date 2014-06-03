@@ -8,7 +8,7 @@
       "type": "array",
       "description": "Capability_t (open enumeration)",
       "items": {
-        "type": "string"
+	"type": "string"
       }
     },
     "Type": {
@@ -24,50 +24,55 @@
       "type": "array",
       "description": "URLs of web pages providing additional information",
       "items": {
-        "type": "string"
+	"type": "string"
       }
     },
     "Complexity": {
       "type": "string",
       "description": "A human-readable description of the number of endpoint types, shares, and resources"
     },
-    "EndpointID": {
-      "type": "array",
-      "description": "The IDs of Endpoints for this Service",
-      "items": {
-        "type": "string"
-      }
-    },
-    "ShareID": {
-      "type": "array",
-      "description": "The IDs of the Shares offered by this Service",
-      "items": {
-        "type": "string"
-      }
-    },
-    "ManagerID": {
-      "type": "array",
-      "description": "The IDs of the Managers of this Service",
-      "items": {
-        "type": "string"
-      }
-    },
-    "ContactID": {
-      "type": "array",
-      "description": "The IDs of Contacts for this Service",
-      "items": {
-        "type": "string"
-      }
-    },
-    "LocationID": {
-      "type": "string",
-      "description": "The ID of the primary Location of this Service"
-    },
-    "ServiceID": {
-      "type": "array",
-      "description": "The IDs of Services related to this Service",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"EndpointID": {
+	  "type": "array",
+	  "description": "The IDs of Endpoints for this Service",
+	  "items": {
+	    "type": "string"
+	  }
+	},
+	"ShareID": {
+	  "type": "array",
+	  "description": "The IDs of the Shares offered by this Service",
+	  "items": {
+	    "type": "string"
+	  }
+	},
+	"ManagerID": {
+	  "type": "array",
+	  "description": "The IDs of the Managers of this Service",
+	  "items": {
+	    "type": "string"
+	  }
+	},
+	"ContactID": {
+	  "type": "array",
+	  "description": "The IDs of Contacts for this Service",
+	  "items": {
+	    "type": "string"
+	  }
+	},
+	"LocationID": {
+	  "type": "string",
+	  "description": "The ID of the primary Location of this Service"
+	},
+	"ServiceID": {
+	  "type": "array",
+	  "description": "The IDs of Services related to this Service",
+	  "items": {
+	    "type": "string"
+	  }
+	}
       }
     }
   },

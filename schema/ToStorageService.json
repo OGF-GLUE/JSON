@@ -12,14 +12,20 @@
       "type": "string",
       "description": "The path in the StorageService which is associated with the LocalPath"
     },
-    "ComputingServiceID": {
-      "type": "string",
-      "description": "The ID of the ComputingService"
-    },
-    "StorageServiceID": {
-      "type": "string",
-      "description": "The ID of the StorageService"
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"ComputingServiceID": {
+	  "type": "string",
+	  "description": "The ID of the ComputingService"
+	},
+	"StorageServiceID": {
+	  "type": "string",
+	  "description": "The ID of the StorageService"
+	}
+      },
+      "required": ["ComputingServiceID","StorageServiceID"]
     }
   },
-  "required": ["LocalPath","RemotePath","ComputingServiceID","StorageServiceID"]
+  "required": ["LocalPath","RemotePath","Associations"]
 }

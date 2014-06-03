@@ -117,31 +117,37 @@
       "type": "string",
       "description": "Human-readable of the next scheduled downtime"
     },
-    "ServiceID": {
-      "type": "string",
-      "description": "The ID of the Service associated with this Endpoint"
-    },
-    "ShareID": {
-      "type": "array",
-      "description": "The IDs of the Shares accessible from this Endpoint",
-      "items": {
-        "type": "string"
-      }
-    },
-    "AccessPolicyID": {
-      "type": "array",
-      "description": "IDs of AccessPolicies associated with this Endpoint",
-      "items": {
-        "type": "string"
-      }
-    },
-    "ActivityID": {
-      "type": "array",
-      "description": "IDs of Activities being managed through this Endpoint",
-      "items": {
-        "type": "string"
-      }
+    "Associations": {
+      "type": "object",
+      "properties": {
+        "ServiceID": {
+          "type": "string",
+          "description": "The ID of the Service associated with this Endpoint"
+        },
+        "ShareID": {
+          "type": "array",
+          "description": "The IDs of the Shares accessible from this Endpoint",
+          "items": {
+            "type": "string"
+          }
+        },
+        "AccessPolicyID": {
+          "type": "array",
+          "description": "IDs of AccessPolicies associated with this Endpoint",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ActivityID": {
+          "type": "array",
+          "description": "IDs of Activities being managed through this Endpoint",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["ServiceID"]
     }
   },
-  "required": ["InterfaceName","QualityLevel","HealthState","ServingState","ServiceID"]
+  "required": ["InterfaceName","QualityLevel","HealthState","ServingState","Associations"]
 }

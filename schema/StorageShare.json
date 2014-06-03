@@ -53,11 +53,16 @@
       "type": "string",
       "description": "An identifier defined by a UserDomain"
     },
-    "StorageShareCapacityID": {
-      "type": "array",
-      "description": "ID of the StorageShareCapacities associated with this share",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"StorageShareCapacityID": {
+	  "type": "array",
+	  "description": "ID of the StorageShareCapacities associated with this share",
+	  "items": {
+            "type": "string"
+	  }
+	}
       }
     }
   },

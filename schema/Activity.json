@@ -4,27 +4,32 @@
   "type": "object",
   "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Entity.json"}],
   "properties": {
-    "UserDomainID": {
-      "type": "string",
-      "description": "An ID"
-    },
-    "EndpointID": {
-      "type": "string",
-      "description": "The ID of the Endpoint managing Activity"
-    },
-    "ShareID": {
-      "type": "string",
-      "description": "The ID of the Share servicing this Activity"
-    },
-    "ResourceID": {
-      "type": "string",
-      "description": "The ID of the Resource executing this Activity"
-    },
-    "ActivityID": {
-      "type": "array",
-      "description": "The IDs of other Activities related to this one",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+        "UserDomainID": {
+          "type": "string",
+          "description": "The ID fo the UserDomain managing this Activity"
+        },
+        "EndpointID": {
+          "type": "string",
+          "description": "The ID of the Endpoint managing this Activity"
+        },
+        "ShareID": {
+          "type": "string",
+          "description": "The ID of the Share servicing this Activity"
+        },
+        "ResourceID": {
+          "type": "string",
+          "description": "The ID of the Resource executing this Activity"
+        },
+        "ActivityID": {
+          "type": "array",
+          "description": "The IDs of other Activities related to this one",
+          "items": {
+            "type": "string"
+          }
+        }
       }
     }
   }

@@ -96,18 +96,23 @@
         "type": "string"
       }
     },
-    "ApplicationEnvironmentID": {
-      "type": "array",
-      "description": "ID(s) of ApplicationEnvironments available in this ExecutionEnvironment",
-      "items": {
-        "type": "string"
-      }
-    },
-    "BenchmarkID": {
-      "type": "array",
-      "description": "ID(s) of Benchmarks associated with this ExecutionEnvironment",
-      "items": {
-        "type": "string"
+    "Associations": {
+      "type": "object",
+      "properties": {
+        "ApplicationEnvironmentID": {
+          "type": "array",
+          "description": "ID(s) of ApplicationEnvironments available in this ExecutionEnvironment",
+          "items": {
+            "type": "string"
+          }
+        },
+        "BenchmarkID": {
+          "type": "array",
+          "description": "ID(s) of Benchmarks associated with this ExecutionEnvironment",
+          "items": {
+            "type": "string"
+          }
+        }
       }
     }
   },

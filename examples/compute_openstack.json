@@ -1,122 +1,134 @@
 {
-    "ComputingManager": [
-        {
-            "Homogeneous": true, 
-            "Resource": [
-                "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org"
-            ], 
-            "Name": "OpenStack", 
-            "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org", 
-            "TotalSlots": 120, 
-            "CreationTime": "2014-03-26T15:10:20Z", 
-            "BulkSubmission": true, 
-            "ProductName": "OpenStack", 
-            "Version": "2012.2", 
-            "Reservation": false, 
-            "TotalLogicalCPUs": 120, 
-            "ID": "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org"
-        }
-    ], 
-    "ComputingService": [
-        {
-            "EndpointID": [
-                "urn:glue2:ComputingEndpoint:openstack-ec2.openstack.alamo.futuregrid.org", 
-                "urn:glue2:ComputingEndpoint:openstack-nova.openstack.alamo.futuregrid.org"
-            ], 
-            "PreLRMSWaitingJobs": 0, 
-            "Name": "OpenStack", 
-            "TotalJobs": 22, 
-            "StagingJobs": 0, 
-            "SuspendedJobs": 0, 
-            "CreationTime": "2014-03-26T15:10:20Z", 
-            "RunningJobs": 22, 
-            "QualityLevel": "production", 
-            "Capability": [
-                "executionmanagement.jobexecution", 
-                "executionmanagement.jobdescription", 
-                "executionmanagement.jobmanager"
-            ], 
-            "ManagerID": "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org", 
-            "LocationID": "urn:glue2:Location:TexasAdvancedComputingCenter", 
-            "WaitingJobs": 0, 
-            "Type": "org.openstack", 
-            "ID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
-        }
-    ], 
-    "ComputingEndpoint": [
-        {
-            "QualityLevel": "production", 
-            "ImplementationName": "OpenStack", 
-            "HealthState": "unknown", 
-            "Name": "openstack-ec2", 
-            "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org", 
-            "ServingState": "production", 
-            "URL": "https://openstack.futuregrid.tacc.utexas.edu:8773/services/Cloud", 
-            "CreationTime": "2014-03-26T15:10:05Z", 
-            "ImplementationVersion": "2012.2", 
-            "Capability": [
-                "executionmanagement.jobdescription", 
-                "executionmanagement.jobexecution", 
-                "executionmanagement.jobmanager"
-            ], 
-            "Implementor": "OpenStack", 
-            "Technology": "REST", 
-            "ID": "urn:glue2:ComputingEndpoint:openstack-ec2.openstack.alamo.futuregrid.org", 
-            "InterfaceName": "EC2"
-        }, 
-        {
-            "QualityLevel": "production", 
-            "ImplementationName": "OpenStack", 
-            "HealthState": "unknown", 
-            "Name": "openstack-nova", 
-            "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org", 
-            "ServingState": "production", 
-            "URL": "https://openstack.alamo.futuregrid.org:$(compute_port)s/v1.1/$(tenant_id)s", 
-            "CreationTime": "2014-03-26T15:10:05Z", 
-            "ImplementationVersion": "2012.2", 
-            "Capability": [
-                "executionmanagement.jobdescription", 
-                "executionmanagement.jobexecution", 
-                "executionmanagement.jobmanager"
-            ], 
-            "Implementor": "OpenStack", 
-            "Technology": "REST", 
-            "ID": "urn:glue2:ComputingEndpoint:openstack-nova.openstack.alamo.futuregrid.org", 
-            "InterfaceName": "Nova"
-        }
-    ], 
-    "Location": [
-        {
-            "Name": "Texas Advanced Computing Center", 
-            "Country": "US", 
-            "CreationTime": "2014-03-26T15:10:05Z", 
-            "Validity": 86400, 
-            "Place": "Austin", 
-            "Longitude": -97.725309, 
-            "Latitude": 30.390132, 
-            "ID": "urn:glue2:Location:TexasAdvancedComputingCenter"
-        }
-    ], 
-    "ExecutionEnvironment": [
-        {
-            "UnavailableInstances": 0, 
-            "Name": "NodeType1", 
-            "Extension": {
-                "DiskSize": 446
-            }, 
-            "TotalInstances": 15, 
-            "UsedInstances": 15, 
-            "CreationTime": "2014-03-26T15:10:05Z", 
-            "OSFamily": "linux", 
-            "LogicalCPUs": 8, 
-            "Platform": "x86_64", 
-            "ManagerID": "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org", 
-            "MainMemorySize": 12005, 
-            "OSName": "linux", 
-            "ConnectivityIn": "undefined", 
-            "OSVersion": "X.Y.Z", 
-            "ID": "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org", 
-            "ConnectivityOut": "undefined"
-        }
-    ]
+  "ComputingEndpoint": [
+    {
+      "Associations": {
+        "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
+      }, 
+      "Capability": [
+        "executionmanagement.jobdescription", 
+        "executionmanagement.jobexecution", 
+        "executionmanagement.jobmanager"
+      ], 
+      "CreationTime": "2014-03-26T15:10:05Z", 
+      "HealthState": "unknown", 
+      "ID": "urn:glue2:ComputingEndpoint:openstack-ec2.openstack.alamo.futuregrid.org", 
+      "ImplementationName": "OpenStack", 
+      "ImplementationVersion": "2012.2", 
+      "Implementor": "OpenStack", 
+      "InterfaceName": "EC2", 
+      "Name": "openstack-ec2", 
+      "QualityLevel": "production", 
+      "ServingState": "production", 
+      "Technology": "REST", 
+      "URL": "https://openstack.futuregrid.tacc.utexas.edu:8773/services/Cloud"
+    }, 
+    {
+      "Associations": {
+        "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
+      }, 
+      "Capability": [
+        "executionmanagement.jobdescription", 
+        "executionmanagement.jobexecution", 
+        "executionmanagement.jobmanager"
+      ], 
+      "CreationTime": "2014-03-26T15:10:05Z", 
+      "HealthState": "unknown", 
+      "ID": "urn:glue2:ComputingEndpoint:openstack-nova.openstack.alamo.futuregrid.org", 
+      "ImplementationName": "OpenStack", 
+      "ImplementationVersion": "2012.2", 
+      "Implementor": "OpenStack", 
+      "InterfaceName": "Nova", 
+      "Name": "openstack-nova", 
+      "QualityLevel": "production", 
+      "ServingState": "production", 
+      "Technology": "REST", 
+      "URL": "https://openstack.alamo.futuregrid.org:$(compute_port)s/v1.1/$(tenant_id)s"
+    }
+  ], 
+  "ComputingManager": [
+    {
+      "Associations": {
+        "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
+      }, 
+      "BulkSubmission": true, 
+      "CreationTime": "2014-03-26T15:10:20Z", 
+      "Homogeneous": true, 
+      "ID": "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org", 
+      "Name": "OpenStack", 
+      "ProductName": "OpenStack", 
+      "Reservation": false, 
+      "Resource": [
+        "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org"
+      ], 
+      "TotalLogicalCPUs": 120, 
+      "TotalSlots": 120, 
+      "Version": "2012.2"
+    }
+  ], 
+  "ComputingService": [
+    {
+      "Associations": {
+        "EndpointID": [
+          "urn:glue2:ComputingEndpoint:openstack-ec2.openstack.alamo.futuregrid.org", 
+          "urn:glue2:ComputingEndpoint:openstack-nova.openstack.alamo.futuregrid.org"
+        ], 
+        "LocationID": "urn:glue2:Location:TexasAdvancedComputingCenter", 
+        "ManagerID": [
+          "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org"
+        ]
+      }, 
+      "Capability": [
+        "executionmanagement.jobexecution", 
+        "executionmanagement.jobdescription", 
+        "executionmanagement.jobmanager"
+      ], 
+      "CreationTime": "2014-03-26T15:10:20Z", 
+      "ID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org", 
+      "Name": "OpenStack", 
+      "PreLRMSWaitingJobs": 0, 
+      "QualityLevel": "production", 
+      "RunningJobs": 22, 
+      "StagingJobs": 0, 
+      "SuspendedJobs": 0, 
+      "TotalJobs": 22, 
+      "Type": "org.openstack", 
+      "WaitingJobs": 0
+    }
+  ], 
+  "ExecutionEnvironment": [
+    {
+      "Associations": {
+        "ManagerID": "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org"
+      }, 
+      "ConnectivityIn": true,
+      "ConnectivityOut": true,
+      "CreationTime": "2014-03-26T15:10:05Z", 
+      "Extension": {
+        "DiskSize": 446
+      }, 
+      "ID": "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org", 
+      "LogicalCPUs": 8, 
+      "MainMemorySize": 12005, 
+      "Name": "NodeType1", 
+      "OSFamily": "linux", 
+      "OSName": "linux", 
+      "OSVersion": "X.Y.Z", 
+      "Platform": "x86_64", 
+      "TotalInstances": 15, 
+      "UnavailableInstances": 0, 
+      "UsedInstances": 15
+    }
+  ], 
+  "Location": [
+    {
+      "Country": "US", 
+      "CreationTime": "2014-03-26T15:10:05Z", 
+      "ID": "urn:glue2:Location:TexasAdvancedComputingCenter", 
+      "Latitude": 30.390132, 
+      "Longitude": -97.725309, 
+      "Name": "Texas Advanced Computing Center", 
+      "Place": "Austin", 
+      "Validity": 86400
+    }
+  ]
 }

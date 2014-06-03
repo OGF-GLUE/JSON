@@ -12,9 +12,14 @@
       "type": "number",
       "description": "The value of the benchmark"
     },
-    "ComputingManagerID": {
-      "type": "string",
-      "description": "The ID of the ComputingManager this benchmark is for"
+    "Associations": {
+      "type": "object",
+      "properties": {
+        "ComputingManagerID": {
+          "type": "string",
+          "description": "The ID of the ComputingManager this benchmark is for"
+        }
+      }
     }
   },
   "required": ["Type","Value"]

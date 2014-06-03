@@ -12,17 +12,23 @@
       "type": "string",
       "description": "The version of the software product which implements the Manager"
     },
-    "ServiceID": {
-      "type": "string",
-      "description": "The ID of the Service this Share participates in"
-    },
-    "ResourceID": {
-      "type": "array",
-      "description": "ID(s) of Resources associated with this Share",
-      "items": {
-        "type": "string"
-      }
+    "Associations": {
+      "type": "object",
+      "properties": {
+	"ServiceID": {
+	  "type": "string",
+	  "description": "The ID of the Service this Share participates in"
+	},
+	"ResourceID": {
+	  "type": "array",
+	  "description": "ID(s) of Resources associated with this Share",
+	  "items": {
+	    "type": "string"
+	  }
+	}
+      },
+      "required": ["ServiceID","ResourceID"]
     }
   },
-  "required": ["ProductName","ServiceID","ResourceID"]
+  "required": ["ProductName","Associations"]
 }
