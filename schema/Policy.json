@@ -13,7 +13,8 @@
       "description": "Policy rules",
       "items": {
 	"type": "string"
-      }
+      },
+      "minItems": 1
     },
     "Associations": {
       "type": "object",
@@ -23,7 +24,8 @@
 	  "description": "The ID(s) of the UserDomains this Policy applies to",
 	  "items": {
 	    "type": "string"
-	  }
+	  },
+	  "minItems": 1
 	}
       },
       "required": ["UserDomainID"]

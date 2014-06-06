@@ -24,7 +24,8 @@
 	  "description": "ID(s) of Resources associated with this Share",
 	  "items": {
 	    "type": "string"
-	  }
+	  },
+	  "minItems": 1
 	}
       },
       "required": ["ServiceID","ResourceID"]
