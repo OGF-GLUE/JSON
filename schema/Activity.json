@@ -9,7 +9,7 @@
       "properties": {
         "UserDomainID": {
           "type": "string",
-          "description": "The ID fo the UserDomain managing this Activity"
+          "description": "The ID of the UserDomain managing this Activity"
         },
         "EndpointID": {
           "type": "string",
