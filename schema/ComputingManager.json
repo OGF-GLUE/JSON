@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/ComputingManager.json",
   "type": "object",
-  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Share.json"}],
+  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Manager.json"}],
   "properties": {
     "Reservation": {
       "type": "boolean",
