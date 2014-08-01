@@ -33,5 +33,6 @@
       },
       "required": ["ComputingServiceID","StorageServiceID"]
     }
-  }
+  },
+  "required": ["Associations"]
 }
