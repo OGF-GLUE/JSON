@@ -31,7 +31,9 @@
             "type": "string"
           }
         }
-      }
+      },
+      "required": ["DomainID"]
     }
-  }
+  },
+  "required": ["Associations"]
 }

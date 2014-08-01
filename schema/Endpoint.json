@@ -146,7 +146,7 @@
           }
         }
       },
-      "required": ["ServiceID"]
+      "required": ["ServiceID","ShareID"]
     }
   },
   "required": ["InterfaceName","QualityLevel","HealthState","ServingState","Associations"]

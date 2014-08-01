@@ -1,6 +1,13 @@
 {
   "ComputingActivity": [
     {
+      "Associations": {
+        "ActivityID": [],
+        "EndpointID": null,
+        "ResourceID": "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org",
+        "ShareID": null,
+        "UserDomainID": null
+      }, 
       "ComputingManagerSubmissionTime": "2014-03-26T15:06:42Z", 
       "CreationTime": "2014-03-26T15:10:05Z", 
       "ExecutionNode": [
@@ -29,6 +36,13 @@
       "UsedMainMemory": 2048
     }, 
     {
+      "Associations": {
+        "ActivityID": [],
+        "EndpointID": null,
+        "ResourceID": "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org",
+        "ShareID": null,
+        "UserDomainID": null
+      }, 
       "ComputingManagerSubmissionTime": "2014-03-25T21:37:05Z", 
       "CreationTime": "2014-03-26T15:10:06Z", 
       "ExecutionNode": [
@@ -56,6 +70,13 @@
       "UsedMainMemory": 2048
     }, 
     {
+      "Associations": {
+        "ActivityID": [],
+        "EndpointID": null,
+        "ResourceID": "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org",
+        "ShareID": null,
+        "UserDomainID": null
+      }, 
       "ComputingManagerSubmissionTime": "2014-03-05T03:02:38Z", 
       "CreationTime": "2014-03-26T15:10:15Z", 
       "ExecutionNode": [
@@ -83,6 +104,13 @@
       "UsedMainMemory": 4096
     }, 
     {
+      "Associations": {
+        "ActivityID": [],
+        "EndpointID": null,
+        "ResourceID": "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org",
+        "ShareID": null,
+        "UserDomainID": null
+      }, 
       "ComputingManagerSubmissionTime": "2014-02-16T22:50:51Z", 
       "CreationTime": "2014-03-26T15:10:17Z", 
       "ExecutionNode": [

@@ -15,12 +15,20 @@
     "Associations": {
       "type": "object",
       "properties": {
+        "ExecutionEnvironmentID": {
+          "type": ["string","null"],
+          "description": "ID of the ExecutionEnvironment this benchmark is for",
+          "items": {
+            "type": "string"
+          }
+        },
         "ComputingManagerID": {
-          "type": "string",
+          "type": ["string","null"],
           "description": "The ID of the ComputingManager this benchmark is for"
         }
-      }
+      },
+      "required": ["ExecutionEnvironmentID","ComputingManagerID"]
     }
   },
-  "required": ["Type","Value"]
+  "required": ["Type","Value","Associations"]
 }

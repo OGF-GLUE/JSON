@@ -63,7 +63,7 @@
 	  }
 	},
 	"LocationID": {
-	  "type": "string",
+	  "type": ["string","null"],
 	  "description": "The ID of the primary Location of this Service"
 	},
 	"ServiceID": {
@@ -73,8 +73,9 @@
 	    "type": "string"
 	  }
 	}
-      }
+      },
+      "required": ["ContactID","LocationID","ServiceID"]
     }
   },
-  "required": ["Type","QualityLevel"]
+  "required": ["Type","QualityLevel","Associations"]
 }

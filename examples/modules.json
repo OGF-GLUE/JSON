@@ -4,7 +4,10 @@
       "AppName": "raxml-light", 
       "AppVersion": "1.0.9", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Light Weight Maximum Likelihood Tree Inference Tool", 
@@ -16,7 +19,10 @@
       "AppName": "meep", 
       "AppVersion": "1.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Meep is a free finite-difference time-domain simulation software package", 
@@ -28,7 +34,10 @@
       "AppName": "raxml", 
       "AppVersion": "7.2.8", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Maximum Likelihood Tree Inference Tool", 
@@ -40,7 +49,10 @@
       "AppName": "fftw3", 
       "AppVersion": "3.3.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library, contains discrete Fourier transformation", 
@@ -52,7 +64,10 @@
       "AppName": "pdtoolkit", 
       "AppVersion": "3.18.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Instruments code for TAU profiling and tracing", 
@@ -64,7 +79,10 @@
       "AppName": "sprng", 
       "AppVersion": "4.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library, parallel random number generation", 
@@ -76,7 +94,10 @@
       "AppName": "siesta", 
       "AppVersion": "3.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Spanish Initiative for Electronic Simulations with Thousands of Atoms", 
@@ -88,7 +109,10 @@
       "AppName": "gamess", 
       "AppVersion": "05_2012", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "General ab initio quantum chemistry package", 
@@ -100,7 +124,10 @@
       "AppName": "hypre", 
       "AppVersion": "2.9.1a-SmallScale", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of scalable solvers", 
@@ -112,7 +139,10 @@
       "AppName": "hypre", 
       "AppVersion": "2.9.1a-LargeScale", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of scalable solvers", 
@@ -124,7 +154,10 @@
       "AppName": "gromacs", 
       "AppVersion": "4.6.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "molecular dynamics simulation package", 
@@ -136,7 +169,10 @@
       "AppName": "gromacs", 
       "AppVersion": "4.5.5", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "molecular dynamics simulation package", 
@@ -148,7 +184,10 @@
       "AppName": "pmetis", 
       "AppVersion": "4.0.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Parallel graph partitioning and fill-reduction matrix ordering routines", 
@@ -160,7 +199,10 @@
       "AppName": "pmetis", 
       "AppVersion": "3.2.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Parallel graph partitioning and fill-reduction matrix ordering routines", 
@@ -172,7 +214,10 @@
       "AppName": "mpi4py", 
       "AppVersion": "1.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "MPI for Python", 
@@ -184,7 +229,10 @@
       "AppName": "visit", 
       "AppVersion": "2.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "a parallel visualization suite based in part on VTK", 
@@ -196,7 +244,10 @@
       "AppName": "tau", 
       "AppVersion": "2.22.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Framework for Application profiling and optimization", 
@@ -208,7 +259,10 @@
       "AppName": "slepc", 
       "AppVersion": "3.3-cxx", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of eigensolvers", 
@@ -220,7 +274,10 @@
       "AppName": "slepc", 
       "AppVersion": "3.3-debug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of eigensolvers", 
@@ -232,7 +289,10 @@
       "AppName": "slepc", 
       "AppVersion": "3.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of eigensolvers", 
@@ -244,7 +304,10 @@
       "AppName": "slepc", 
       "AppVersion": "3.3-cxxdebug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of eigensolvers", 
@@ -256,7 +319,10 @@
       "AppName": "slepc", 
       "AppVersion": "3.3-complex", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of eigensolvers", 
@@ -268,7 +334,10 @@
       "AppName": "slepc", 
       "AppVersion": "3.3-complexdebug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library of eigensolvers", 
@@ -280,7 +349,10 @@
       "AppName": "trilinos", 
       "AppVersion": "10.12.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "A suite of numerical algorithms from Sandia Natl. Labs", 
@@ -292,7 +364,10 @@
       "AppName": "mpiP", 
       "AppVersion": "3.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Lightweight, Scalable MPI Profiling", 
@@ -304,7 +379,10 @@
       "AppName": "paraview", 
       "AppVersion": "3.98.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "a parallel interactive visualization system", 
@@ -316,7 +394,10 @@
       "AppName": "mpiblast", 
       "AppVersion": "1.6.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "mpiBLAST is a freely available, open-source, parallel implementation of NCBI BLAST.", 
@@ -328,7 +409,10 @@
       "AppName": "namd", 
       "AppVersion": "2.9", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Scalable Molecular Dynamics software", 
@@ -340,7 +424,10 @@
       "AppName": "fftw2", 
       "AppVersion": "2.1.5", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library, contains discrete Fourier transformation", 
@@ -352,7 +439,10 @@
       "AppName": "espresso", 
       "AppVersion": "5.0.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "integrated suite of computer codes for electronic structure calculations and material modeling at the nanoscale.", 
@@ -364,7 +454,10 @@
       "AppName": "lammps", 
       "AppVersion": "10Dec12", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Molecular Dynamics Chemistry Package", 
@@ -376,7 +469,10 @@
       "AppName": "gulp", 
       "AppVersion": "4.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Gulp - A lattice dynamics program", 
@@ -388,7 +484,10 @@
       "AppName": "phdf5", 
       "AppVersion": "1.8.9", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "General purpose library and file format for storing scientific data (Parallel Version).", 
@@ -400,7 +499,10 @@
       "AppName": "hmmer", 
       "AppVersion": "3.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "HMMER biosequence analysis using profile hidden Markov models", 
@@ -412,7 +514,10 @@
       "AppName": "vasp", 
       "AppVersion": "5.3.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Vienna Ab-Initio Simulation Package", 
@@ -423,7 +528,10 @@
       "AppName": "vasp", 
       "AppVersion": "4.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Vienna Ab-Initio Simulation Package", 
@@ -434,7 +542,10 @@
       "AppName": "vasp", 
       "AppVersion": "5.3.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Vienna Ab-Initio Simulation Package", 
@@ -445,7 +556,10 @@
       "AppName": "mrbayes_mpi", 
       "AppVersion": "3.2.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Tool for Bayesian inference of phylogeny", 
@@ -457,7 +571,10 @@
       "AppName": "amber", 
       "AppVersion": "12.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Molecular Modeling Package", 
@@ -469,7 +586,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-cxxdebug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -481,7 +601,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-complex", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -493,7 +616,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-unidebug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -505,7 +631,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -517,7 +646,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-debug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -529,7 +661,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-cxxcomplex", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -541,7 +676,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-cxx", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -553,7 +691,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-uni", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -565,7 +706,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-cxxcomplexdebug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -577,7 +721,10 @@
       "AppName": "petsc", 
       "AppVersion": "3.3-complexdebug", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Numerical library for sparse linear algebra", 
@@ -589,7 +736,10 @@
       "AppName": "udunits", 
       "AppVersion": "2.1.24", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
@@ -601,7 +751,10 @@
       "AppName": "parsimonator", 
       "AppVersion": "1.0.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Parsimony Tree Creation Tool", 
@@ -613,7 +766,10 @@
       "AppName": "mvapich2", 
       "AppVersion": "1.9rc1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "MPI-2 implementation for Infiniband", 
@@ -625,7 +781,10 @@
       "AppName": "mvapich2", 
       "AppVersion": "1.9a2-dbg", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "MPI-2 implementation for Infiniband", 
@@ -637,7 +796,10 @@
       "AppName": "mvapich2", 
       "AppVersion": "1.9a2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "MPI-2 implementation for Infiniband", 
@@ -649,7 +811,10 @@
       "AppName": "hdf5", 
       "AppVersion": "1.8.9", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "General purpose library and file format for storing scientific data (Serial Version).", 
@@ -661,7 +826,10 @@
       "AppName": "mrbayes", 
       "AppVersion": "3.2.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Tool for Bayesian inference of phylogeny", 
@@ -673,7 +841,10 @@
       "AppName": "gsl", 
       "AppVersion": "1.15", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "provides wide range of mathematical routines such as random number generators, special functions and least-squares fitting.", 
@@ -685,7 +856,10 @@
       "AppName": "boost", 
       "AppVersion": "1.51.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Boost provides free peer-reviewed portable C++ source libraries.", 
@@ -697,7 +871,10 @@
       "AppName": "phylip", 
       "AppVersion": "3.69", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Tool for inferring phylogenies", 
@@ -709,7 +886,10 @@
       "AppName": "metis", 
       "AppVersion": "5.0.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Serial graph partitioning and fill-reduction matrix ordering routines", 
@@ -721,7 +901,10 @@
       "AppName": "metis", 
       "AppVersion": "4.0.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Serial graph partitioning and fill-reduction matrix ordering routines", 
@@ -733,7 +916,10 @@
       "AppName": "upc", 
       "AppVersion": "2.16.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Berkeley Unified Parallel C", 
@@ -745,7 +931,10 @@
       "AppName": "grvy", 
       "AppVersion": "0.32.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "A library for C/C++/F90 housing various support functions used in high-performance, scientific applications (e.g. flexible input parsing, performance timing, priority-based logging, floating-point checks, I/O utils).", 
@@ -757,7 +946,10 @@
       "AppName": "netcdf", 
       "AppVersion": "4.2.1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
@@ -769,7 +961,10 @@
       "AppName": "netcdf", 
       "AppVersion": "3.6.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
@@ -781,7 +976,10 @@
       "AppName": "netcdf", 
       "AppVersion": "4.1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "I/O library which stores and retrieves data in self-describing, machine-independent datasets.", 
@@ -793,7 +991,10 @@
       "AppName": "freeglut", 
       "AppVersion": "2.8.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "freeglut graphics library", 
@@ -804,7 +1005,10 @@
       "AppName": "clustalw2", 
       "AppVersion": "2.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Tool for multiple sequence alignment", 
@@ -816,7 +1020,10 @@
       "AppName": "quicktree", 
       "AppVersion": "1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Neighbor joining code to build trees ", 
@@ -828,7 +1035,10 @@
       "AppName": "ncview", 
       "AppVersion": "2.1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Visualization program for NetCDF files", 
@@ -840,7 +1050,10 @@
       "AppName": "nco", 
       "AppVersion": "4.3.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Programs for manipulating and analyzing NetCDF files", 
@@ -852,7 +1065,10 @@
       "AppName": "impi", 
       "AppVersion": "4.1.0.030", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Intel MPI Library (C/C++/Fortran for x86_64)", 
@@ -864,7 +1080,10 @@
       "AppName": "impi", 
       "AppVersion": "4.1.0.024", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Intel MPI Library (C/C++/Fortran for x86_64)", 
@@ -876,7 +1095,10 @@
       "AppName": "tginfo", 
       "AppVersion": "1.1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid Usage utility", 
@@ -888,7 +1110,10 @@
       "AppName": "uberftp", 
       "AppVersion": "2.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid Uberftp utility", 
@@ -900,7 +1125,10 @@
       "AppName": "tgresid", 
       "AppVersion": "2.3.4", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid Resid utility", 
@@ -912,7 +1140,10 @@
       "AppName": "apache-ant", 
       "AppVersion": "1.6.5", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid Apache-Ant utility", 
@@ -924,7 +1155,10 @@
       "AppName": "globus", 
       "AppVersion": "5.0.4", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Globus Software Package", 
@@ -936,7 +1170,10 @@
       "AppName": "globus", 
       "AppVersion": "5.2.4", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Globus Software Package", 
@@ -948,7 +1185,10 @@
       "AppName": "globus", 
       "AppVersion": "5.2.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Globus Software Package", 
@@ -960,7 +1200,10 @@
       "AppName": "gx-map", 
       "AppVersion": "0.5.3.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid GX-Map utility", 
@@ -972,7 +1215,10 @@
       "AppName": "tgproxy", 
       "AppVersion": "0.9.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid Proxy utility", 
@@ -984,7 +1230,10 @@
       "AppName": "xdusage", 
       "AppVersion": "1.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "XSede Usage utility", 
@@ -996,7 +1245,10 @@
       "AppName": "pacman", 
       "AppVersion": "3.29", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TeraGrid Pacman utility", 
@@ -1008,7 +1260,10 @@
       "AppName": "jdk32", 
       "AppVersion": "1.7.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Java", 
@@ -1020,7 +1275,10 @@
       "AppName": "soap", 
       "AppVersion": "1.05", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "ssake - a genomics application for assembling millions of very short DNA sequences", 
@@ -1032,7 +1290,10 @@
       "AppName": "cuda", 
       "AppVersion": "5.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "NVIDIA CUDA Toolkit for Linux", 
@@ -1044,7 +1305,10 @@
       "AppName": "sratoolkit", 
       "AppVersion": "2.1.16", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for using data in the INSDC Sequence Read Archives.", 
@@ -1056,7 +1320,10 @@
       "AppName": "tabix", 
       "AppVersion": "0.2.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Indexes a tab-delimited genome position file in.tab.bgz and creates an index file.", 
@@ -1068,7 +1335,10 @@
       "AppName": "h5utils", 
       "AppVersion": "1.12.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "contains several programs to post-process HDF54 data.", 
@@ -1079,7 +1349,10 @@
       "AppName": "scythe", 
       "AppVersion": "0.95", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "A very simple 3' adapter trimmer", 
@@ -1091,7 +1364,10 @@
       "AppName": "valgrind", 
       "AppVersion": "3.8.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Dynamic memory testing and debugging tools", 
@@ -1103,7 +1379,10 @@
       "AppName": "sabre", 
       "AppVersion": "1.00", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "barcode demultiplexing and trimming tool for FastQ files", 
@@ -1115,7 +1394,10 @@
       "AppName": "python", 
       "AppVersion": "2.7.3-epd-7.3.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "interpreted programming language", 
@@ -1127,7 +1409,10 @@
       "AppName": "spider", 
       "AppVersion": "21.01", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "spider - an image processing system for electron microscopy", 
@@ -1139,7 +1424,10 @@
       "AppName": "mummer", 
       "AppVersion": "3.23", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "MUMmer - A modular system for the rapid whole genome alignment of finished or draft sequence", 
@@ -1151,7 +1439,10 @@
       "AppName": "minimac", 
       "AppVersion": "20121116", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Low-memory Markov Chain-based haplotyper", 
@@ -1163,7 +1454,10 @@
       "AppName": "sickle", 
       "AppVersion": "1.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "A windowed adaptive trimming tool for FASTQ files using quality", 
@@ -1175,7 +1469,10 @@
       "AppName": "bedtools", 
       "AppVersion": "2.17.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "bedtools: a flexible suite of utilities for comparing genomic features", 
@@ -1187,7 +1484,10 @@
       "AppName": "allpathslg", 
       "AppVersion": "45166", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "ALLPATHS-LG - Broad Institute assembler for complex eukaryote genomes", 
@@ -1199,7 +1499,10 @@
       "AppName": "perl", 
       "AppVersion": "5.16.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Perl", 
@@ -1211,7 +1514,10 @@
       "AppName": "matlab", 
       "AppVersion": "2013a", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Matlab 2013a from MathWorks", 
@@ -1223,7 +1529,10 @@
       "AppName": "bwa", 
       "AppVersion": "0.6.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "bwa - Burrows-Wheeler Alignment Tool", 
@@ -1235,7 +1544,10 @@
       "AppName": "perfexpert", 
       "AppVersion": "3.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Performance Bottleneck Remediation Tool", 
@@ -1247,7 +1559,10 @@
       "AppName": "blat", 
       "AppVersion": "35", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "BLAST like alignment tool", 
@@ -1259,7 +1574,10 @@
       "AppName": "intel", 
       "AppVersion": "13.0.2.146", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Intel Compiler Family (C/C++/Fortran for x86_64)", 
@@ -1271,7 +1589,10 @@
       "AppName": "intel", 
       "AppVersion": "13.0.079", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Intel Compiler Family (C/C++/Fortran for x86_64)", 
@@ -1283,7 +1604,10 @@
       "AppName": "intel", 
       "AppVersion": "13.0.1.117", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Intel Compiler Family (C/C++/Fortran for x86_64)", 
@@ -1295,7 +1619,10 @@
       "AppName": "ncl_ncarg", 
       "AppVersion": "6.1.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "A library of graphics utilites from the Natl. Center for Atmospheric Research.", 
@@ -1307,7 +1634,10 @@
       "AppName": "mach", 
       "AppVersion": "1.0.18", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Markov Chain based haplotyper", 
@@ -1319,7 +1649,10 @@
       "AppName": "autodock_vina", 
       "AppVersion": "1.1.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Open-source program for drug discovery, molecular docking and virtual screening, offering multi-core capability, high performance and enhanced accuracy and ease of use.", 
@@ -1331,7 +1664,10 @@
       "AppName": "cufflinks", 
       "AppVersion": "2.0.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "cufflinks - Transcript assembly, differential expression, and differential regulation for RNA-Seq", 
@@ -1343,7 +1679,10 @@
       "AppName": "express", 
       "AppVersion": "1.3.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "express - Streaming quantification for high-throughput sequencing", 
@@ -1355,7 +1694,10 @@
       "AppName": "fastqc", 
       "AppVersion": "0.10.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "fastqc - A Quality Control application for FastQ files", 
@@ -1367,7 +1709,10 @@
       "AppName": "newbler", 
       "AppVersion": "2.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Newbler is a software package for de novo DNA sequence assembly. It is designed specifically for assembling sequence data generated by the 454 GS-series of pyrosequencing platforms sold by 454 Life Sciences, a Roche Diagnostics company.", 
@@ -1379,7 +1724,10 @@
       "AppName": "luatools", 
       "AppVersion": "1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Library tools", 
@@ -1391,7 +1739,10 @@
       "AppName": "gaussian", 
       "AppVersion": "09", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Gaussian 09 quantum chemistry package", 
@@ -1403,7 +1754,10 @@
       "AppName": "idl", 
       "AppVersion": "7.0.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "ID": "urn:glue2:ApplicationEnvironment:7.0.6.idl.stampede.tacc.xsede.org", 
@@ -1414,7 +1768,10 @@
       "AppName": "idl", 
       "AppVersion": "7.0.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "IDL interactive graphing and visualization toolkit", 
@@ -1426,7 +1783,10 @@
       "AppName": "cmake", 
       "AppVersion": "2.8.9", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "tool for generation of files from source", 
@@ -1438,7 +1798,10 @@
       "AppName": "autotools", 
       "AppVersion": "1.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Developer utilities", 
@@ -1449,7 +1812,10 @@
       "AppName": "tophat", 
       "AppVersion": "2.0.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "TopHat2 is a fast splice junction mapper for RNA-Seq reads. It aligns RNA-Seq reads to mammalian-sized genomes using the ultra high-throughput short read aligner Bowtie, and then analyzes the mapping results to identify splice junctions between exons.", 
@@ -1461,7 +1827,10 @@
       "AppName": "launcher", 
       "AppVersion": "1.4", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Utility for starting parametric job sweeps", 
@@ -1472,7 +1841,10 @@
       "AppName": "geant4", 
       "AppVersion": "9.5.p02", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "geant4 - Toolkit for the simulation of the passage of particles through matter. ", 
@@ -1484,7 +1856,10 @@
       "AppName": "irods", 
       "AppVersion": "2.5", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "iRODS client programs", 
@@ -1496,7 +1871,10 @@
       "AppName": "plink", 
       "AppVersion": "1.07", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "plink - Whole genome association analysis toolset", 
@@ -1508,7 +1886,10 @@
       "AppName": "openbabel", 
       "AppVersion": "2.3.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "openbabal - chemical toolbox designed to speak the many languages of chemical data ", 
@@ -1520,7 +1901,10 @@
       "AppName": "picard", 
       "AppVersion": "1.83", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Picard comprises Java-based command-line utilities that manipulate SAM files, and a Java API (SAM-JDK) for creating new programs that read and write SAM files. Both SAM text format and SAM binary (BAM) format are supported.", 
@@ -1532,7 +1916,10 @@
       "AppName": "pedcheck", 
       "AppVersion": "1.00", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "pedcheck - Program for detecting marker typing incompatibilities in pedigree data", 
@@ -1544,7 +1931,10 @@
       "AppName": "autodock", 
       "AppVersion": "4.2.5.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "autodock - a suite of automated docking tools. It is designed to predict how small molecules, such as substrates or drug candidates, bind to a receptor of known 3D structure.", 
@@ -1556,7 +1946,10 @@
       "AppName": "velvet", 
       "AppVersion": "1.2.08", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Velvet - Sequence assembler for very short reads", 
@@ -1568,7 +1961,10 @@
       "AppName": "trinityrnaseq", 
       "AppVersion": "r20121005", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Package for RNA-Seq de novo Assembly", 
@@ -1580,7 +1976,10 @@
       "AppName": "bioperl", 
       "AppVersion": "1.6.901", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "BioPerl", 
@@ -1592,7 +1991,10 @@
       "AppName": "hpctoolkit", 
       "AppVersion": "5.3.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Profiler", 
@@ -1604,7 +2006,10 @@
       "AppName": "samtools", 
       "AppVersion": "0.1.18", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.", 
@@ -1616,7 +2021,10 @@
       "AppName": "lmod", 
       "AppVersion": "5.0rc2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "An environment module system", 
@@ -1628,7 +2036,10 @@
       "AppName": "dizzy", 
       "AppVersion": "1.11.4", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "dizzy -chemical kinetics stochastic simulation software package written in Java.", 
@@ -1640,7 +2051,10 @@
       "AppName": "bowtie", 
       "AppVersion": "2.0.5", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Ultrafast, memory-efficient short read aligner", 
@@ -1652,7 +2066,10 @@
       "AppName": "bismark", 
       "AppVersion": "0.7.7", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "bismark - A tool to map bisulfite converted sequence reads and determine cytosine", 
@@ -1664,7 +2081,10 @@
       "AppName": "soaptrans", 
       "AppVersion": "1.01", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "de novo transcriptome assembler basing on the SOAPdenovo", 
@@ -1676,7 +2096,10 @@
       "AppName": "scripture", 
       "AppVersion": "07092012", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "ID": "urn:glue2:ApplicationEnvironment:07092012.scripture.stampede.tacc.xsede.org", 
@@ -1687,7 +2110,10 @@
       "AppName": "octave", 
       "AppVersion": "3.6.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "is a high-level language, primarily intended for numerical computations.", 
@@ -1699,7 +2125,10 @@
       "AppName": "oases", 
       "AppVersion": "0.2.08", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "De novo transcriptome assembler for very short reads", 
@@ -1711,7 +2140,10 @@
       "AppName": "papi", 
       "AppVersion": "4.4.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Interface to monitor performance counter hardware for quantifying application behavior", 
@@ -1723,7 +2155,10 @@
       "AppName": "R", 
       "AppVersion": "2.15.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "statistics package", 
@@ -1735,7 +2170,10 @@
       "AppName": "gatk", 
       "AppVersion": "2.3.9", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "ID": "urn:glue2:ApplicationEnvironment:2.3.9.gatk.stampede.tacc.xsede.org", 
@@ -1746,7 +2184,10 @@
       "AppName": "lastz", 
       "AppVersion": "1.03.02", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "An efficient pairwise aligner", 
@@ -1758,7 +2199,10 @@
       "AppName": "ddt", 
       "AppVersion": "3.2.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Parallel, graphical, symbolic debugger", 
@@ -1770,7 +2214,10 @@
       "AppName": "git", 
       "AppVersion": "1.8.1.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Fast Version Control System", 
@@ -1782,7 +2229,10 @@
       "AppName": "mafft", 
       "AppVersion": "7.017", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Multiple alignment program for amino acid or nucleotide sequences", 
@@ -1794,7 +2244,10 @@
       "AppName": "gcc", 
       "AppVersion": "4.7.1", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "ID": "urn:glue2:ApplicationEnvironment:4.7.1.gcc.stampede.tacc.xsede.org", 
@@ -1805,7 +2258,10 @@
       "AppName": "gcc", 
       "AppVersion": "4.6.3", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "ID": "urn:glue2:ApplicationEnvironment:4.6.3.gcc.stampede.tacc.xsede.org", 
@@ -1816,7 +2272,10 @@
       "AppName": "gcc", 
       "AppVersion": "4.4.6", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "ID": "urn:glue2:ApplicationEnvironment:4.4.6.gcc.stampede.tacc.xsede.org", 
@@ -1827,7 +2286,10 @@
       "AppName": "fastx_toolkit", 
       "AppVersion": "0.0.13.2", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "FASTX Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.", 
@@ -1839,7 +2301,10 @@
       "AppName": "pylauncher", 
       "AppVersion": "2.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "flexible parametric job launcher", 
@@ -1851,7 +2316,10 @@
       "AppName": "freesurfer", 
       "AppVersion": "5.1.0", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "freesurfer - a set of tools for analysis and visualization of structural and functional brain imaging data.", 
@@ -1863,7 +2331,10 @@
       "AppName": "qt", 
       "AppVersion": "4.8.4", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "a visual widget library for UI construction", 
@@ -1875,7 +2346,10 @@
       "AppName": "gsnap", 
       "AppVersion": "20120720", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "gsnap - Genomic Short-read Nucleotide Alignment Program", 
@@ -1887,7 +2361,10 @@
       "AppName": "vtune", 
       "AppVersion": "13.update5", 
       "Associations": {
-        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org"
+        "ComputingManagerID": "urn:glue2:ComputingManager:stampede.tacc.xsede.org", 
+        "ExecutionEnvironmentID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.stampede.tacc.xsede.org"
+        ]
       }, 
       "CreationTime": "2013-05-05T22:03:02Z", 
       "Description": "Intel VTune Amplifier (C/C++/Fortran for x86_64)", 

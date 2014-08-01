@@ -26,10 +26,12 @@
           }
         },
         "LocationID": {
-          "type": "string",
+          "type": ["string","null"],
           "description": "The ID of the primary Location for this Domain"
         }
-      }
+      },
+      "required": ["LocationID"]
     }
-  }
+  },
+  "required": ["Associations"]
 }

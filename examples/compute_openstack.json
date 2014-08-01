@@ -2,6 +2,7 @@
   "ComputingEndpoint": [
     {
       "Associations": {
+        "ShareID": [],
         "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
       }, 
       "Capability": [
@@ -24,6 +25,7 @@
     }, 
     {
       "Associations": {
+        "ShareID": [],
         "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
       }, 
       "Capability": [
@@ -48,6 +50,9 @@
   "ComputingManager": [
     {
       "Associations": {
+        "ResourceID": [
+          "urn:glue2:ExecutionEnvironment:NodeType1.openstack.alamo.futuregrid.org"
+        ], 
         "ServiceID": "urn:glue2:ComputingService:openstack.alamo.futuregrid.org"
       }, 
       "BulkSubmission": true, 
@@ -68,14 +73,9 @@
   "ComputingService": [
     {
       "Associations": {
-        "EndpointID": [
-          "urn:glue2:ComputingEndpoint:openstack-ec2.openstack.alamo.futuregrid.org", 
-          "urn:glue2:ComputingEndpoint:openstack-nova.openstack.alamo.futuregrid.org"
-        ], 
+        "ContactID": [],
         "LocationID": "urn:glue2:Location:TexasAdvancedComputingCenter", 
-        "ManagerID": [
-          "urn:glue2:ComputingManager:openstack.alamo.futuregrid.org"
-        ]
+        "ServiceID": []
       }, 
       "Capability": [
         "executionmanagement.jobexecution", 

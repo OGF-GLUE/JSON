@@ -33,7 +33,7 @@
           }
         },
         "ParentDomainID": {
-          "type": "string",
+          "type": ["string","null"],
           "description": "The ID of the AdminDomain that this AdminDomain participates in"
         },
         "ComputingServiceID": {
@@ -50,7 +50,9 @@
             "type": "string"
           }
         }
-      }
+      },
+      "required": ["ParentDomainID"]
     }
-  }
+  },
+  "required": ["Associations"]
 }

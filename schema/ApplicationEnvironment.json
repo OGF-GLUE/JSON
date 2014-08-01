@@ -85,7 +85,7 @@
           }
         }
       },
-      "required": ["ComputingManagerID"]
+      "required": ["ExecutionEnvironmentID","ComputingManagerID"]
     }
   },
   "required": ["AppName","Associations"]
