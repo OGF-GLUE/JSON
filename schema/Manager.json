@@ -17,11 +17,11 @@
       "properties": {
 	"ServiceID": {
 	  "type": "string",
-	  "description": "The ID of the Service this Share participates in"
+	  "description": "The ID of the Service this Manager participates in"
 	},
 	"ResourceID": {
 	  "type": "array",
-	  "description": "ID(s) of Resources associated with this Share",
+	  "description": "ID(s) of Resources associated with this Manager",
 	  "items": {
 	    "type": "string"
 	  },
