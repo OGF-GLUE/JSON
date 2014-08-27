@@ -5,11 +5,11 @@
   "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Manager.json"}],
   "properties": {
     "Reservation": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "Whether advance reservation is supported (no value implies undefined in ExtendedBoolean_t)"
     },
     "BulkSubmission": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "Whether multiple jobs can be submitted at once (no value implies undefined in ExtendedBoolean_t)"
     },
     "TotalPhysicalCPUs": {
@@ -33,7 +33,7 @@
       "description": "The number of slots currently used by jobs submitted via a non-Grid interface"
     },
     "Homogeneous": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "Whether this ComputingManager manages only one type of ExecutionEnvironment"
     },
     "NetworkInfo": {
@@ -44,15 +44,15 @@
       }
     },
     "LocalCPUDistribution": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "Classification of the managed ExecutionEnvironments aggregated by the number of logical CPUs"
     },
     "WorkingAreaShared": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "True if the working area is shared across different ExecutionEnvironments"
     },
     "WorkingAreaGuaranteed": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "True if the job is guaranteed all of WorkingAreaTotal"
     },
     "WorkingAreaTotal": {

@@ -5,7 +5,7 @@
   "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Domain.json"}],
   "properties": {
     "Distributed": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "true if the services managed by the AdminDomain are geographically distributed"
     },
     "Owner": {

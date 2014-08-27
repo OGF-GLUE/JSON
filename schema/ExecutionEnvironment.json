@@ -9,7 +9,7 @@
       "description": "The platform architecture - Platform_t (open enumeration)"
     },
     "VirtualMachine": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "True if the ExecutionEnvironment is a virtual machine"
     },
     "TotalInstances": {
@@ -82,11 +82,11 @@
       "description": "The version of the operating system, as defined by the vendor"
     },
     "ConnectivityIn": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "True if direct inbound network connectiity is available to a running job"
     },
     "ConnectivityOut": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "True if direct outbound network connectiity is available to a running job"
     },
     "NetworkInfo": {

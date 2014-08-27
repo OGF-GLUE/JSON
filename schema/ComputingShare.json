@@ -97,7 +97,7 @@
       "description": "The ID of the default StorageService used to store files"
     },
     "Preemption": {
-      "type": "boolean",
+      "type": ["boolean","null"],
       "description": "Whether jobs can be preempted and resumed (no value implies undefined in ExtendedBoolean_t)"
     },
     "ServingState": {
