@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/ComputingService.json",
+  "id": "http://schemas.ogf.org/glue/2014/11/spec_2.0_r1/ComputingService.json",
   "type": "object",
-  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2013/05/spec_2.0_r1/Service.json"}],
+  "allOf": [{"$ref": "http://schemas.ogf.org/glue/2014/11/spec_2.0_r1/Service.json"}],
   "properties": {
     "TotalJobs": {
       "type": "integer",
