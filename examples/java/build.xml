@@ -1,0 +1,52 @@
+<project name="glue2-json"
+         default="all"
+         basedir=".">
+  <description></description>
+
+  <path id="classpath">
+    <!--
+    <fileset dir="jsonschema2pojo-0.4.7/lib"> 
+      <include name="*.jar"/> 
+    </fileset>
+    -->
+    <fileset dir="lib"> 
+      <include name="*.jar"/> 
+    </fileset>
+    <pathelement location="classes"/>
+  </path>
+
+  <target name="all" depends="jar"/>
+
+  <target name="jar" depends="src">
+    <jar destfile="glue2.jar" basedir="classes"/>
+  </target>
+
+  <target name="src">
+    <mkdir dir="classes"/>
+    <javac includeantruntime="false"
+	   srcdir="${basedir}/src"
+	   destdir="${basedir}/classes"
+	   debug="on"
+	   classpathref="classpath">
+      <compilerarg value="-Xlint"/>
+    </javac>
+  </target>
+
+  <target name="run" depends="src">
+    <java fork="true" classname="Glue2Pojo" classpathref="classpath">
+      <arg value="${file}"/>
+    </java>
+  </target>
+
+  <target name="clean">
+    <delete dir="classes"/>
+  </target>
+
+  <target name="veryclean" depends="clean">
+    <delete>
+      <fileset dir="." includes="*~" defaultexcludes="no"/>
+      <fileset dir="src" includes="*~" defaultexcludes="no"/>
+    </delete>
+  </target>
+
+</project>
