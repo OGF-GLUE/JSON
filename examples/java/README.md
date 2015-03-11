@@ -42,3 +42,12 @@ The last version tested is 0.4.7.
 
 3. Execute `python generate_pojo.py` to generate the Java classes in `src/org/ogf/glue2`. See that script for
 the customizations performed to the jsonschema files and the generated Java classes.
+
+## Generating Java classes with Maven
+
+An example maven project file *pom.xml* is provided to generate the Java classes in your project using the maven software.
+
+Usage: mvn package
+
+* JSONSchema2Pojo Plug-in [overview](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started#the-maven-plugin)
+* Detailed plug-in [configuration](http://joelittlejohn.github.io/jsonschema2pojo/site/0.4.8/generate-mojo.html)
