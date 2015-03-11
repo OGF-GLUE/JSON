@@ -4,7 +4,10 @@
 	<groupId>org.ogf.glue2</groupId>
 	<artifactId>glue2-json</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<description>Example maven project file to generate Java bindings of the GLUE 2.0 JSON schemas</description>
+	<description>
+		Example maven project file to generate Java bindings/classes of the GLUE 2.0 JSON schemas
+		Usage: $> mvn package
+	</description>
 	<dependencies>
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
@@ -20,7 +23,7 @@
 	<build>
 		<plugins>
 			<plugin>
-				<!-- Full documentation is available on https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started -->
+				<!-- Full documentation of the plugin is available on https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started -->
 				<groupId>org.jsonschema2pojo</groupId>
 				<artifactId>jsonschema2pojo-maven-plugin</artifactId>
 				<version>0.4.9</version>
