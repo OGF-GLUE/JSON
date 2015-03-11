@@ -1,0 +1,60 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.ogf.glue2</groupId>
+	<artifactId>glue2-json</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<description>Example maven project file to generate Java bindings of the GLUE 2.0 JSON schemas</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.5.1</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+			<version>2.6</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<!-- Full documentation is available on https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started -->
+				<groupId>org.jsonschema2pojo</groupId>
+				<artifactId>jsonschema2pojo-maven-plugin</artifactId>
+				<version>0.4.9</version>
+				<configuration>
+					<!-- More configuration parameters are mentioned on http://joelittlejohn.github.io/jsonschema2pojo/site/0.4.8/generate-mojo.html -->
+					<!-- Location of the JSON Schema file(s). Note: this may refer to a 
+						single file or a directory of files. -->
+					<sourceDirectory>${basedir}/src/main/resources/schemas</sourceDirectory>
+
+					<!-- Package name used for generated Java classes (for types where a 
+						fully qualified name has not been supplied in the schema using the 'javaType' 
+						property). -->
+					<targetPackage>org.ogf.glue2</targetPackage>
+
+					<!-- Target directory for generated Java source files. Default value 
+						is: ${project.build.directory}/java-gen. -->
+					<outputDirectory>${project.build.directory}/java-gen</outputDirectory>
+				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
