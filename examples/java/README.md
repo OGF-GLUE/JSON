@@ -47,7 +47,11 @@ the customizations performed to the jsonschema files and the generated Java clas
 
 An example maven project file *pom.xml* is provided to generate the Java classes in your project using the maven software.
 
-Usage: mvn package
+### Pre-requisite
+* Maven v2.x+
+* Java 1.7+
 
-* JSONSchema2Pojo Plug-in [overview](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started#the-maven-plugin)
+Usage: On command prompt go to the project's base folder project and type *mvn package*
+
+* JSONSchema2Pojo plug-in [overview](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started#the-maven-plugin)
 * Detailed plug-in [configuration](http://joelittlejohn.github.io/jsonschema2pojo/site/0.4.8/generate-mojo.html)
