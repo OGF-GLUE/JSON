@@ -51,7 +51,7 @@ An example maven project file *pom.xml* is provided to generate the Java classes
 * Maven v2.x+
 * Java 1.7+
 
-Usage: On command prompt go to the project's base folder project and type *mvn package*
+Usage: On command prompt go to the project's base folder and type *mvn package*
 
 * JSONSchema2Pojo plug-in [overview](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started#the-maven-plugin)
 * Detailed plug-in [configuration](http://joelittlejohn.github.io/jsonschema2pojo/site/0.4.8/generate-mojo.html)
